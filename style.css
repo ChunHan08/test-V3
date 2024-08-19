@@ -151,3 +151,114 @@ body{
   border: 1px solid #8bc0e9;
   user-select: none;
 }
+.quiz_box header .time_line{
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  height: 3px;
+  background: #8bc0e9;
+}
+section{
+  padding: 25px 30px 20px 30px;
+  background: #fff;
+}
+section .que_text{
+  font-size: 25px;
+  font-weight: 600;
+}
+section .option_list{
+  padding: 20px 0;
+  display: block;
+}
+section .option_list .option{
+  background: aliceblue;
+  border: 1px solid #8bc0e9;
+  border-radius: 5px;
+  padding: 8px 15px;
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+section .option_list .option:hover{
+  color: #6f9127;
+  background: #8bc0e9;
+  border-color: #8bc0e9;
+}
+section .option_list .option.correct{
+  color: #6f9127;
+  background: #8bc0e9;
+  border: 1px sold #8bc0e9;
+}
+section .option_list .option.incorrect{
+  color: #f00f0f;
+  background: #8bc0e9;
+  border: 1px sold #8bc0e9;
+}
+section .option_list .option.disabled{
+  pointer-events: none;
+}
+section .option_list .option .icon{
+  height: 26px;
+  width: 26px;
+  border: 2px solid transparent;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 13px;
+  line-height: 24px;
+  position: none;
+  pointer-events: none;
+  transition: all 0.3s ease;
+}
+.option_list .option .icon.tick{
+  color: #23903c;
+  border-color: #23903c;
+  background: #d4edda;
+}
+.option_list .option .icon.cross{
+  color: #a42834;
+  background: #f8d7da;
+  border-color: #a42834;
+}
+footer{
+  height: 60px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 1px solid lightgrey;
+}
+footer .total_que span{
+  display: flex;
+  user-select: none;
+}
+footer .total_que span p{
+  font-weight: 500;
+  padding: 0 5px;
+}
+footer .total_que span p:first-child{
+  padding-left: 0px;
+}
+footer button {
+  height: 40px;
+  padding: 0 20px;
+  width: 100px;
+  margin: 0 5px;
+  font-size: 18px;
+  font-weight: 400;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  color: #fff;
+  border-radius: 5px;
+  border: 1px solid #8bc0e9;
+  transition: all 0.3s ease;
+  line-height: 10px;
+  opacity: 0;
+  pointer-events: none;
+  transform: scale(0.95);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
