@@ -262,3 +262,27 @@ footer button {
   cursor: pointer;
   transition: all 0.3s ease;
 }
+
+footer button:hover{
+  background: #0253ca;
+}
+footer button.show{
+  opacity: 1;
+  pointer-events: auto;
+  transform: scale(1);
+}
+.result_box{
+  display: flex;
+  width: 450px;
+  background: #fff;
+  border-radius: 5px;
+  padding: 25px 30px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  opacity: 0;
+  pointer-events: none;
+  transform: translate(-50%, -50%) scale(0.9);
+  transition: all 0.3s ease;
+}
