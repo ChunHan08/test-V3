@@ -354,12 +354,113 @@ let questions = [
   {
     numb: 33,
     question: "What song is this lyric from: One more sleepless night",
-    answer: "I dont wanna break up again",
+    answer: "I don't wanna break up again",
     options: [
       "Supernatural",
-      "Enternal sunshine",
+      "Eternal sunshine",
       "We cant be friends",
       "I dont wanna break up again",
     ]
   },
+  {
+    numb: 34,
+    question: "What song is this lyric from: That's when we gotta wake up and smell the coffee",
+    answer: "Saturn Returns Interlude",
+    options: [
+      "Saturn Returns Interlude",
+      "The Boy is Mine",
+      "We can't be friends",
+      "True Story",
+    ]
+  },
+  {
+    numb: 35,
+    question: "What song is this lyric from: I've never seen someone lie like you do",
+    answer: "Eternal sunshine",
+    options: [
+      "yes,and?",
+      "Supernatural",
+      "Eternal sunshine",
+      "i wish i hated you",
+    ]
+  },
+  {
+    numb: 36,
+    question: "What song is this lyric from: You're like the only thing that I see",
+    answer: "Supernatural",
+    options: [
+      "We can't be friends",
+      "True Story",
+      "I wish I hated you",
+      "Supernatural",
+    ]
+  },
+  {
+    numb: 37,
+    question: "What song is this lyric from: Gimme love, love, gimme love, love",
+    answer: "True Story",
+    options: [
+      "yes,and?",
+      "Imperfect for you",
+      "ordinary things",
+      "True Story",
+    ]
+  },
+  {
+    numb: 38,
+    question: "What song is this lyric from: But I don't wanna cause no scene",
+    answer: "The Boy Is Mine",
+    options: [
+      "The Boy Is Mine",
+      "We can't be friends",
+      "True Story",
+      "I wish I hated you",
+    ]
+  },
+  {
+    numb: 39,
+    question: "What song is this lyric from: Keep movin' like, What's next?",
+    answer: "Yes,And?",
+    options: [
+      "We can't be friends",
+      "I wish I hated you",
+      "Yes,And?",
+      "I don't wanna break up again",
+    ]
+  },
+  {
+    numb: 40,
+    question: "What song is this lyric from: But I don't wanna feed this monstrous fire",
+    answer: "We Can't Be Friends",
+    options: [
+      "We Can't Be Friends",
+      "Supernatural",
+      "True Story",
+      "Ordinary Thing",
+    ]
+  },
+  {
+    numb: 41,
+    question: "What song is this lyric from: And no matter how guilty I still feel saying it",
+    answer: "I wish I hated you",
+    options: [
+      "I wish I hated you",
+      "Supernatural",
+      "Imperfect for you",
+      "I don't wanna break up again",
+    ]
+  },
+  {
+    numb: 42,
+    question: "What song is this lyric from: But I'll hold your hurt in the box here beside me",
+    answer: "Imperfect for you",
+    options: [
+      "Ordinary Things",
+      "True Story",
+      "I wish I hated you",
+      "Imperfect for you",
+    ]
+  },
+  {
+
 ]
