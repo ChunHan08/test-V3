@@ -648,6 +648,113 @@ let questions = [
     ]
   },
   {
-    
-  }
+    numb: 60,
+    question: "What song is this lyric from: Tell me why I get this feeling",
+    answer: "motive",
+    options: [
+      "West Idea",
+      "Nasty",
+      "Postions",
+      "motive",
+    ]
+  },
+  {
+    numb: 61,
+    question: "What song is this lyric from: 12 o'clock I got a team meeting",
+    answer: "Just Like Magic",
+    options: [
+      "West Idea",
+      "Love Language",
+      "West Side",
+      "Just Like Magic",
+    ]
+  },
+  {
+    numb: 62,
+    question: "What song is this lyric from: Never thought you'd be so damn hard to replace",
+    answer: "Off The Table",
+    options: [
+      "Off The Table",
+      "Love Language",
+      "Nasty",
+      "Test Drive",
+    ]
+  },
+  {
+    numb: 63,
+    question: "What song is this lyric from: Know I be driving you crazy",
+    answer: "six thirty",
+    options: [
+      "West Side",
+      "six thirty",
+      "Nasty",
+      "Obvious",
+    ]
+  },
+  {
+    numb: 64,
+    question: "What song is this lyric from: Only you can tell me that",
+    answer: "Safty Net",
+    options: [
+      "Motive",
+      "Love Lanaguge",
+      "Safty Net",
+      "Obvious",
+    ]
+  },
+  {
+    numb: 65,
+    question: "What song is this lyric from: Like the way you do my mind",
+    answer: "My Hair",
+    options: [
+      "Motive",
+      "West Side",
+      "Obvoius",
+      "My Hair",
+    ]
+  },
+  {
+    numb: 66,
+    question: "What song is this lyric from: You got me all up in my feels",
+    answer: "nasty",
+    options: [
+      "34+35",
+      "Test Drive",
+      "Pov",
+      "nasty",
+    ]
+  },
+  {
+    numb: 67,
+    question: "What song is this lyric from: Just le me be in your life like that",
+    answer: "West Side",
+    options: [
+      "Postsions",
+      "POV",
+      "Obvoius",
+      "West Side",
+    ]
+  },
+  {
+    numb: 68,
+    question: "What song is this lyric from: That make me wanna give it all to you",
+    answer: "Love Language",
+    options: [
+      "Six Thirty",
+      "Nasty",
+      "Postions",
+      "Love Language",
+    ]
+  },
+  {
+    numb: 69,
+    question: "What song is this lyric from: Boy, I'm tryna meet you mama on a Sunday",
+    answer: "Postsions",
+    options: [
+      "Postsions",
+      "Main thing",
+      "Worst Thing",
+      "West Side",
+    ]
+  },
 ]
