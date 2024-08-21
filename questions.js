@@ -131,4 +131,125 @@ let questions = [
       "I Don't Care",
     ]
   },
+  {
+    numb: 13,
+    question: "What song is this lyric from: 'Cause you know when you hear me knockin'",
+    answer: "Bad Decisions",
+    options: [
+      "Moonlight",
+      "Touch It",
+      "Into You",
+      "Bad Decisions",
+    ]
+  },
+  {
+    numb: 14,
+    question: "What song is this lyric from: Why do you say you want me",
+    answer: "Touch It",
+    options: [
+      "Side To Side",
+      "Greed",
+      "Step On Up",
+      "Touch It",
+    ]
+  },
+  {
+    numb: 15,
+    question: "What song is this lyric from: That's the game that you play",
+    answer: "Knew Better",
+    options: [
+      "Knew Better",
+      "Jason's Song",
+      "Step On Up",
+      "Sometimes",
+    ]
+  },
+  {
+    numb: 16,
+    question: "What song is this lyric from: I could still hear your voice",
+    answer: "Thinking Bout You",
+    options: [
+      "Be Alright",
+      "Greedy",
+      "Everyday",
+      "Thinking Bout You",
+    ]
+  },
+  {
+    numb: 17,
+    question: "What song is this lyric from: But I don't mind if you get at me",
+    answer: "Step On Up",
+    options: [
+      "Greedy",
+      "Let Me Love You",
+      "Dangerous Woman",
+      "Step On Up",
+    ]
+  },
+  {
+    numb: 18,
+    question: "What song is this lyric from: You can't outrun the way you undersold me, Hey",
+    answer: "Jason's Song",
+    options: [
+      "Side To Side",
+      "Into You",
+      "Jason's Song",
+      "Be Alright",
+    ]
+  },
+  {
+    numb: 19,
+    question: "What song is this lyric from: ",
+    answer: "Jason's Song",
+    options: [
+      "Side To Side",
+      "Into You",
+      "Jason's Song",
+      "Be Alright",
+    ]
+  },
+  {
+    numb: 20,
+    question: "What song is this lyric from: Me with no makeup, you in the bathtub, bubbles and bubbly, ooh",
+    answer: "imagine",
+    options: [
+      "NASA",
+      "imagine",
+      "Make Up",
+      "Needy",
+    ]
+  },
+  {
+    numb: 21,
+    question: "What song is this lyric from: tryna get a hold oh my emotions",
+    answer: "Needy",
+    options: [
+      "Ghostin",
+      "Needy",
+      "In My Head",
+      "7 Rings",
+    ]
+  },
+  {
+    numb: 22,
+    question: "What song is this lyric from: I'd rather be alone tonight",
+    answer: "NASA",
+    options: [
+      "NASA",
+      "Ghostin",
+      "Break Up With Your girlfriend",
+      "7 Rings",
+    ]
+  },
+  {
+    numb: 21,
+    question: "What song is this lyric from: Even though you're bad for me, I know",
+    answer: "Bloodline",
+    options: [
+      "Make up",
+      "Thank u, next",
+      "Bloodline",
+      "7 Rings",
+    ]
+  },
 ]
