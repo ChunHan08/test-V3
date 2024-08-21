@@ -242,7 +242,7 @@ let questions = [
     ]
   },
   {
-    numb: 21,
+    numb: 23,
     question: "What song is this lyric from: Even though you're bad for me, I know",
     answer: "Bloodline",
     options: [
@@ -250,6 +250,116 @@ let questions = [
       "Thank u, next",
       "Bloodline",
       "7 Rings",
+    ]
+  },
+  {
+    numb: 24,
+    question: "What song is this lyric from: Ièm sorry, it's time to leave, I gotta leave now",
+    answer: "Fake Smile",
+    options: [
+      "Bad Idea",
+      "In My Head",
+      "Ghostin",
+      "Fake Smile",
+    ]
+  },
+  {
+    numb: 25,
+    question: "What song is this lyric from: Gotta find somebody quickly",
+    answer: "Bad Idea",
+    options: [
+      "Bad Idea",
+      "7 Rings",
+      "Thank You next",
+      "Fake Smile",
+    ]
+  },
+  {
+    numb: 26,
+    question: "What song is this lyric from:I might break up with you just to make up with up",
+    answer: "Make Up",
+    options: [
+      "Bad Idea",
+      "Thank you Next",
+      "Break Up with your girlfriend",
+      "Fake Smile",
+    ]
+  },
+  {
+    numb: 27,
+    question: "What song is this lyric from: I try to holid it in at night",
+    answer: "Ghostin",
+    options: [
+      "Bloodline",
+      "7 Rings",
+      "Imagine",
+      "Ghostin",
+    ]
+  },
+  {
+    numb: 28,
+    question: "What song is this lyric from: Gucci Tennis shoes runnning from your issues",
+    answer: "In My Head",
+    options: [
+      "Bad Idea",
+      "Break Up With Your girlfriend",
+      "In My Head",
+      "Ghostin",
+    ]
+  },
+  {
+    numb: 29,
+    question: "What song is this lyric from: Lashes and diamonds, ATM machines",
+    answer: "7 Rings",
+    options: [
+      "7 Rings",
+      "Thank u Next",
+      "Fake smile",
+      "Make up",
+    ]
+  },
+  {
+    numb: 30,
+    question: "What song is this lyric from: Wrote some songs abour Ricky, Now I listen and laugh",
+    answer: "Thank u Next",
+    options: [
+      "Bad Idea",
+      "Fake Smile",
+      "Bad Idea",
+      "Ghostin",
+    ]
+  },
+  {
+    numb: 31,
+    question: "What song is this lyric from: But I know I shouldn't think about it",
+    answer: "In My Head",
+    options: [
+      "Bad Idea",
+      "Break Up With Your girlfriend",
+      "Fake Smile",
+      "Nasa",
+    ]
+  },
+  {
+    numb: 32,
+    question: "What song is this lyric from: So I grab my stuff Countnt just pulled up",
+    answer: "Bye",
+    options: [
+      "Bye",
+      "Imperfect for you",
+      "Yes And",
+      "true story",
+    ]
+  },
+  {
+    numb: 33,
+    question: "What song is this lyric from: One more sleepless night",
+    answer: "I dont wanna break up again",
+    options: [
+      "Supernatural",
+      "Enternal sunshine",
+      "We cant be friends",
+      "I dont wanna break up again",
     ]
   },
 ]
