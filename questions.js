@@ -462,5 +462,91 @@ let questions = [
     ]
   },
   {
-
+    numb: 43,
+    question: "What song is this lyric from: Hypothetically, we could do anything that we like",
+    answer: "Ordinary Things",
+    options: [
+      "I don't wanna break up again",
+      "Supernatural",
+      "True Story",
+      "Ordinary Things",
+    ]
+  },
+  {
+    numb: 44,
+    question: "What song is this lyric from: Hey baby even though I hate ya",
+    answer: "Problem",
+    options: [
+      "Problem",
+      "One Last Time",
+      "Only 1",
+      "I don't wanna break up again",
+    ]
+  },
+  {
+    numb: 45,
+    question: "What song is this lyric from: Feel like a failure, 'cause I know that I failed you",
+    answer: "One Last Time",
+    options: [
+      "One Last Time",
+      "Only 1",
+      "Problem",
+      "Love Me Harder",
+    ]
+  },
+  {
+    numb: 46,
+    question: "What song is this lyric from: Kills me, how you love me, then you",
+    answer: "Why Try",
+    options: [
+      "Be My Baby",
+      "Why Try",
+      "Me Everything",
+      "Bang Bang",
+    ]
+  },
+  {
+    numb: 47,
+    question: "What song is this lyric from: Never by the hands of a broken heart",
+    answer: "Break Free",
+    options: [
+      "Hands On Me",
+      "Break Free",
+      "Only 1",
+      "Be My Baby",
+    ]
+  },
+  {
+    numb: 48,
+    question: "What song is this lyric from: Dealing with emotions, that never left",
+    answer: "Best Mistake",
+    options: [
+      "Best Mistake",
+      "Love me Harder",
+      "Hands On Me",
+      "Bang Bang",
+    ]
+  },
+  {
+    numb: 49,
+    question: "What song is this lyric from: Hold me close under the covers",
+    answer: "Be My Baby",
+    options: [
+      "Love Me Harder",
+      "Hands On Me",
+      "Break Free",
+      "Be My Baby",
+    ]
+  },
+  {
+    numb: 50,
+    question: "What song is this lyric from: But baby you were so good, so good",
+    answer: "Break your Heart Right Back",
+    options: [
+      "Only 1",
+      "You Don't Know Me",
+      "Break your Heart Right Back",
+      "Be My Baby",
+    ]
+  }
 ]
