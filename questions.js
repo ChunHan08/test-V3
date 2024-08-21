@@ -548,5 +548,106 @@ let questions = [
       "Break your Heart Right Back",
       "Be My Baby",
     ]
+  },
+  {
+    numb: 51,
+    question: "What song is this lyric from: I'll take the pleasure, take it with the pain",
+    answer: "Love Me Harder",
+    options: [
+      "Only 1",
+      "Love Me Harder",
+      "Bang Bang",
+      "Problem",
+    ]
+  },
+  {
+    numb: 52,
+    question: "What song is this lyric from: That you were just with her",
+    answer: "Just A Little Of Your Heart",
+    options: [
+      "Just A Little Of Your Heart",
+      "Hands On Me",
+      "Break Free",
+    ]
+  },
+  {
+    numb: 53,
+    question: "What song is this lyric from: You just keep your eyes on my you know what",
+    answer: "Hands On Me",
+    options: [
+      "Only 1",
+      "Hands On Me",
+      "Bang Bang",
+      "Problem",
+    ]
+  },
+  {
+    numb: 54,
+    question: "What song is this lyric from: I can't deny, I really miss him",
+    answer: "My Everything",
+    options: [
+      "Break Free",
+      "Love Me Harder",
+      "You Don't Know Me",
+      "My Everything",
+    ]
+  },
+  {
+    numb: 55,
+    question: "What song is this lyric from: But I can give it to you all the time",
+    answer: "Bang Bang",
+    options: [
+      "Bang Bang",
+      "Problem",
+      "Why Try",
+      "Hands On Me",
+    ]
+  },
+  {
+    numb: 56,
+    question: "What song is this lyric from: Lookin' in your eyes, makes me wonder how",
+    answer: "Only 1",
+    options: [
+      "Only 1",
+      "Hands On Me",
+      "Bang Bang",
+      "Problem",
+    ]
+  },
+  {
+    numb: 57,
+    question: "What song is this lyric from: Then they try to tell me who I am",
+    answer: "You Don't Know Me",
+    options: [
+      "Break Free",
+      "You Don't Know Me",
+      "Be My Baby",
+      "Best Mistake",
+    ]
+  },
+  {
+    numb: 58,
+    question: "What song is this lyric from: Love the gamе so I ain't never miss",
+    answer: "Shut Up",
+    options: [
+      "nasty",
+      "Pov",
+      "My Hair",
+      "west idea",
+    ]
+  },
+  {
+    numb: 59,
+    question: "What song is this lyric from: So, what you doing tonight?",
+    answer: "34+35",
+    options: [
+      "West Idea",
+      "Six Thirty",
+      "34+35",
+      "Safty Net",
+    ]
+  },
+  {
+    
   }
 ]
