@@ -757,4 +757,114 @@ let questions = [
       "West Side",
     ]
   },
+  {
+    numb: 70,
+    question: "What song is this lyric from: Others that I've had had to impress me before",
+    answer: "Obvious",
+    options: [
+      "Postsions",
+      "Pov",
+      "34+35",
+      "Obvious",
+    ]
+  },
+  {
+    numb: 71,
+    question: "What song is this lyric from:You got more than 20-20, babe",
+    answer: "POV",
+    options: [
+      "Test Drive",
+      "Pov",
+      "motive",
+      "someone like u",
+    ]
+  },
+  {
+    numb: 72,
+    question: "What song is this lyric from: I've been waiting for someone like you",
+    answer: "Somone Like u",
+    options: [
+      "worst behavior",
+      "nasty",
+      "main thing",
+      "Someone like u",
+    ]
+  },
+  {
+    numb: 73,
+    question: "What song is this lyric from: Give you a set of keys 'cause you own it'",
+    answer: "Test Drive",
+    options: [
+      "Test Drive",
+      "Worst Behavior",
+      "Postions",
+      "POV",
+    ]
+  },
+  {
+    numb: 74,
+    question: "What song is this lyric from: I forgot to mention I'll be there in five",
+    answer: "Worst Behavior",
+    options: [
+      "Shut up",
+      "Worst Behavior",
+      "motive",
+      "nasty",
+    ]
+  },
+  {
+    numb: 75,
+    question: "What song is this lyric from: Been a minute since I tasted something so sweet",
+    answer: "Main Thing",
+    options: [
+      "Main Thing",
+      "just like magic",
+      "off the table",
+      "my hair",
+    ]
+  },
+  {
+    numb: 76,
+    question: "What song is this lyric from: When raindrops fell down from the sky",
+    answer: "Raindrops",
+    options: [
+      "No Tears Left To Cry",
+      "Back To You",
+      "REM",
+      "Raindrops",
+    ]
+  },
+  {
+    numb: 77,
+    question: "What song is this lyric from: Now just come on over",
+    answer: "Blazed",
+    options: [
+      "Blazed",
+      "Everytime",
+      "Breathin'",
+      "better off",
+    ]
+  },
+  {
+    numb: 78,
+    question: "What song is this lyric from: And it was on a day like this, yeah",
+    answer: "R.E.M",
+    options: [
+      "Sweetener",
+      "R.E.M",
+      "The Light is coming",
+      "Raindrops",
+    ]
+  },
+  {
+    numb: 79,
+    question: "What song is this lyric from: you get tired of my control (yuh)",
+    answer: "Everytime",
+    options: [
+      "Better off",
+      "Everytime",
+      "Breathin'",
+      "God Is a woman",
+    ]
+  },
 ]
