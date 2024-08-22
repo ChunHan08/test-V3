@@ -977,4 +977,114 @@ let questions = [
       "better off",
     ]
   },
+  {
+    numb: 90,
+    question: "What song is this lyric from: Systems overloaded, I know theres still room at the top",
+    answer: "get well soon",
+    options: [
+      "R.E.M",
+      "Blazed",
+      "get well soon",
+      "goodnight n go",
+    ]
+  },
+  {
+    numb: 91,
+    question: "What song is this lyric from: I'm ready to make that turn",
+    answer: "Honeymoon Avenue",
+    options: [
+      "Honeymoon Avenue",
+      "Right there",
+      "Piano",
+      "The Way",
+    ]
+  },
+  {
+    numb: 92,
+    question: "What song is this lyric from: I love you more than anything",
+    answer: "Baby I",
+    options: [
+      "Popular Song",
+      "Baby I",
+      "Tattooed Heart",
+      "Almost is never enough",
+    ]
+  },
+  {
+    numb: 93,
+    question: "What song is this lyric from: No, it doesn't have to be forever",
+    answer: "Tattooed Heart",
+    options: [
+      "Daydreamin'",
+      "You'lll never know",
+      "Tattooed Heart",
+      "Almost is never enough",
+    ]
+  },
+  {
+    numb: 94,
+    question: "What song is this lyric from: Baby don't you know you got all my love",
+    answer: "Lovin' it",
+    options: [
+      "Daydreamin'",
+      "Popluar Song",
+      "Piano",
+      "Lovin' it",
+    ]
+  },
+  {
+    numb: 95,
+    question: "What song is this lyric from: I could sing about how love is a losing battle",
+    answer: "Piano",
+    options: [
+      "Almsot is never enough",
+      "Honeymoon Avenue",
+      "Piano",
+      "The Way",
+    ]
+  },
+  {
+    numb: 96,
+    question: "What song is this lyric from: I don't wanna wait for tonight",
+    answer: "Daydreamin'",
+    options: [
+      "Daydreamin'",
+      "Honeymoon Avenue",
+      "The Way",
+      "Better left unsaid",
+    ]
+  },
+  {
+    numb: 97,
+    question: "What song is this lyric from: Say, I'm thinking 'bout her every second, every hour",
+    answer: "They Way",
+    options: [
+      "Popluar Song",
+      "Baby I",
+      "Honeymoon Avenue",
+      "Right there",
+    ]
+  },
+  {
+    numb: 98,
+    question: "What song is this lyric from: Don't be mad to me, 'cause ya been replaced",
+    answer: "Youll never know",
+    options: [
+      "Popluar Song",
+      "Almsot is never enough",
+      "The way",
+      "Youll never know",
+    ]
+  },
+  {
+    numb: 99,
+    question: "What song is this lyric from: Maybe we just wenr't right",
+    answer: "Almost is never enough",
+    options: [
+      "Almost is never enough",
+      "Almost is never enough",
+      "The way",
+      "The Way",
+    ]
+  },
 ]
