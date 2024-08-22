@@ -1273,5 +1273,104 @@ let questions = [
       "Fast Times",
       "Skinny Dipping",
     ]
+  },
+  {
+    numb: 117,
+    question: "What song is this lyric from: There's so much that I don't know",
+    answer: "Eyes Wide Open",
+    options: [
+      "We'll Be The Stars",
+      "Your Love's Like",
+      "Eyes Wide Open",
+      "Opposite",
+    ]
+  },
+  {
+    numb: 118,
+    question: "What song is this lyric from: I do stupid things when it comes to love",
+    answer: "Can't Blame A Girl For Tying",
+    options: [
+      "Your Love's Like",
+      "Eyes Wide Open",
+      "Too Young",
+      "Can't Blame A Girl For Tying",
+    ]
+  },
+  {
+    numb: 119,
+    question: "What song is this lyric from: I hold my breath and just believe",
+    answer: "The Middle Of Starting Over",
+    options: [
+      "Seamless",
+      "Your Love's Like",
+      "The Middle Of Starting Over",
+      "White Flag",
+    ]
+  },
+  {
+    numb: 120,
+    question: "What song is this lyric from: All our fears became our hopes",
+    answer: "We'll Be The Stars",
+    options: [
+      "Best Thing I Got",
+      "We'll Be The Stars",
+      "Too Young",
+      "Right Now",
+    ]
+  },
+  {
+    numb: 121,
+    question: "What song is this lyric from: I will follow you 'til the end of the earth",
+    answer: "Two Young Hearts",
+    options: [
+      "Two Young Hearts",
+      "Your Hearts Like",
+      "Seamless",
+      "White Flag",
+    ]
+  },
+  {
+    numb: 122,
+    question: "What song is this lyric from: I just need a little taste of paradise",
+    answer: "Your Heart's Like",
+    options: [
+      "Too Young",
+      "Your Love's Like",
+      "Seamless",
+      "Your Heart's Like",
+    ]
+  },
+  {
+    numb: 123,
+    question: "What song is this lyric from: Everyone tells me I gotta go slow",
+    answer: "Too Young",
+    options: [
+      "White Flag",
+      "Too Young",
+      "Seamless",
+      "White Flag",
+    ]
+  },
+  {
+    numb: 124,
+    question: "What song is this lyric from: Though people try to solve it",
+    answer: "Seamless",
+    options: [
+      "Best Thing I Got",
+      "Too Young",
+      "Right Now",
+      "Seamless",
+    ]
+  },
+  {
+    numb: 125,
+    question: "What song is this lyric from: So take in what's around you, put your camera down",
+    answer: "Right Now",
+    options: [
+      "Darling Im a Mess",
+      "Too Young",
+      "White Flag",
+      "Eyes WideOpen",
+    ]
   }
 ]
