@@ -1082,9 +1082,97 @@ let questions = [
     answer: "Almost is never enough",
     options: [
       "Almost is never enough",
-      "Almost is never enough",
+      "Baby I",
       "The way",
-      "The Way",
+      "Piano",
     ]
   },
+  {
+    numb: 100,
+    question: "What song is this lyric from: There's no us in us when I'm lacking trust",
+    answer: "Emails I Can't Send",
+    options: [
+      "Fast Times",
+      "Nonsense",
+      "Emails I Can't Send",
+      "Vicious",
+    ]
+  },
+  {
+    numb: 101,
+    question: "What song is this lyric from: And I tried to look for the best in the worst",
+    answer: "Vicious",
+    options: [
+      "Fast Times",
+      "Vicious",
+      "Because I Liked A Boy",
+      "Emails I Can't Send",
+    ]
+  },
+  {
+    numb: 102,
+    question: "What song is this lyric from: But you got me stressin', feelin' like I need to call",
+    answer: "Read Your Mind",
+    options: [
+      "Lonesome",
+      "Bet U Wanna",
+      "Read Your Mind",
+      "Nonsense",
+    ]
+  },
+  {
+    numb: 103,
+    question: "What song is this lyric from: Right back in our rhythm without missing a step",
+    answer: "Tornado Warning",
+    options: [
+      "Decode",
+      "Opposite",
+      "Tornado Warning",
+      "Fast Times",
+    ]
+  },
+  {
+    numb: 104,
+    question: "What song is this lyric from: Now I'm a homewrecker, I'm a slut",
+    answer: "Because I Liked A Boy",
+    options: [
+      "Vicious",
+      "Opposite",
+      "Because I Liked A Boy",
+      "Decode",
+    ]
+  },
+  {
+    numb: 105,
+    question: "What song is this lyric from: Same time here next weekend",
+    answer: "Already Over",
+    options: [
+      "Fast Times",
+      "Already Over",
+      "Nonsense",
+      "Because I Liked A Boy",
+    ]
+  },
+  {
+    numb: 106,
+    question: "What song is this lyric from: There's no hiding from the thought of us",
+    answer: "How Many Things",
+    options: [
+      "Bet U wanna",
+      "Fast Times",
+      "How Many Things",
+      "Decode",
+    ]
+  },
+  {
+    numb: 107,
+    question: "What song is this lyric from: You been wasting time on the other side",
+    answer: "Bet U wanna",
+    options: [
+      "Bet U wanna",
+      "Nonsense",
+      "Because I Liked A Boy",
+      "feather",
+    ]
+  }
 ]
