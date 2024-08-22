@@ -867,4 +867,114 @@ let questions = [
       "God Is a woman",
     ]
   },
+  {
+    numb: 80,
+    question: "What song is this lyric from: I look up and the whole room's spinning",
+    answer: "Breathin'",
+    options: [
+      "Good night and go",
+      "Pete Davidson",
+      "Breathin'",
+      "get Well Soon",
+    ]
+  },
+  {
+    numb: 81,
+    question: "What song is this lyric from: I'm lovin', I'm livin', I'm pickin' it up",
+    answer: "No Tears Left to cry",
+    options: [
+      "No Tears Left to cry",
+      "Better off",
+      "Raindrops",
+      "God is a woman",
+    ]
+  },
+  {
+    numb: 82,
+    question: "What song is this lyric from: You play hard-to-get, but I know you want me, too (woo)",
+    answer: "Borderline",
+    options: [
+      "Sweetner",
+      "Better off",
+      "Get Well soon",
+      "Borderline",
+    ]
+  },
+  {
+    numb: 83,
+    question: "What song is this lyric from: My love will have you fall to your knees",
+    answer: "Better off",
+    options: [
+      "Pete Davidson",
+      "Better off",
+      "No Tears Left to cry",
+      "The light is coming",
+    ]
+  },
+  {
+    numb: 83,
+    question: "What song is this lyric from: Ayo, trophy wife, out, you won me",
+    answer: "The Light Is Coming",
+    options: [
+      "R.E.M",
+      "God Is A Woman",
+      "Successful",
+      "The light is coming",
+    ]
+  },
+  {
+    numb: 84,
+    question: "What song is this lyric from: ",
+    answer: "God is a Woman",
+    options: [
+      "Everytime",
+      "God is a Woman",
+      "Sweetener",
+      "The light is coming",
+    ]
+  },
+  {
+    numb: 85,
+    question: "What song is this lyric from:To bring the bitter taste to a halt",
+    answer: "Sweetener",
+    options: [
+      "goodnight n go",
+      "Breathin'",
+      "better off",
+      "Sweetener",
+    ]
+  },
+  {
+    numb: 86,
+    question: "What song is this lyric from: Its so good be this young and beautiful and so ",
+    answer: "Successful",
+    options: [
+      "Successful",
+      "R.E.M",
+      "God is a woman",
+      "No tears left to cry",
+    ]
+  },
+  {
+    numb: 87,
+    question: "What song is this lyric from: Lately, all I want is you on top of me",
+    answer: "goodnight n go",
+    options: [
+      "Sweetner",
+      "Get well soon",
+      "goodnight n gon",
+      "Breathin'",
+    ]
+  },
+  {
+    numb: 89,
+    question: "What song is this lyric from: No better place or time (look)",
+    answer: "pete davidson",
+    options: [
+      "god is a woman",
+      "pete davidson",
+      "sweenter",
+      "better off",
+    ]
+  },
 ]
