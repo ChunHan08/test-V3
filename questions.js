@@ -1372,5 +1372,115 @@ let questions = [
       "White Flag",
       "Eyes WideOpen",
     ]
-  }
+  },
+  {
+    numb: 126,
+    question: "What song is this lyric from: But darling I'm a mess without your love",
+    answer: "Darling I'm a Mess",
+    options: [
+      "Read Your Mind",
+      "Nonsense",
+      "Fast Times",
+      "Darling I'm a Mess",
+    ]
+  },
+  {
+    numb: 127,
+    question: "What song is this lyric from: Wait, wait 'til the sun is up, drown my dreams in a coffee cup",
+    answer: "White Flag",
+    options: [
+      "Toranado Warning",
+      "Best Thing I got",
+      "Seamless",
+      "White Flag",
+    ]
+  },
+  {
+    numb: 128,
+    question: "What song is this lyric from: I better steal your heart and you'll like it",
+    answer: "Best Thing I got",
+    options: [
+      "Best Thing I got",
+      "Because I liked a boy",
+      "Skins",
+      "Thumbs",
+    ]
+  },
+  {
+    numb: 129,
+    question: "What song is this lyric from: Know how to make you laugh",
+    answer: "Santa doesn't know you like i do",
+    options: [
+      "Best Thing I got",
+      "Buy me presents",
+      "Ciny Lou Who",
+      "Santa doesn't know you like i do",
+    ]
+  },
+  {
+    numb: 130,
+    question: "What song is this lyric from: Spend your cookie dough, dough, dough",
+    answer: "Buy me presents",
+    options: [
+      "Best Thing I got",
+      "is it new years yet",
+      "Santa tell me",
+      "Buy me presents",
+    ]
+  },
+  {
+    numb: 131,
+    question: "What song is this lyric from: Maybe he met you somewhere in the desert",
+    answer: "Cindy Lou Who",
+    options: [
+      "Last Christmas",
+      "is it new years yet",
+      "white Xmas",
+      "Cindy Lou Who",
+    ]
+  },
+  {
+    numb: 132,
+    question: "What song is this lyric from: Small talk in the kitchen, dated, dumb traditions",
+    answer: "is it new years yet?",
+    options: [
+      "Past The Presents",
+      "Sanata Tell me",
+      "Silent Night",
+      "is it new years yet?",
+    ]
+  },
+  {
+    numb: 133,
+    question: "What song is this lyric from: To hear the sleigh bells in the snow",
+    answer: "white xmas",
+    options: [
+      "white xmas",
+      "Last Christmas",
+      "Cindy Lou Who",
+      "white xmas",
+    ]
+  },
+  {
+    numb: 134,
+    question: "What song is this lyric from: The moment when you're done, but maybe just one more",
+    answer: "Almost Love",
+    options: [
+      "prfct",
+      "Hold Tight",
+      "Sue Me",
+      "Almost Love",
+    ]
+  },
+  {
+    numb: 135,
+    question: "What song is this lyric from: Still I get so hesitant, still I get so hesitant",
+    answer: "Paris",
+    options: [
+      "Hold Tight",
+      "Sue Me",
+      "Bad Time",
+      "Paris",
+    ]
+  },
 ]
