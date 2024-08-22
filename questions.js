@@ -1174,5 +1174,104 @@ let questions = [
       "Because I Liked A Boy",
       "feather",
     ]
+  },
+  {
+    numb: 108,
+    question: "What song is this lyric from: You said you like my eyes and you like to make 'em roll",
+    answer: "Nonsense",
+    options: [
+      "Fast Times",
+      "Nonsense",
+      "Skinny Dipping",
+      "Opposite",
+    ]
+  },
+  {
+    numb: 109,
+    question: "What song is this lyric from: Picturing us in all these placesn",
+    answer: "Fast Times",
+    options: [
+      "Fast Times",
+      "Because I Liked A Boy",
+      "Nonsense",
+      "Lonesome",
+    ]
+  },
+  {
+    numb: 110,
+    question: "What song is this lyric from: Hear the barista call an oat milk latte and your namee",
+    answer: "Skinning Dipping",
+    options: [
+      "Feather",
+      "Skinny Dipping",
+      "Nonsense",
+      "Oppisite",
+    ]
+  },
+  {
+    numb: 111,
+    question: "What song is this lyric from: All of my friends think I've gone crazy",
+    answer: "Bad For Business",
+    options: [
+      "Fast Times",
+      "Because I Liked A Boy",
+      "Decode",
+      "Bad For Business",
+    ]
+  },
+  {
+    numb: 112,
+    question: "What song is this lyric from: You're good at impersonating someone who cares",
+    answer: "Decode",
+    options: [
+      "Skinny Dipping",
+      "Decode",
+      "Feather",
+      "Opposite",
+    ]
+  },
+  {
+    numb: 113,
+    question: "What song is this lyric from: So y'all are in Paris now, guess it's public",
+    answer: "Opposite",
+    options: [
+      "Lonesome",
+      "Fast Times",
+      "Opposite",
+      "Because I Liked A Boy",
+    ]
+  },
+  {
+    numb: 114,
+    question: "What song is this lyric from: Oh, it's like that, I'm your dream come true",
+    answer: "Feather",
+    options: [
+      "Skinny Dipping",
+      "Fast Times",
+      "Feather",
+      "Things I Wish You Had",
+    ]
+  },
+  {
+    numb: 115,
+    question: "What song is this lyric from: Why were you somewhere else",
+    answer: "Lonesome",
+    options: [
+      "Lonesome",
+      "Bet U wanna",
+      "Because I Liked A Boy",
+      "Opposite",
+    ]
+  },
+  {
+    numb: 116,
+    question: "What song is this lyric from: Baby, everything reminds me of you",
+    answer: "Things I Wish You Had",
+    options: [
+      "Things I Wish You Had",
+      "Because I Liked A Boy",
+      "Fast Times",
+      "Skinny Dipping",
+    ]
   }
 ]
