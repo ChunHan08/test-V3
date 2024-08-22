@@ -1483,4 +1483,114 @@ let questions = [
       "Paris",
     ]
   },
+  {
+    numb: 136,
+    question: "What song is this lyric from: But I was hoping we could switch up how we're spending our time",
+    answer: "Hold Tight",
+    options: [
+      "Hold Tight",
+      "Mona Lisa",
+      "Bad Time",
+      "Paris",
+    ]
+  },
+  {
+    numb: 137,
+    question: "What song is this lyric from: Oh baby I heard you been hoping",
+    answer: "Sue Me",
+    options: [
+      "No Words",
+      "Thumbs",
+      "On Purpose",
+      "Sue Me",
+    ]
+  },
+  {
+    numb: 138,
+    question: "What song is this lyric from: Shut off the lights just to hide in the dark",
+    answer: "prfct",
+    options: [
+      "prfct",
+      "Bad Time",
+      "Mona Lisa",
+      "Diamonds are brighter",
+    ]
+  },
+  {
+    numb: 139,
+    question: "What song is this lyric from: Playing mind games, we don't do that here",
+    answer: "Mona Lisa",
+    options: [
+      "Hold Tight",
+      "Sue Me",
+      "Mona Lisa",
+      "Paris",
+    ]
+  },
+  {
+    numb: 140,
+    question: "What song is this lyric from: Stackin' bills and counting change",
+    answer: "Diamonds are forever",
+    options: [
+      "Diamonds are forever",
+      "Thumbs",
+      "No Words",
+      "Mirage",
+    ]
+  },
+  {
+    numb: 141,
+    question: "What song is this lyric from: Your words didn't mean to heal the hurt",
+    answer: "On Purpose",
+    options: [
+      "All We Have Is Love",
+      "On Purpose",
+      "Shadows",
+      "Don't Want It Back",
+    ]
+  },
+  {
+    numb: 142,
+    question: "What song is this lyric from: You're begging me please, but darling",
+    answer: "Feels Like Loneliness",
+    options: [
+      "Mirage",
+      "Feels Like Loneliness",
+      "Skin",
+      "Run And Hide",
+    ]
+  },
+  {
+    numb: 143,
+    question: "What song is this lyric from: The mother has a daughter, who gets married to the brother of the mother",
+    answer: "Thumbs",
+    options: [
+      "Space",
+      "Shadows",
+      "Thumbs",
+      "Skin",
+    ]
+  },
+  {
+    numb: 144,
+    question: "What song is this lyric from: When everything just seems to go wrong",
+    answer: "No Words",
+    options: [
+      "Mirage",
+      "Run and Hide",
+      "Shadows",
+      "No Words",
+    ]
+  },
+  {
+    numb: 145,
+    question: "What song is this lyric from: And why does everybody look at young hearts feeling love",
+    answer: "Run and Hide",
+    options: [
+      "Run and Hide",
+      "Don't want it back",
+      "Mirage",
+      "Space",
+    ]
+  },
 ]
