@@ -1703,4 +1703,114 @@ let questions = [
       "Almost love",
     ]
   },
+  {
+    numb: 156,
+    question: "What song is this lyric from: Find myself in your bed",
+    answer: "Cut My Hair",
+    options: [
+      "Cut My Hair",
+      "Think Later",
+      "We are not alike",
+      "exes",
+    ]
+  },
+  {
+    numb: 157,
+    question: "What song is this lyric from: You keep talkin', but not much comim' out your mouth",
+    answer: "Greedy",
+    options: [
+      "Hurt My feelings",
+      "Greedy",
+      "Grave",
+      "exes",
+    ]
+  },
+  {
+    numb: 158,
+    question: "What song is this lyric from: You got a think you can't find nowhere",
+    answer: "Run For the Hills",
+    options: [
+      "Cut My Hair",
+      "Grave",
+      "Messier",
+      "Run For the Hills",
+    ]
+  },
+  {
+    numb: 159,
+    question: "What song is this lyric from: Nights staying up talking ",
+    answer: "Hurt My feelings",
+    options: [
+      "Think Later",
+      "Grave",
+      "Calgary",
+      "Hurt My feelings",
+    ]
+  },
+  {
+    numb: 160,
+    question: "What song is this lyric from: I hold my grudges like I held you",
+    answer: "Grave",
+    options: [
+      "Plastic Palm Trees",
+      "Grave",
+      "Cut My Hair",
+      "Think Later",
+    ]
+  },
+  {
+    numb: 161,
+    question: "What song is this lyric from: To realize we're at rock bottom",
+    answer: "Stay Done",
+    options: [
+      "messier",
+      "Grave",
+      "Stay Done",
+      "Want That too",
+    ]
+  },
+  {
+    numb: 162,
+    question: "What song is this lyric from: Oh, I'm sorry, sorry that you love me",
+    answer: "Exes",
+    options: [
+      "Cut My Hair",
+      "Exes",
+      "Plastic Palm Trees",
+      "Want That too",
+    ]
+  },
+  {
+    numb: 163,
+    question: "What song is this lyric from: You know there's nothing worse than missing the signs",
+    answer: "We're Not Alike",
+    options: [
+      "Glagary",
+      "Think Later",
+      "We're Not Alike",
+      "Cut My Hair",
+    ]
+  },
+  {
+    numb: 164,
+    question: "What song is this lyric from: Same fears, same dreams ",
+    answer: "Calgary",
+    options: [
+      "Glagary",
+      "Exes",
+      "Greedy",
+      "Run for the hills",
+    ]
+  },
+  {
+    numb: 165,
+    question: "What song is this lyric from: Straight into my eyes, say that you're sorry",
+    answer: "Messier",
+    options: [
+      "Exes",
+      "Hurt my feelings",
+      "Messier",
+      "Grave",
+    ]
+  },
 ]
