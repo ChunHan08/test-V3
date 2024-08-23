@@ -1900,5 +1900,104 @@ let questions = [
       "Shadows",
       "On Purpose",
     ]
+  },
+  {
+    numb: 174,
+    question: "What song is this lyric from: To cope with our love slipping away",
+    answer: "Take One To The Head",
+    options: [
+      "Truth is",
+      "Me In Her",
+      "Hurt People",
+      "Take One To The Head",
+    ]
+  },
+  {
+    numb: 175,
+    question: "What song is this lyric from: I don't even think of calling",
+    answer: "Truth is",
+    options: [
+      "Truth is",
+      "Me In Her",
+      "I Don't Mean To",
+      "Holding The Gun",
+    ]
+  },
+  {
+    numb: 176,
+    question: "What song is this lyric from: You like my confidence and style",
+    answer: "Rumors",
+    options: [
+      "Me In Her",
+      "Hurt People",
+      "Problem With You",
+      "Rumors",
+    ]
+  },
+  {
+    numb: 177,
+    question: "What song is this lyric from: I tried to give you what you need while taking all the anger",
+    answer: "Hurt People",
+    options: [
+      "I don't Mean To",
+      "Hurt People",
+      "Truth Is",
+      "Rumors",
+    ]
+  },
+  {
+    numb: 178,
+    question: "What song is this lyric from: That way I know that it's true",
+    answer: "On My Shoulders",
+    options: [
+      "Me In Her",
+      "On My Shoulder",
+      "Hurt People",
+      "Holding A Gun",
+    ]
+  },
+  {
+    numb: 179,
+    question: "What song is this lyric from: But I bet she doesn't know how much you need your pillow talk",
+    answer: "Me In Her",
+    options: [
+      "Me In Her",
+      "Truth Is",
+      "Hurt People",
+      "I Don't Mean To",
+    ]
+  },
+  {
+    numb: 180,
+    question: "What song is this lyric from: It was probably all those times I left",
+    answer: "I Don't Mean To",
+    options: [
+      "Me In Her",
+      "On My Shoulder",
+      "Holding A Gun",
+      "I Don't Mean To",
+    ]
+  },
+  {
+    numb: 181,
+    question: "What song is this lyric from: Havin' night coffee in breakfast",
+    answer: "As Long As You're Asleep",
+    options: [
+      "Truth is",
+      "Problem With You",
+      "I Don't Mean To",
+      "As Long As You're Asleep",
+    ]
+  },
+  {
+    numb: 182,
+    question: "What song is this lyric from: I'm not afraid to say that I love you",
+    answer: "Problem With You",
+    options: [
+      "Me In Her",
+      "Truth Is",
+      "Hurt People",
+      "Problem With You",
+    ]
   }
 ]
