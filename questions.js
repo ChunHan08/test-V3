@@ -1813,4 +1813,92 @@ let questions = [
       "Grave",
     ]
   },
+  {
+    numb: 166,
+    question: "What song is this lyric from: Was I accidentally falling in love?",
+    answer: "On Purpose",
+    options: [
+      "Mirage",
+      "On Purpose",
+      "Thumbs",
+      "Run And Hide",
+    ]
+  },
+  {
+    numb: 167,
+    question: "What song is this lyric from: You're down on your knees",
+    answer: "Feels Like Loneliness",
+    options: [
+      "Run And Hide",
+      "Don't Want It Back",
+      "Feels Like Loneliness",
+      "Space",
+    ]
+  },
+  {
+    numb: 168,
+    question: "What song is this lyric from: And they're all just tryna multiply with one another",
+    answer: "Thumbs",
+    options: [
+      "Space",
+      "Thumbs",
+      "Mirage",
+      "Shadows",
+    ]
+  },
+  {
+    numb: 169,
+    question: "What song is this lyric from: Nothing on the tip of your tongue",
+    answer: "No Words",
+    options: [
+      "No Words",
+      "Thumbs",
+      "All We Have Is Love",
+      "Space",
+    ]
+  },
+  {
+    numb: 170,
+    question: "What song is this lyric from: Like it's just a matter of time before they break, no, no",
+    answer: "Run And Hide",
+    options: [
+      "Run And Hide",
+      "Exhale",
+      "Shadows",
+      "On Purpose",
+    ]
+  },
+  {
+    numb: 171,
+    question: "What song is this lyric from: But you gotta be someone, someone",
+    answer: "Mirage",
+    options: [
+      "In My Bed",
+      "Exhale",
+      "Mirage",
+      "Space",
+    ]
+  },
+  {
+    numb: 172,
+    question: "What song is this lyric from: No space between, I want you here",
+    answer: "Don't Want It Back",
+    options: [
+      "On purpose",
+      "Exhale",
+      "Don't Want It Back",
+      "Shadow",
+    ]
+  },
+  {
+    numb: 173,
+    question: "What song is this lyric from: I'm not afraid to say that I love you",
+    answer: "Shadow",
+    options: [
+      "Shadow",
+      "Exhale",
+      "Shadows",
+      "On Purpose",
+    ]
+  }
 ]
