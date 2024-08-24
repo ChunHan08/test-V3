@@ -2110,4 +2110,59 @@ let questions = [
       "Don't come back",
     ]
   },
+  {
+    numb: 193,
+    question: "What song is this lyric from: Someone who's out every weekday in her dad's new car",
+    answer: "She's all I wanna be",
+    options: [
+      "She's all I wanna be",
+      "Go away",
+      "feel like sh!t",
+      "you're so cool",
+    ]
+  },
+  {
+    numb: 194,
+    question: "What song is this lyric from: Thought if she'd never gave her heart away",
+    answer: "Box x",
+    options: [
+      "I'm so gone",
+      "Don't come back",
+      "hate myself",
+      "Box x",
+    ]
+  },
+  {
+    numb: 195,
+    question: "What song is this lyric from: Blame 'em on everyone else",
+    answer: "You're so cool",
+    options: [
+      "I'm so gone",
+      "She's all I wanna be",
+      "Wha'ts your...",
+      "You're so cool",
+    ]
+  },
+  {
+    numb: 196,
+    question: "What song is this lyric from: And usually I go out on nights",
+    answer: "feel like sh!t",
+    options: [
+      "I'm so gone",
+      "Go away",
+      "feel like sh!t",
+      "I still say goodnight",
+    ]
+  },
+  {
+    numb: 197,
+    question: "What song is this lyric from: Oh, I should be on top of the world",
+    answer: "Go away",
+    options: [
+      "Im so gone",
+      "chaotic",
+      "box x",
+      "Go away",
+    ]
+  },
 ]
