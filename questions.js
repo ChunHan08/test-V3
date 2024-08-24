@@ -2286,4 +2286,125 @@ let questions = [
       "favorite crime",
     ]
   },
+  {
+    numb: 209,
+    question: "What song is this lyric from: And I am built like a mother and a total machine",
+    answer: "all-American b!tch",
+    options: [
+      "bad idea right?",
+      "pretty isnt pretty",
+      "lacy",
+      "all-American b!tch",
+    ]
+  },
+  {
+    numb: 210,
+    question: "What song is this lyric from: And you're callin' my phone, you're all alone",
+    answer: "bad idea right?",
+    options: [
+      "bad idea right?",
+      "making the bed",
+      "logical",
+      "get him back!",
+    ]
+  },
+  {
+    numb: 211,
+    question: "What song is this lyric from: I see the parties and the diamonds sometimes when I close my eyes",
+    answer: "vampire",
+    options: [
+      "the grudge",
+      "vampire",
+      "obssessed",
+      "so american",
+    ]
+  },
+  {
+    numb: 212,
+    question: "What song is this lyric from: Ooh, I care, I care, I care, like perfume that you wear",
+    answer: "lacy",
+    options: [
+      "scared of my guitar",
+      "stranger",
+      "lacy",
+      "girl I've always been",
+    ]
+  },
+  {
+    numb: 213,
+    question: "What song is this lyric from: I thought it, so I said it, took it 'cause I can",
+    answer: "making the bed",
+    options: [
+      "ballad of a homeschooled girl",
+      "teenager dream",
+      "lacy",
+      "so american",
+    ]
+  },
+  {
+    numb: 214,
+    question: "What song is this lyric from: The way it all unraveled And all the things you did to me",
+    answer: "logical",
+    options: [
+      "pretty isnt pretty",
+      "the grudge",
+      "logical",
+      "so american",
+    ]
+  },
+  {
+    numb: 215,
+    question: "What song is this lyric from: He said he's six-foot-two, and I'm like, Dude, nice try",
+    answer: "get him back!",
+    options: [
+      "get him back!",
+      "teenage dream",
+      "love is embarrassing",
+      "obessed",
+    ]
+  },
+  {
+    numb: 216,
+    question: "What song is this lyric from: Waited by my phone like a goddamn fool",
+    answer: "Love is embarrassing",
+    options: [
+      "teenage dream",
+      "stranger",
+      "love is embarrassing",
+      "scared of my guitar",
+    ]
+  },
+  {
+    numb: 217,
+    question: "What song is this lyric from:You took everything I loved and crushed it in between your fingers",
+    answer: "The grudge",
+    options: [
+      "pretty isnt pretty",
+      "obessed",
+      "The grudge",
+      "bad idea right?",
+    ]
+  },
+  {
+    numb: 218,
+    question: "What song is this lyric from: There's always something in the mirror that I think looks wrong",
+    answer: "pretty isnt pretty",
+    options: [
+      "pretty isnt pretty",
+      "girl I've always been",
+      "stranger",
+      "so american",
+    ]
+  },
+  {
+    numb: 219,
+    question: "What song is this lyric from: When am I gonna stop being great for my age and just start being good?",
+    answer: "Teenage dream",
+    options: [
+      "girl I've always been",
+      "obssed",
+      "Teenage dream",
+      "so american",
+    ]
+  },
 ]
