@@ -2770,4 +2770,114 @@ let questions = [
       "New Rules",
     ]
   },
+  {
+    numb: 253,
+    question: "What song is this lyric from: Just smile and wave and be okay",
+    answer: "No Goodbyes",
+    options: [
+      "New Rules",
+      "Blow Your Mind",
+      "Begging",
+      "Dreams",
+    ]
+  },
+  {
+    numb: 254,
+    question: "What song is this lyric from: I've been smoking deeper, but the memories won't stop",
+    answer: "Think'Bout You",
+    options: [
+      "Begging",
+      "Think'Bout You",
+      "Homesick",
+      "New Love",
+    ]
+  },
+  {
+    numb: 255,
+    question: "What song is this lyric from: He makes me feel like nobody else, nobody else",
+    answer: "New Rules",
+    options: [
+      "Last Dance",
+      "Blow Your Mind",
+      "New Rules",
+      "Dreams",
+    ]
+  },
+  {
+    numb: 256,
+    question: "What song is this lyric from: Say you're gonna stay forever",
+    answer: "Begging",
+    options: [
+      "Electricity",
+      "Bad Together",
+      "One Kiss",
+      "Begging",
+    ]
+  },
+  {
+    numb: 257,
+    question: "What song is this lyric from: You give me a reason, something to believe in",
+    answer: "Homesick",
+    options: [
+      "No Lie",
+      "New Rules",
+      "Last Dance",
+      "Homesick",
+    ]
+  },
+  {
+    numb: 258,
+    question: "What song is this lyric from: It just got complicated, I don't know what to do",
+    answer: "Dreams",
+    options: [
+      "New Rules",
+      "Blow Your Mind",
+      "Homesick",
+      "Dreams",
+    ]
+  },
+  {
+    numb: 259,
+    question: "What song is this lyric from: Why are you blaming me for all your",
+    answer: "Room for 2",
+    options: [
+      "Running",
+      "Want To",
+      "Last Dance",
+      "Room for 2",
+    ]
+  },
+  {
+    numb: 260,
+    question: "What song is this lyric from: I don't wanna waste no time all alone",
+    answer: "New Love",
+    options: [
+      "Running",
+      "One Kiss",
+      "New Love",
+      "New Rules",
+    ]
+  },
+  {
+    numb: 261,
+    question: "What song is this lyric from: No, you won't, won't go breakin' my heart",
+    answer: "Bad Together",
+    options: [
+      "Bad Together",
+      "Last Dance",
+      "Blow Your Mind",
+      "Scared To Be Lonely",
+    ]
+  },
+  {
+    numb: 262,
+    question: "What song is this lyric from: Gimme release, keep the drugs",
+    answer: "Want To",
+    options: [
+      "Running",
+      "One Kiss",
+      "New Love",
+      "Want To",
+    ]
+  },
 ]
