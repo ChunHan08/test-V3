@@ -2880,4 +2880,114 @@ let questions = [
       "Want To",
     ]
   },
+  {
+    numb: 263,
+    question: "What song is this lyric from: No, you won't, won't go breakin' my heart",
+    answer: "Bad Together",
+    options: [
+      "Bad Together",
+      "Last Dance",
+      "Blow Your Mind",
+      "Scared To Be Lonely",
+    ]
+  },
+  {
+    numb: 264,
+    question: "What song is this lyric from: It just got complicated, I don't know what to do",
+    answer: "Dreams",
+    options: [
+      "New Rules",
+      "Blow Your Mind",
+      "Homesick",
+      "Dreams",
+    ]
+  },
+  {
+    numb: 265,
+    question: "What song is this lyric from: Gimme release, keep the drugs",
+    answer: "Want To",
+    options: [
+      "Running",
+      "One Kiss",
+      "New Love",
+      "Want To",
+    ]
+  },
+  {
+    numb: 266,
+    question: "What song is this lyric from: Why are you blaming me for all your",
+    answer: "Room for 2",
+    options: [
+      "Running",
+      "Want To",
+      "Last Dance",
+      "Room for 2",
+    ]
+  },
+  {
+    numb: 267,
+    question: "What song is this lyric from: I don't wanna waste no time all alone",
+    answer: "New Love",
+    options: [
+      "Running",
+      "One Kiss",
+      "New Love",
+      "New Rules",
+    ]
+  },
+  {
+    numb: 268,
+    question: "What song is this lyric from: You give me a reason, something to believe in",
+    answer: "Homesick",
+    options: [
+      "No Lie",
+      "New Rules",
+      "Last Dance",
+      "Homesick",
+    ]
+  },
+  {
+    numb: 269,
+    question: "What song is this lyric from: He makes me feel like nobody else, nobody else",
+    answer: "New Rules",
+    options: [
+      "Last Dance",
+      "Blow Your Mind",
+      "New Rules",
+      "Dreams",
+    ]
+  },
+  {
+    numb: 270,
+    question: "What song is this lyric from: Say you're gonna stay forever",
+    answer: "Begging",
+    options: [
+      "Electricity",
+      "Bad Together",
+      "One Kiss",
+      "Begging",
+    ]
+  },
+  {
+    numb: 271,
+    question: "What song is this lyric from: He makes me feel like nobody else, nobody else",
+    answer: "New Rules",
+    options: [
+      "Last Dance",
+      "Blow Your Mind",
+      "New Rules",
+      "Dreams",
+    ]
+  },
+  {
+    numb: 272,
+    question: "What song is this lyric from: 'Cause you, you just wanna drive, with no place in mind",
+    answer: "Running",
+    options: [
+      "One Kiss",
+      "Running",
+      "Dance the night",
+      "Scared to be only",
+    ]
+  },
 ]
