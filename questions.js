@@ -2649,4 +2649,125 @@ let questions = [
       "Good Hurt",
     ]
   },
+  {
+    numb: 242,
+    question: "What song is this lyric from: And I've even tried medication",
+    answer: "Good Hurt",
+    options: [
+      "Sugar High",
+      "Bad for you",
+      "Die Young",
+      "Good Hurt",
+    ]
+  },
+  {
+    numb: 243,
+    question: "What song is this lyric from: Take pills for you double black eyes",
+    answer: "Bitter",
+    options: [
+      "Bitter",
+      "Pink Pony Club",
+      "Casual",
+      "Die Young",
+    ]
+  },
+  {
+    numb: 244,
+    question: "What song is this lyric from: Whisper all the things I absolutely adore",
+    answer: "Sugar High",
+    options: [
+      "Bitter",
+      "My Kink is my Karma",
+      "Bad for you",
+      "Sugar High",
+    ]
+  },
+  {
+    numb: 245,
+    question: "What song is this lyric from: Wrap my tongue around you as I hold you with my lungs",
+    answer: "Bad for you",
+    options: [
+      "Good Hurt",
+      "Die Young",
+      "Bad for you",
+      "Meantime",
+    ]
+  },
+  {
+    numb: 246,
+    question: "What song is this lyric from: Just my opinion, your body is the one paradise",
+    answer: "Genesis",
+    options: [
+      "Blox Your Mind",
+      "IDGAF",
+      "Hotter Than Hell",
+      "Genesis",
+    ]
+  },
+  {
+    numb: 247,
+    question: "What song is this lyric from: Let me ride your love all night, babe",
+    answer: "Lost In Your Light",
+    options: [
+      "Be the One",
+      "Garden",
+      "Lost In Your Light",
+      "Genesis",
+    ]
+  },
+  {
+    numb: 248,
+    question: "What song is this lyric from: You'd probably still adore me with my hands around your neck",
+    answer: "Hotter Than Hell",
+    options: [
+      "No Goodbyes",
+      "Hotter Than Hell",
+      "Begging",
+      "Homesick",
+    ]
+  },
+  {
+    numb: 249,
+    question: "What song is this lyric from: Thinking now that maybe I was wrong, I was wrong I was wrong",
+    answer: "Be the One",
+    options: [
+      "Begging",
+      "New Rules",
+      "Dreams",
+      "Be the One",
+    ]
+  },
+  {
+    numb: 250,
+    question: "What song is this lyric from: Well, I;m too busy for your business",
+    answer: "IDGAF",
+    options: [
+      "Room for 2",
+      "IDGAF",
+      "Last Dance",
+      "Want To",
+    ]
+  },
+  {
+    numb: 251,
+    question: "What song is this lyric from: You can't tame me, can't tame me",
+    answer: "Blow Your Mind",
+    options: [
+      "Begging",
+      "Want to",
+      "Running",
+      "Blow Your Mind",
+    ]
+  },
+  {
+    numb: 252,
+    question: "What song is this lyric from: Used to think that this love was heaven-sent",
+    answer: "Garden",
+    options: [
+      "Dreams",
+      "Bad Together",
+      "Garden",
+      "New Rules",
+    ]
+  },
 ]
