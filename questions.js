@@ -2165,4 +2165,125 @@ let questions = [
       "Go away",
     ]
   },
+  {
+    numb: 198,
+    question: "What song is this lyric from: And I'm so caught up in the news",
+    answer: "Brutal",
+    options: [
+      "happier",
+      "traitor",
+      "Brutal",
+      "good 4 u",
+    ]
+  },
+  {
+    numb: 199,
+    question: "What song is this lyric from: I kept quiet so I could keep you",
+    answer: "traitor",
+    options: [
+      "enough for you",
+      "traitor",
+      "hope ur ok",
+      "favorite crime",
+    ]
+  },
+  {
+    numb: 200,
+    question: "What song is this lyric from: But today, I drove through the suburbs",
+    answer: "Drivers License",
+    options: [
+      "Drivers License",
+      "Jealousy, Jealousy",
+      "good 4 u",
+      "deja vu",
+    ]
+  },
+  {
+    numb: 201,
+    question: "What song is this lyric from: Do you love me, want me, hate me?",
+    answer: "1 step forward, 3 steps back",
+    options: [
+      "happier",
+      "favorite crime",
+      "1 step forward, 3 steps back",
+      "hope ur ok",
+    ]
+  },
+  {
+    numb: 202,
+    question: "What song is this lyric from: Being annoying, singing in harmony",
+    answer: "deja vu",
+    options: [
+      "traitor",
+      "brutal",
+      "Driver license",
+      "deja vu",
+    ]
+  },
+  {
+    numb: 203,
+    question: "What song is this lyric from: Remember when you said that you wanted to give me the world? (World)",
+    answer: "good 4 u",
+    options: [
+      "1 step forwards, 3 steps back",
+      "happier",
+      "hope ur ok",
+      "good 4 u",
+    ]
+  },
+  {
+    numb: 204,
+    question: "What song is this lyric from: Tried so hard to be everything that you liked",
+    answer: "enough for you",
+    options: [
+      "brutal",
+      "enough for you",
+      "happier",
+      "deja vu",
+    ]
+  },
+  {
+    numb: 205,
+    question: "What song is this lyric from: And I thought my heart was detached",
+    answer: "happier",
+    options: [
+      "enough for you",
+      "happier",
+      "favorite crime",
+      "hope ur ok",
+    ]
+  },
+  {
+    numb: 206,
+    question: "What song is this lyric from: I know their beauty's not my lack",
+    answer: "Jealousy, Jealousy",
+    options: [
+      "brutal",
+      "traitor",
+      "Jealousy, Jealousy",
+      "driver license",
+    ]
+  },
+  {
+    numb: 207,
+    question: "What song is this lyric from: One heart broke, four hands bloody",
+    answer: "favourite crime",
+    options: [
+      "favourite crime",
+      "good 4 u",
+      "enough for you",
+      "happier",
+    ]
+  },
+  {
+    numb: 208,
+    question: "What song is this lyric from: Than being good to their own child",
+    answer: "hope ur ok",
+    options: [
+      "happier",
+      "hope ur ok",
+      "jealousy, jealousy",
+      "favorite crime",
+    ]
+  },
 ]
