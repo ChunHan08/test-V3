@@ -2528,4 +2528,125 @@ let questions = [
       "Pink Pony Club",
     ]
   },
+  {
+    numb: 231,
+    question: "What song is this lyric from: I don't want the world, but I'll take this city",
+    answer: "HOT TO GO!",
+    options: [
+      "HOT TO GO!",
+      "California",
+      "Picture You",
+      "My Kink is my Karma",
+    ]
+  },
+  {
+    numb: 232,
+    question: "What song is this lyric from: Who knew that we'd let it get this bad when it ended",
+    answer: "My Kink is my Karma",
+    options: [
+      "naked in Manhatten",
+      "Coffee",
+      "guilty pleasure",
+      "My Kink is my Karma",
+    ]
+  },
+  {
+    numb: 233,
+    question: "What song is this lyric from: It's ritualistic, counting lipstick",
+    answer: "Picture You",
+    options: [
+      "Casual",
+      "Picture You",
+      "Red Wine Supernova",
+      "After Midnight",
+    ]
+  },
+  {
+    numb: 234,
+    question: "What song is this lyric from: And you dance at the club Oh mama, I'm just having fun",
+    answer: "Pink Pony Club",
+    options: [
+      "Pink Pony Club",
+      "Super Graphic Ultra Modern Girl",
+      "Picture You",
+      "Femininomenon",
+    ]
+  },
+  {
+    numb: 235,
+    question: "What song is this lyric from: It's beautiful somehow It's never just a shape alone",
+    answer: "Kaleidoscope",
+    options: [
+      "Pink Pony Club",
+      "Guilty Pleasure",
+      "Kaleidoscope",
+      "Naked In Manhatten",
+    ]
+  },
+  {
+    numb: 236,
+    question: "What song is this lyric from: 'Cause I was never told that I wasn't gonna get The things I want the most",
+    answer: "California",
+    options: [
+      "Picture You",
+      "Casual",
+      "California",
+      "Coffee",
+    ]
+  },
+  {
+    numb: 237,
+    question: "What song is this lyric from: Wild thoughts that make me melt (yeah, yeah)",
+    answer: "Guilty Pleasure",
+    options: [
+      "Guilty Pleasure",
+      "Pink Pony Club",
+      "naked in Manhattan",
+      "HOT TO GO!",
+    ]
+  },
+  {
+    numb: 238,
+    question: "What song is this lyric from: I don't wanna call it off But you don't wanna call it love",
+    answer: "Good Luck Babe",
+    options: [
+      "Bitter",
+      "Causal",
+      "Good Luck Babe",
+      "School Nights",
+    ]
+  },
+  {
+    numb: 239,
+    question: "What song is this lyric from: Sometimes I forget, wasn't always this way",
+    answer: "Love Me anyway",
+    options: [
+      "HOT TO GO!",
+      "School Hurt",
+      "Love Me anyway",
+      "School Nights",
+    ]
+  },
+  {
+    numb: 240,
+    question: "What song is this lyric from: We got them preachin' that we're hell-bound",
+    answer: "School Nights",
+    options: [
+      "Bitter",
+      "Mean Time",
+      "School Nights",
+      "Good Hurt",
+    ]
+  },
+  {
+    numb: 241,
+    question: "What song is this lyric from: We got them preachin' that we're hell-bound",
+    answer: "School Nights",
+    options: [
+      "Bitter",
+      "Mean Time",
+      "School Nights",
+      "Good Hurt",
+    ]
+  },
 ]
