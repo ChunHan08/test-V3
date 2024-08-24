@@ -2990,4 +2990,114 @@ let questions = [
       "Scared to be only",
     ]
   },
+  {
+    numb: 273,
+    question: "What song is this lyric from: Feel myself saying the same old things",
+    answer: "Kiss me and Make Up",
+    options: [
+      "Kiss me and Make Up",
+      "No Lie",
+      "One Kiss",
+      "Want To",
+    ]
+  },
+  {
+    numb: 274,
+    question: "What song is this lyric from: And I know that you'll still wanna see me",
+    answer: "One Kiss",
+    options: [
+      "Last Dance",
+      "Electricity",
+      "One Kiss",
+      "New Rules",
+    ]
+  },
+  {
+    numb: 274,
+    question: "What song is this lyric from: And I know that you'll still wanna see me",
+    answer: "One Kiss",
+    options: [
+      "Bad Together",
+      "Kiss and Make Up",
+      "One Kiss",
+      "New love",
+    ]
+  },
+  {
+    numb: 274,
+    question: "What song is this lyric from: I know you've been treating, treating yourself wrong",
+    answer: "Electricity",
+    options: [
+      "Begging",
+      "Scared to Be Lonely",
+      "No Lie",
+      "Electricity",
+    ]
+  },
+  {
+    numb: 275,
+    question: "What song is this lyric from: Now we're picking fights and slamming doors",
+    answer: "Scared to Be Lonely",
+    options: [
+      "Homesick",
+      "Scared to Be Lonely",
+      "IDGAF",
+      "Lost In Hell",
+    ]
+  },
+  {
+    numb: 276,
+    question: "What song is this lyric from: Mixed wid di badness, look how she hot (gyal, yuh hot)",
+    answer: "No Lie",
+    options: [
+      "No Lie",
+      "Be The One",
+      "Garden",
+      "Genesis",
+    ]
+  },
+  {
+    numb: 277,
+    question: "What song is this lyric from: John Lautner coming your way",
+    answer: "Future Nostalgia",
+    options: [
+      "Future Nostalgia",
+      "Cool",
+      "Levitating",
+      "Pretty Please",
+    ]
+  },
+  {
+    numb: 278,
+    question: "What song is this lyric from: I'm all good already, so moved on, it's scary",
+    answer: "Don't Start Now",
+    options: [
+      "We're Good",
+      "Good In Bed",
+      "Break My Heart",
+      "Don't Start Now",
+    ]
+  },
+  {
+    numb: 279,
+    question: "What song is this lyric from: And the colour of the sky looking nice-o-nice",
+    answer: "Cool",
+    options: [
+      "We're Good",
+      "Cool",
+      "Break My Heart",
+      "Don't Start Now",
+    ]
+  },
+  {
+    numb: 280,
+    question: "What song is this lyric from: Baby, keep on dancing like you aint got a choice",
+    answer: "Physical",
+    options: [
+      "Boys will be boys",
+      "We're Good",
+      "Fever",
+      "Physical",
+    ]
+  },
 ]
