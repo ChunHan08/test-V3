@@ -3309,5 +3309,114 @@ let questions = [
       "French Exit",
     ]
   },
-  
+  {
+    numb: 298,
+    question: "What song is this lyric from: Tryin' to make me yours for life, takin' me for a ride",
+    answer: "Whatcha Doing",
+    options: [
+      "End Of An Era",
+      "Training Season",
+      "Whatcha Doing",
+      "Falling Forever",
+    ]
+  },
+  {
+    numb: 299,
+    question: "What song is this lyric from: 'Cause for now you're all I want",
+    answer: "Falling Forever",
+    options: [
+      "Houdini",
+      "Anything For Love",
+      "Maria",
+      "Falling Forever",
+    ]
+  },
+  {
+    numb: 300,
+    question: "What song is this lyric from: Same old tired, lonely place?",
+    answer: "Enchanted",
+    options: [
+      "Enchanted",
+      "Last Kiss",
+      "Ours",
+      "Sparks Fly",
+    ]
+  },
+  {
+    numb: 301,
+    question: "What song is this lyric from: I could go back to every laugh, but I don't wanna go there anymore?",
+    answer: "Come in with the rain",
+    options: [
+      "Come in with the rain",
+      "Mean",
+      "Hey Stephan",
+      "Ours"
+    ]
+  },
+  {
+    numb: 302,
+    question: "What song is this lyric from: (Okay) okay, all right, let's do it, let's put it down",
+    answer: "Anything For Love",
+    options: [
+      "These Walls",
+      "Anything For Love",
+      "Houdini",
+      "end of an era",
+    ]
+  },
+  {
+    numb: 303,
+    question: "What song is this lyric from: He was cold, and now he's the sweetest, yeah",
+    answer: "Maria",
+    options: [
+      "French Exit",
+      "Illusion",
+      "Houdini",
+      "Maria",
+    ]
+  },
+  {
+    numb: 303,
+    question: "What song is this lyric from: You can see my heartbeat tonight",
+    answer: "Dance The Night",
+    options: [
+      "Dance The Night",
+      "Cold Heart",
+      "End Of An Era",
+      "Hotter Than Hell",
+    ]
+  },
+  {
+    numb: 304,
+    question: "What song is this lyric from: When the scent of her lingersAnd temptation's strong Cold, cold heart",
+    answer: "Cold Heart",
+    options: [
+      "Physical",
+      "Cold Heart",
+      "IDGAF",
+      "Love Again",
+    ]
+  },
+  {
+    numb: 304,
+    question: "What song is this lyric from: When the scent of her lingersAnd temptation's strong Cold, cold heart",
+    answer: "Cold Heart",
+    options: [
+      "Physical",
+      "Cold Heart",
+      "IDGAF",
+      "Love Again",
+    ]
+  },
+  {
+  numb: 305,
+  question: "What song is this lyric from: No, you won't, won't go breakin' my heart",
+  answer: "Bad Together",
+  options: [
+    "Bad Together",
+    "Last Dance",
+    "Blow Your Mind",
+    "Scared To Be Lonely",
+  ]
+  },
 ]
