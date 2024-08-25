@@ -3628,4 +3628,115 @@ let questions = [
     "My future",
   ]
   },
+  {
+  numb: 331,
+  question: "What song is this lyric from: Give me a day or two to think of something clever",
+  answer: "Happier Than Ever",
+  options: [
+    "Your Power",
+    "My future",
+    "Lost Cause",
+    "Happier Than Ever",
+  ]
+  },
+  {
+  numb: 332,
+  question: "What song is this lyric from: 'Cause I loved you then, and I love you now",
+  answer: "Male Fantasy",
+  options: [
+    "Therefore I am",
+    "NDA",
+    "Male Fantasy",
+    "Bored",
+  ]
+  },
+  {
+  numb: 333,
+  question: "What song is this lyric from: I'm out of sympathy for you",
+  answer: "I didn't change my number",
+  options: [
+    "Bored",
+    "NDA",
+    "My future",
+    "I didn't change my number",
+  ]
+  },
+  {
+  numb: 334,
+  question: "What song is this lyric from: Know I'm supposed to be unhappy without someone (Someone)",
+  answer: "My future",
+  options: [
+    "watch",
+    "My future",
+    "Bad Guy",
+    "Bellyache",
+  ]
+  },
+  {
+  numb: 335,
+  question: "What song is this lyric from: 'Cause I like to do things God doesn't approve of if she saw us",
+  answer: "Oxytocin",
+  options: [
+    "Ocean Eyes",
+    "!!!!!!",
+    "Bury a freind",
+    "Oxytocin",
+  ]
+  },
+  {
+  numb: 336,
+  question: "What song is this lyric from: Tear apart, tear apart, tear apart",
+  answer: "Goldwing",
+  options: [
+    "Goldwing",
+    "Bad Guy",
+    "8",
+    "Lost Cause",
+  ]
+  },
+  {
+  numb: 337,
+  question: "What song is this lyric from: I wondered if you aware that day was the last straw for me and I know",
+  answer: "Lost Cause",
+  options: [
+    "OverHeated",
+    "Lost Cause",
+    "Your Power",
+    "NDA",
+  ]
+  },
+  {
+  numb: 338,
+  question: "What song is this lyric from: Would you like me to be smaller, weaker, softer, taller?",
+  answer: "Not My Responsibility",
+  options: [
+    "Everybody Dies",
+    "Lost Cause",
+    "Therefore I am",
+    "Not My Responsibility",
+  ]
+  },
+  {
+  numb: 339,
+  question: "What song is this lyric from: Instead of stopping, they still were flashing (I don't really)",
+  answer: "OverHeated",
+  options: [
+    "Your Power",
+    "Bored",
+    "OverHeated",
+    "bad Guy",
+  ]
+  },
+  {
+  numb: 340,
+  question: "What song is this lyric from: I just wonder why you'd wanna stay",
+  answer: "Everybody Dies",
+  options: [
+    "Halleys Comet",
+    "Bury a friend",
+    "Ocean Eyes",
+    "Everybody Dies",
+  ]
+  },
+  
 ]
