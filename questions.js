@@ -3518,4 +3518,114 @@ let questions = [
     "Halley's Comet",
   ]
   },
+  {
+  numb: 321,
+  question: "What song is this lyric from: 'Cause I can't fall in love with you",
+  answer: "Bittersuite",
+  options: [
+    "TV",
+    "Hotline",
+    "Bittersuite",
+    "Getting Older",
+  ]
+  },
+  {
+  numb: 322,
+  question: "What song is this lyric from: 'Cause I can't fall in love with you",
+  answer: "Blue",
+  options: [
+    "Halley's Comet",
+    "Hotline",
+    "Blue",
+    "Male Fantasy",
+  ]
+  },
+  {
+  numb: 323,
+  question: "What song is this lyric from: Taking a drive, I was an ideal",
+  answer: "What Was I Made For",
+  options: [
+    "What Was I Made For",
+    "Billie Bossa Nova",
+    "No Time To Die",
+    "My Future",
+  ]
+  },
+  {
+  numb: 324,
+  question: "What song is this lyric from: I put on Survivor, just to watch somebody suffer",
+  answer: "TV",
+  options: [
+    "Happier Than Ever",
+    "Billie Bossa Nova",
+    "Goldwing",
+    "TV",
+  ]
+  },
+  {
+  numb: 325,
+  question: "What song is this lyric from: It's hard to believe you don't remember it",
+  answer: "The 30th",
+  options: [
+    "Happier Than Ever",
+    "Male Fantasy",
+    "Oxytocin",
+    "The 30th",
+  ]
+  },
+  {
+  numb: 326,
+  question: "What song is this lyric from: 'Cause that shit's embarrassing, you were my everything",
+  answer: "The 30th",
+  options: [
+    "Happier Than Ever",
+    "Your Power",
+    "The 30th",
+    "Overheated",
+  ]
+  },
+  {
+  numb: 327,
+  question: "What song is this lyric from: Love when it makes you lose your bearings",
+  answer: "Billie Bossa Nova",
+  options: [
+    "NDA",
+    "Bored",
+    "Therefore I am",
+    "Billie Bossa Nova",
+  ]
+  },
+  {
+  numb: 328,
+  question: "What song is this lyric from: But it's different when a stranger's always waiting at your door",
+  answer: "Getting Older",
+  options: [
+    "No Time To Die",
+    "Halley's Comet",
+    "Getting Older",
+    "Lost Cause",
+  ]
+  },
+  {
+  numb: 329,
+  question: "What song is this lyric from: And I must admit, you've been in quite a few",
+  answer: "Halley's Comet",
+  options: [
+    "Happier Than ever",
+    "Halley's Comet",
+    "Getting Older",
+    "I didn't change My Number",
+  ]
+  },
+  {
+  numb: 330,
+  question: "What song is this lyric from: You were my life, but life is far away from fair",
+  answer: "No Time To Die",
+  options: [
+    "No Time To Die",
+    "Goldwing",
+    "Male Fantasy",
+    "My future",
+  ]
+  },
 ]
