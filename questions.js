@@ -3398,7 +3398,7 @@ let questions = [
     ]
   },
   {
-    numb: 304,
+    numb: 305,
     question: "What song is this lyric from: When the scent of her lingersAnd temptation's strong Cold, cold heart",
     answer: "Cold Heart",
     options: [
@@ -3409,7 +3409,7 @@ let questions = [
     ]
   },
   {
-  numb: 305,
+  numb: 311,
   question: "What song is this lyric from: No, you won't, won't go breakin' my heart",
   answer: "Bad Together",
   options: [
@@ -3417,6 +3417,105 @@ let questions = [
     "Last Dance",
     "Blow Your Mind",
     "Scared To Be Lonely",
+  ]
+  },
+  {
+  numb: 312,
+  question: "What song is this lyric from: 'Til I'm in the casket you carry",
+  answer: "Birds Of A Feather",
+  options: [
+    "Lunch",
+    "Skinny",
+    "Wildflower",
+    "Birds Of A Feather",
+  ]
+  },
+  {
+  numb: 313,
+  question: "What song is this lyric from: Is it pretty in pink or all see-through?",
+  answer: "Guess",
+  options: [
+    "The Greatest",
+    "Apple",
+    "Guess",
+    "Blue",
+  ]
+  },
+  {
+  numb: 314,
+  question: "What song is this lyric from: Tastes like she might be the one And I could never get enough",
+  answer: "Lunch",
+  options: [
+    "The Diner",
+    "Apple",
+    "Bittersuite",
+    "Lunch",
+  ]
+  },
+  {
+  numb: 315,
+  question: "What song is this lyric from: When I come back around, will I know what to say?",
+  answer: "Chihiro",
+  options: [
+    "TV",
+    "Blue",
+    "skinny",
+    "Chihiro",
+  ]
+  },
+  {
+  numb: 316,
+  question: "What song is this lyric from: When I step off the stage, I'm a bird in a cage",
+  answer: "SKINNY",
+  options: [
+    "Happier Than Ever",
+    "SKINNY",
+    "Getting Older",
+    "Blue",
+  ]
+  },
+  {
+  numb: 317,
+  question: "What song is this lyric from: She was cryin' on my shoulder, all I could do was hold her",
+  answer: "Wildflower",
+  options: [
+    "Blue",
+    "The Diner",
+    "The Greatest",
+    "Wildflower",
+  ]
+  },
+  {
+  numb: 318,
+  question: "What song is this lyric from: Made it all look painless (painless)",
+  answer: "The Greatest",
+  options: [
+    "Blue",
+    "Bittersuite",
+    "The Greatest",
+    "The Dinner",
+  ]
+  },
+  {
+  numb: 319,
+  question: "What song is this lyric from: Then you tried to break mine",
+  answer: "L'amour De Ma Vie",
+  options: [
+    "Blue",
+    "What was I made for",
+    "The 30th",
+    "L'amour De Ma Viehe Dinner",
+  ]
+  },
+  {
+  numb: 320,
+  question: "What song is this lyric from: And you'll kiss me goodnight",
+  answer: "The Diner",
+  options: [
+    "Getting Older",
+    "TV",
+    "The Diner",
+    "Halley's Comet",
   ]
   },
 ]
