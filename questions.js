@@ -3848,4 +3848,114 @@ let questions = [
     "i love you",
   ]
   },
+  {
+  numb: 351,
+  question: "What song is this lyric from: If teardrops could be bottled, there'd be swimming pools filled by models",
+  answer: "idontwanabeyouanymore",
+  options: [
+    "wish you were gay",
+    "bury a friend",
+    "idontwanabeyouanymore",
+    "bellyache",
+  ]
+  },
+  {
+  numb: 352,
+  question: "What song is this lyric from: Lookin' through my room for the money",
+  answer: "bellyache",
+  options: [
+    "bellyache",
+    "ocean eyes",
+    "lovely",
+    "goodbye",
+  ]
+  },
+  {
+  numb: 353,
+  question: "What song is this lyric from: I could lie, say I like it like that, like it like that",
+  answer: "when the party's over",
+  options: [
+    "goodbye",
+    "xanny",
+    "party favor",
+    "hostage",
+  ]
+  },
+  {
+  numb: 354,
+  question: "What song is this lyric from: Count my cards, watch them fall",
+  answer: "you should see me in a crown",
+  options: [
+    "i love you",
+    "goodbye",
+    "six feet under",
+    "you should see me in a crown",
+  ]
+  },
+  {
+  numb: 355,
+  question: "What song is this lyric from: When we all fall asleep, where do we go?",
+  answer: "bury a friend",
+  options: [
+    "i love you",
+    "party favor",
+    "hostage",
+    "bury a friend",
+  ]
+  },
+  {
+  numb: 356,
+  question: "What song is this lyric from: If three's a crowd and two was us, one slipped away (hahahahaha)",
+  answer: "wish you were gay",
+  options: [
+    "&burn",
+    "party favor",
+    "Copycat",
+    "wish you were gay",
+  ]
+  },
+  {
+  numb: 357,
+  question: "What song is this lyric from: They're never gonna give you love like ours",
+  answer: "ilomilo",
+  options: [
+    "Ocean Eyes",
+    "party favor",
+    "ilomilo",
+    "8",
+  ]
+  },
+  {
+  numb: 358,
+  question: "What song is this lyric from: (I have taken out my Invisalign)",
+  answer: "!!!!",
+  options: [
+    "My boy",
+    "lovely",
+    "My Strange Addiction",
+    "!!!!",
+  ]
+  },
+  {
+  numb: 359,
+  question: "What song is this lyric from: I guess im just not the girl you wanted",
+  answer: "lovely",
+  options: [
+    "!!!!",
+    "copycat",
+    "Bad Guy",
+    "lovely",
+  ]
+  },
+  {
+  numb: 360,
+  question: "What song is this lyric from: Learned my lesson way too long ago",
+  answer: "My Strange Addiction",
+  options: [
+    "My boy",
+    "ocean eys",
+    "My Strange Addiction",
+    "bad guy",
+  ]
+  },
 ]
