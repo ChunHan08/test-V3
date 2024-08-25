@@ -3738,5 +3738,114 @@ let questions = [
     "Everybody Dies",
   ]
   },
-  
+  {
+  numb: 341,
+  question: "What song is this lyric from: Like it was my fault, you were the devil, lost your appeal",
+  answer: "Your Power",
+  options: [
+    "Watch",
+    "My Future",
+    "Bored",
+    "Your Power",
+  ]
+  },
+  {
+  numb: 342,
+  question: "What song is this lyric from: Haven't had a party since I got the keys",
+  answer: "NDA",
+  options: [
+    "Bury A friend",
+    "NDA",
+    "Ocean Eyes",
+    "Lovely",
+  ]
+  },
+  {
+  numb: 343,
+  question: "What song is this lyric from: Stop, what the hell are you talking about? Ha",
+  answer: "Therefore I am",
+  options: [
+    "GoodBye",
+    "I love you",
+    "Xanny",
+    "Therefore I am",
+  ]
+  },
+  {
+  numb: 344,
+  question: "What song is this lyric from: Giving you what you're begging for",
+  answer: "Bored",
+  options: [
+    "My futuere",
+    "Bad Guy",
+    "Bored",
+    "8",
+  ]
+  },
+  {
+  numb: 345,
+  question: "What song is this lyric from: Stop, what the hell are you talking about? Ha",
+  answer: "Therefore I am",
+  options: [
+    "bellyache",
+    "Watch",
+    "Therefore I am",
+    "ilomilo",
+  ]
+  },
+  {
+  numb: 346,
+  question: "What song is this lyric from: Know I'm supposed to be unhappy without someone (Someone)",
+  answer: "My future",
+  options: [
+    "My future",
+    "all the good girls go to hell",
+    "8",
+    "wish you were gay",
+  ]
+  },
+  {
+  numb: 347,
+  question: "What song is this lyric from: Kinda thought they might care (might care, might care)",
+  answer: "Everything I wanted",
+  options: [
+    "hostage",
+    "Everything I wanted",
+    "goodbye",
+    "Copycat",
+  ]
+  },
+  {
+  numb: 348,
+  question: "What song is this lyric from: Pearly Gates look more like a picket fence",
+  answer: "all the good girls goes to hell",
+  options: [
+    "xanny",
+    "Everything I wanted",
+    "party favor",
+    "all the good girls goes to hell",
+  ]
+  },
+  {
+  numb: 349,
+  question: "What song is this lyric from: Bruises on both my knees for you",
+  answer: "Bad Guy",
+  options: [
+    "hostages",
+    "Ocean Eyes",
+    "Bad Guy",
+    "all the good girls goes to hell",
+  ]
+  },
+  {
+  numb: 350,
+  question: "What song is this lyric from: But all I see is him right now",
+  answer: "watch",
+  options: [
+    "six feet under",
+    "watch",
+    "copycat",
+    "i love you",
+  ]
+  },
 ]
