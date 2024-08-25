@@ -3100,4 +3100,103 @@ let questions = [
       "Physical",
     ]
   },
+  {
+    numb: 281,
+    question: "What song is this lyric from: Where the music don't stop for life",
+    answer: "Levitating",
+    options: [
+      "Levitating",
+      "Love Again",
+      "Break My Heart",
+      "Good In bed",
+    ]
+  },
+  {
+    numb: 282,
+    question: "What song is this lyric from: But that went out the window, yeah (gonna break, gonna break)",
+    answer: "Pretty Please",
+    options: [
+      "If it ain't Me",
+      "We're Good",
+      "Fever",
+      "Pretty Please",
+    ]
+  },
+  {
+    numb: 283,
+    question: "What song is this lyric from: Body make you silly, make you do what I want",
+    answer: "Hallucinate",
+    options: [
+      "Not My Problem",
+      "Levitating",
+      "Hallucinate",
+      "Un Dia",
+    ]
+  },
+  {
+    numb: 284,
+    question: "What song is this lyric from: But goddamn, you got me in love again",
+    answer: "Love Again",
+    options: [
+      "Love Again",
+      "That Kind Of Woman",
+      "Prisoner",
+      "Un Dia",
+    ]
+  },
+  {
+    numb: 285,
+    question: "What song is this lyric from: I'm indecisive, but this time, I know for sure",
+    answer: "Break My Heart",
+    options: [
+      "Break My Heart",
+      "If it ain't me",
+      "That Kind Of Woman",
+      "Fever",
+    ]
+  },
+  {
+    numb: 286,
+    question: "What song is this lyric from: Then I think maybe we could probably see this through",
+    answer: "Good In Bed",
+    options: [
+      "Break My Heart",
+      "We're Good",
+      "Prisoner",
+      "Good In Bed",
+    ]
+  },
+  {
+    numb: 287,
+    question: "What song is this lyric from: Isn't it funny how we laugh it off to hide our fear?",
+    answer: "Boys will be boys",
+    options: [
+      "Prisoner",
+      "Boys will be boys",
+      "Prisoner",
+      "Not My Problem",
+    ]
+  },
+  {
+    numb: 288,
+    question: "What song is this lyric from: Hand on my forehead, kiss my neck",
+    answer: "We're Good",
+    options: [
+      "Levitating",
+      "We're Good",
+      "If it aint Me",
+      "That kind of woman",
+    ]
+  },
+  {
+    numb: 289,
+    question: "What song is this lyric from: Strung out on a feeling, my hands are tied",
+    answer: "Prisoner",
+    options: [
+      "Levitating",
+      "We're Good",
+      "Un dia",
+      "Prisoner",
+    ]
+  },
 ]
