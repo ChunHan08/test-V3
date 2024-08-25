@@ -3958,4 +3958,103 @@ let questions = [
     "bad guy",
   ]
   },
+  {
+  numb: 361,
+  question: "What song is this lyric from: Around my neck, but now it's missing, hmm",
+  answer: "8",
+  options: [
+    "hostage",
+    "xanny",
+    "listen before I go",
+    "8",
+  ]
+  },
+  {
+  numb: 362,
+  question: "What song is this lyric from: You really know how to make me cry",
+  answer: "Ocean Eyes",
+  options: [
+    "goodbye",
+    "Ocean Eyes",
+    "party favor",
+    "six feet under",
+  ]
+  },
+  {
+  numb: 363,
+  question: "What song is this lyric from: Don't love me like he promised",
+  answer: "my boy",
+  options: [
+    "my boy",
+    "i love you",
+    "&burn",
+    "bellyache",
+  ]
+  },
+  {
+  numb: 364,
+  question: "What song is this lyric from: But I love it when you're awfully quiet",
+  answer: "Come out and play",
+  options: [
+    "six feet under",
+    "copycat",
+    "Come out and play",
+    "bellyache",
+  ]
+  },
+  {
+  numb: 365,
+  question: "What song is this lyric from: Oh, what a shame, I'm not there",
+  answer: "Bitches broken hearts",
+  options: [
+    "six feet under",
+    "myBoi",
+    "when Im older",
+    "Bitches broken hearts",
+  ]
+  },
+  {
+  numb: 366,
+  question: "What song is this lyric from: And all the good girls go to Hell",
+  answer: "goodbye",
+  options: [
+    "goodbye",
+    "i love you",
+    "listen before i go",
+    "copycat",
+  ]
+  },
+  {
+  numb: 367,
+  question: "What song is this lyric from: Only one who's not stoned",
+  answer: "xanny",
+  options: [
+    "party favor",
+    "i love you",
+    "ocean eyes",
+    "xanny",
+  ]
+  },
+  {
+  numb: 368,
+  question: "What song is this lyric from: Maybe won't you take it back? Say you were tryna make me laugh",
+  answer: "i love you",
+  options: [
+    "when I was older",
+    "six feet under",
+    "hostage",
+    "copycat",
+  ]
+  },
+  {
+  numb: 369,
+  question: "What song is this lyric from: Tell me, love is endless, don't be so pretentious",
+  answer: "listen before I go",
+  options: [
+    "when I was older",
+    "hostage",
+    "party favor",
+    "listen before I go",
+  ]
+  },
 ]
