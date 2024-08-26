@@ -4057,4 +4057,136 @@ let questions = [
     "listen before I go",
   ]
   },
+  {
+    numb: 370,
+    question: "What song is this lyric from: Don’t read the last page?",
+    answer: "New Years Day",
+    options: [
+      "Call it what you want",
+      "New Years Day",
+      "Delicate",
+      "So it Goes",
+    ]
+  },
+  {
+    numb: 371,
+    question: "What song is this lyric from: chains around my demons?",
+    answer: "Invisble String",
+    options: [
+      "Hoax",
+      "the 1",
+      "illicit affairs",
+      "Invisble String",
+    ]
+  },
+  {
+    numb: 372,
+    question: "What song is this lyric from: you just see right through me?",
+    answer: "Invisible",
+    options: [
+      "Invisible",
+      "Picture to Burn",
+      "Tim McGraw",
+      "Should've Said No",
+    ]
+  },
+  {
+    numb: 373,
+    question: "What song is this lyric from: one prize I'd cheat to win?",
+    answer: "Willow",
+    options: [
+      "Evermore",
+      "Dorthea",
+      "Willow",
+      "Closure",
+    ]
+  },
+  {
+    numb: 374,
+    question: "What song is this lyric from: use my best colors for your portrait?",
+    answer: "Tolerate It",
+    options: [
+      "Tolerate It",
+      "The Archer",
+      "Betty",
+      "Snow on the Beach",
+    ]
+  },
+  {
+    numb: 375,
+    question: "What song is this lyric from: Same old tired, lonely place?",
+    answer: "Enchanted",
+    options: [
+      "Enchanted",
+      "Last Kiss",
+      "Ours",
+      "Sparks Fly",
+    ]
+  },
+  {
+    numb: 375,
+    question: "What song is this lyric from: I could go back to every laugh, but I don't wanna go there anymore?",
+    answer: "Come in with the rain",
+    options: [
+      "Come in with the rain",
+      "Mean",
+      "Hey Stephan",
+      "Ours"
+    ]
+  },
+  {
+    numb: 376,
+    question: "What song is this lyric from:I'd like to hang out with you for my whole life.",
+    answer: "Stay Stay Stay",
+    options: [
+      "The Moment I Knew",
+      "Stay Stay Stay",
+      "The Last Time",
+      "I Wish You Would",
+    ]
+  },
+  {
+    numb: 377,
+    question: "What song is this lyric from: People like you always want back the love they gave away.",
+    answer: "All you had to do was stay",
+    options: [
+      "New Romantics",
+      "Wonderland",
+      "You are in love",
+      "All you had to do was stay",
+    ]
+  },
+  {
+    numb: 378,
+    question: "what song is this lyric from: I left a note on the door with a joke we'd made.",
+    answer: "Holy Ground",
+    options: [
+      "State of grace",
+      "Holy Ground",
+      "Babe",
+      "Forever Winter",
+      ]
+  },
+  {
+    numb: 379,
+    question: "What song is this lyric from: For a moment i knew comsmic love.",
+    answer: "Down Bad",
+    options: [
+      "My boy only breaks his favourite toys",
+      "Gulity as sin",
+      "Down Bad",
+      "So long london"
+    ]
+  },
+  {
+    numb: 380,
+    question: "What song is this lyric from: But i felt a hole like this.",
+    answer: "loml",
+    options: [
+      "imgonnagetyouback",
+      "loml",
+      "Clara Bow",
+      "The Alchemy",
+    ]
+  },
 ]
