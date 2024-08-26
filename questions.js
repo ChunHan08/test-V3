@@ -3409,653 +3409,653 @@ let questions = [
     ]
   },
   {
-  numb: 311,
-  question: "What song is this lyric from: No, you won't, won't go breakin' my heart",
-  answer: "Bad Together",
-  options: [
-    "Bad Together",
-    "Last Dance",
-    "Blow Your Mind",
-    "Scared To Be Lonely",
-  ]
+    numb: 311,
+    question: "What song is this lyric from: No, you won't, won't go breakin' my heart",
+    answer: "Bad Together",
+    options: [
+      "Bad Together",
+      "Last Dance",
+      "Blow Your Mind",
+      "Scared To Be Lonely",
+    ]
   },
   {
-  numb: 312,
-  question: "What song is this lyric from: 'Til I'm in the casket you carry",
-  answer: "Birds Of A Feather",
-  options: [
-    "Lunch",
-    "Skinny",
-    "Wildflower",
-    "Birds Of A Feather",
-  ]
+    numb: 312,
+    question: "What song is this lyric from: 'Til I'm in the casket you carry",
+    answer: "Birds Of A Feather",
+    options: [
+      "Lunch",
+      "Skinny",
+      "Wildflower",
+      "Birds Of A Feather",
+    ]
   },
   {
-  numb: 313,
-  question: "What song is this lyric from: Is it pretty in pink or all see-through?",
-  answer: "Guess",
-  options: [
-    "The Greatest",
-    "Apple",
-    "Guess",
-    "Blue",
-  ]
+    numb: 313,
+    question: "What song is this lyric from: Is it pretty in pink or all see-through?",
+    answer: "Guess",
+    options: [
+      "The Greatest",
+      "Apple",
+      "Guess",
+      "Blue",
+    ]
   },
   {
-  numb: 314,
-  question: "What song is this lyric from: Tastes like she might be the one And I could never get enough",
-  answer: "Lunch",
-  options: [
-    "The Diner",
-    "Apple",
-    "Bittersuite",
-    "Lunch",
-  ]
+    numb: 314,
+    question: "What song is this lyric from: Tastes like she might be the one And I could never get enough",
+    answer: "Lunch",
+    options: [
+      "The Diner",
+      "Apple",
+      "Bittersuite",
+      "Lunch",
+    ]
   },
   {
-  numb: 315,
-  question: "What song is this lyric from: When I come back around, will I know what to say?",
-  answer: "Chihiro",
-  options: [
-    "TV",
-    "Blue",
-    "skinny",
-    "Chihiro",
-  ]
+    numb: 315,
+    question: "What song is this lyric from: When I come back around, will I know what to say?",
+    answer: "Chihiro",
+    options: [
+      "TV",
+      "Blue",
+      "skinny",
+      "Chihiro",
+    ]
   },
   {
-  numb: 316,
-  question: "What song is this lyric from: When I step off the stage, I'm a bird in a cage",
-  answer: "SKINNY",
-  options: [
-    "Happier Than Ever",
-    "SKINNY",
-    "Getting Older",
-    "Blue",
-  ]
+    numb: 316,
+    question: "What song is this lyric from: When I step off the stage, I'm a bird in a cage",
+    answer: "SKINNY",
+    options: [
+      "Happier Than Ever",
+      "SKINNY",
+      "Getting Older",
+      "Blue",
+    ]
   },
   {
-  numb: 317,
-  question: "What song is this lyric from: She was cryin' on my shoulder, all I could do was hold her",
-  answer: "Wildflower",
-  options: [
-    "Blue",
-    "The Diner",
-    "The Greatest",
-    "Wildflower",
-  ]
+    numb: 317,
+    question: "What song is this lyric from: She was cryin' on my shoulder, all I could do was hold her",
+    answer: "Wildflower",
+    options: [
+      "Blue",
+      "The Diner",
+      "The Greatest",
+      "Wildflower",
+    ]
   },
   {
-  numb: 318,
-  question: "What song is this lyric from: Made it all look painless (painless)",
-  answer: "The Greatest",
-  options: [
-    "Blue",
-    "Bittersuite",
-    "The Greatest",
-    "The Dinner",
-  ]
+    numb: 318,
+    question: "What song is this lyric from: Made it all look painless (painless)",
+    answer: "The Greatest",
+    options: [
+      "Blue",
+      "Bittersuite",
+      "The Greatest",
+      "The Dinner",
+    ]
   },
   {
-  numb: 319,
-  question: "What song is this lyric from: Then you tried to break mine",
-  answer: "L'amour De Ma Vie",
-  options: [
-    "Blue",
-    "What was I made for",
-    "The 30th",
-    "L'amour De Ma Viehe Dinner",
-  ]
+    numb: 319,
+    question: "What song is this lyric from: Then you tried to break mine",
+    answer: "L'amour De Ma Vie",
+    options: [
+      "Blue",
+      "What was I made for",
+      "The 30th",
+      "L'amour De Ma Viehe Dinner",
+    ]
   },
   {
-  numb: 320,
-  question: "What song is this lyric from: And you'll kiss me goodnight",
-  answer: "The Diner",
-  options: [
-    "Getting Older",
-    "TV",
-    "The Diner",
-    "Halley's Comet",
-  ]
+    numb: 320,
+    question: "What song is this lyric from: And you'll kiss me goodnight",
+    answer: "The Diner",
+    options: [
+      "Getting Older",
+      "TV",
+      "The Diner",
+      "Halley's Comet",
+    ]
   },
   {
-  numb: 321,
-  question: "What song is this lyric from: 'Cause I can't fall in love with you",
-  answer: "Bittersuite",
-  options: [
-    "TV",
-    "Hotline",
-    "Bittersuite",
-    "Getting Older",
-  ]
+    numb: 321,
+    question: "What song is this lyric from: 'Cause I can't fall in love with you",
+    answer: "Bittersuite",
+    options: [
+      "TV",
+      "Hotline",
+      "Bittersuite",
+      "Getting Older",
+    ]
   },
   {
-  numb: 322,
-  question: "What song is this lyric from: 'Cause I can't fall in love with you",
-  answer: "Blue",
-  options: [
-    "Halley's Comet",
-    "Hotline",
-    "Blue",
-    "Male Fantasy",
-  ]
+    numb: 322,
+    question: "What song is this lyric from: 'Cause I can't fall in love with you",
+    answer: "Blue",
+    options: [
+      "Halley's Comet",
+      "Hotline",
+      "Blue",
+      "Male Fantasy",
+    ]
   },
   {
-  numb: 323,
-  question: "What song is this lyric from: Taking a drive, I was an ideal",
-  answer: "What Was I Made For",
-  options: [
-    "What Was I Made For",
-    "Billie Bossa Nova",
-    "No Time To Die",
-    "My Future",
-  ]
+    numb: 323,
+    question: "What song is this lyric from: Taking a drive, I was an ideal",
+    answer: "What Was I Made For",
+    options: [
+      "What Was I Made For",
+      "Billie Bossa Nova",
+      "No Time To Die",
+      "My Future",
+    ]
   },
   {
-  numb: 324,
-  question: "What song is this lyric from: I put on Survivor, just to watch somebody suffer",
-  answer: "TV",
-  options: [
-    "Happier Than Ever",
-    "Billie Bossa Nova",
-    "Goldwing",
-    "TV",
-  ]
+    numb: 324,
+    question: "What song is this lyric from: I put on Survivor, just to watch somebody suffer",
+    answer: "TV",
+    options: [
+      "Happier Than Ever",
+      "Billie Bossa Nova",
+      "Goldwing",
+      "TV",
+    ]
   },
   {
-  numb: 325,
-  question: "What song is this lyric from: It's hard to believe you don't remember it",
-  answer: "The 30th",
-  options: [
-    "Happier Than Ever",
-    "Male Fantasy",
-    "Oxytocin",
-    "The 30th",
-  ]
+    numb: 325,
+    question: "What song is this lyric from: It's hard to believe you don't remember it",
+    answer: "The 30th",
+    options: [
+      "Happier Than Ever",
+      "Male Fantasy",
+      "Oxytocin",
+      "The 30th",
+    ]
   },
   {
-  numb: 326,
-  question: "What song is this lyric from: 'Cause that shit's embarrassing, you were my everything",
-  answer: "The 30th",
-  options: [
-    "Happier Than Ever",
-    "Your Power",
-    "The 30th",
-    "Overheated",
-  ]
+    numb: 326,
+    question: "What song is this lyric from: 'Cause that shit's embarrassing, you were my everything",
+    answer: "The 30th",
+    options: [
+      "Happier Than Ever",
+      "Your Power",
+      "The 30th",
+      "Overheated",
+    ]
   },
   {
-  numb: 327,
-  question: "What song is this lyric from: Love when it makes you lose your bearings",
-  answer: "Billie Bossa Nova",
-  options: [
-    "NDA",
-    "Bored",
-    "Therefore I am",
-    "Billie Bossa Nova",
-  ]
+    numb: 327,
+    question: "What song is this lyric from: Love when it makes you lose your bearings",
+    answer: "Billie Bossa Nova",
+    options: [
+      "NDA",
+      "Bored",
+      "Therefore I am",
+      "Billie Bossa Nova",
+    ]
   },
   {
-  numb: 328,
-  question: "What song is this lyric from: But it's different when a stranger's always waiting at your door",
-  answer: "Getting Older",
-  options: [
-    "No Time To Die",
-    "Halley's Comet",
-    "Getting Older",
-    "Lost Cause",
-  ]
+    numb: 328,
+    question: "What song is this lyric from: But it's different when a stranger's always waiting at your door",
+    answer: "Getting Older",
+    options: [
+      "No Time To Die",
+      "Halley's Comet",
+      "Getting Older",
+      "Lost Cause",
+    ]
   },
   {
-  numb: 329,
-  question: "What song is this lyric from: And I must admit, you've been in quite a few",
-  answer: "Halley's Comet",
-  options: [
-    "Happier Than ever",
-    "Halley's Comet",
-    "Getting Older",
-    "I didn't change My Number",
-  ]
+    numb: 329,
+    question: "What song is this lyric from: And I must admit, you've been in quite a few",
+    answer: "Halley's Comet",
+    options: [
+      "Happier Than ever",
+      "Halley's Comet",
+      "Getting Older",
+      "I didn't change My Number",
+    ]
   },
   {
-  numb: 330,
-  question: "What song is this lyric from: You were my life, but life is far away from fair",
-  answer: "No Time To Die",
-  options: [
-    "No Time To Die",
-    "Goldwing",
-    "Male Fantasy",
-    "My future",
-  ]
+    numb: 330,
+    question: "What song is this lyric from: You were my life, but life is far away from fair",
+    answer: "No Time To Die",
+    options: [
+      "No Time To Die",
+      "Goldwing",
+      "Male Fantasy",
+      "My future",
+    ]
   },
   {
-  numb: 331,
-  question: "What song is this lyric from: Give me a day or two to think of something clever",
-  answer: "Happier Than Ever",
-  options: [
-    "Your Power",
-    "My future",
-    "Lost Cause",
-    "Happier Than Ever",
-  ]
+    numb: 331,
+    question: "What song is this lyric from: Give me a day or two to think of something clever",
+    answer: "Happier Than Ever",
+    options: [
+      "Your Power",
+      "My future",
+      "Lost Cause",
+      "Happier Than Ever",
+    ]
   },
   {
-  numb: 332,
-  question: "What song is this lyric from: 'Cause I loved you then, and I love you now",
-  answer: "Male Fantasy",
-  options: [
-    "Therefore I am",
-    "NDA",
-    "Male Fantasy",
-    "Bored",
-  ]
+    numb: 332,
+    question: "What song is this lyric from: 'Cause I loved you then, and I love you now",
+    answer: "Male Fantasy",
+    options: [
+      "Therefore I am",
+      "NDA",
+      "Male Fantasy",
+      "Bored",
+    ]
   },
   {
-  numb: 333,
-  question: "What song is this lyric from: I'm out of sympathy for you",
-  answer: "I didn't change my number",
-  options: [
-    "Bored",
-    "NDA",
-    "My future",
-    "I didn't change my number",
-  ]
+    numb: 333,
+    question: "What song is this lyric from: I'm out of sympathy for you",
+    answer: "I didn't change my number",
+    options: [
+      "Bored",
+      "NDA",
+      "My future",
+      "I didn't change my number",
+    ]
   },
   {
-  numb: 334,
-  question: "What song is this lyric from: Know I'm supposed to be unhappy without someone (Someone)",
-  answer: "My future",
-  options: [
-    "watch",
-    "My future",
-    "Bad Guy",
-    "Bellyache",
-  ]
+    numb: 334,
+    question: "What song is this lyric from: Know I'm supposed to be unhappy without someone (Someone)",
+    answer: "My future",
+    options: [
+      "watch",
+      "My future",
+      "Bad Guy",
+      "Bellyache",
+    ]
   },
   {
-  numb: 335,
-  question: "What song is this lyric from: 'Cause I like to do things God doesn't approve of if she saw us",
-  answer: "Oxytocin",
-  options: [
-    "Ocean Eyes",
-    "!!!!!!",
-    "Bury a freind",
-    "Oxytocin",
-  ]
+    numb: 335,
+    question: "What song is this lyric from: 'Cause I like to do things God doesn't approve of if she saw us",
+    answer: "Oxytocin",
+    options: [
+      "Ocean Eyes",
+      "!!!!!!",
+      "Bury a freind",
+      "Oxytocin",
+    ]
   },
   {
-  numb: 336,
-  question: "What song is this lyric from: Tear apart, tear apart, tear apart",
-  answer: "Goldwing",
-  options: [
-    "Goldwing",
-    "Bad Guy",
-    "8",
-    "Lost Cause",
-  ]
+    numb: 336,
+    question: "What song is this lyric from: Tear apart, tear apart, tear apart",
+    answer: "Goldwing",
+    options: [
+      "Goldwing",
+      "Bad Guy",
+      "8",
+      "Lost Cause",
+    ]
   },
   {
-  numb: 337,
-  question: "What song is this lyric from: I wondered if you aware that day was the last straw for me and I know",
-  answer: "Lost Cause",
-  options: [
-    "OverHeated",
-    "Lost Cause",
-    "Your Power",
-    "NDA",
-  ]
+    numb: 337,
+    question: "What song is this lyric from: I wondered if you aware that day was the last straw for me and I know",
+    answer: "Lost Cause",
+    options: [
+      "OverHeated",
+      "Lost Cause",
+      "Your Power",
+      "NDA",
+    ]
   },
   {
-  numb: 338,
-  question: "What song is this lyric from: Would you like me to be smaller, weaker, softer, taller?",
-  answer: "Not My Responsibility",
-  options: [
-    "Everybody Dies",
-    "Lost Cause",
-    "Therefore I am",
-    "Not My Responsibility",
-  ]
+    numb: 338,
+    question: "What song is this lyric from: Would you like me to be smaller, weaker, softer, taller?",
+    answer: "Not My Responsibility",
+    options: [
+      "Everybody Dies",
+      "Lost Cause",
+      "Therefore I am",
+      "Not My Responsibility",
+    ]
   },
   {
-  numb: 339,
-  question: "What song is this lyric from: Instead of stopping, they still were flashing (I don't really)",
-  answer: "OverHeated",
-  options: [
-    "Your Power",
-    "Bored",
-    "OverHeated",
-    "bad Guy",
-  ]
+    numb: 339,
+    question: "What song is this lyric from: Instead of stopping, they still were flashing (I don't really)",
+    answer: "OverHeated",
+    options: [
+      "Your Power",
+      "Bored",
+      "OverHeated",
+      "bad Guy",
+    ]
   },
   {
-  numb: 340,
-  question: "What song is this lyric from: I just wonder why you'd wanna stay",
-  answer: "Everybody Dies",
-  options: [
-    "Halleys Comet",
-    "Bury a friend",
-    "Ocean Eyes",
-    "Everybody Dies",
-  ]
+    numb: 340,
+    question: "What song is this lyric from: I just wonder why you'd wanna stay",
+    answer: "Everybody Dies",
+    options: [
+      "Halleys Comet",
+      "Bury a friend",
+      "Ocean Eyes",
+      "Everybody Dies",
+    ]
   },
   {
-  numb: 341,
-  question: "What song is this lyric from: Like it was my fault, you were the devil, lost your appeal",
-  answer: "Your Power",
-  options: [
-    "Watch",
-    "My Future",
-    "Bored",
-    "Your Power",
-  ]
+    numb: 341,
+    question: "What song is this lyric from: Like it was my fault, you were the devil, lost your appeal",
+    answer: "Your Power",
+    options: [
+      "Watch",
+      "My Future",
+      "Bored",
+      "Your Power",
+    ]
   },
   {
-  numb: 342,
-  question: "What song is this lyric from: Haven't had a party since I got the keys",
-  answer: "NDA",
-  options: [
-    "Bury A friend",
-    "NDA",
-    "Ocean Eyes",
-    "Lovely",
-  ]
+    numb: 342,
+    question: "What song is this lyric from: Haven't had a party since I got the keys",
+    answer: "NDA",
+    options: [
+      "Bury A friend",
+      "NDA",
+      "Ocean Eyes",
+      "Lovely",
+    ]
   },
   {
-  numb: 343,
-  question: "What song is this lyric from: Stop, what the hell are you talking about? Ha",
-  answer: "Therefore I am",
-  options: [
-    "GoodBye",
-    "I love you",
-    "Xanny",
-    "Therefore I am",
-  ]
+    numb: 343,
+    question: "What song is this lyric from: Stop, what the hell are you talking about? Ha",
+    answer: "Therefore I am",
+    options: [
+      "GoodBye",
+      "I love you",
+      "Xanny",
+      "Therefore I am",
+    ]
   },
   {
-  numb: 344,
-  question: "What song is this lyric from: Giving you what you're begging for",
-  answer: "Bored",
-  options: [
-    "My futuere",
-    "Bad Guy",
-    "Bored",
-    "8",
-  ]
+    numb: 344,
+    question: "What song is this lyric from: Giving you what you're begging for",
+    answer: "Bored",
+    options: [
+      "My futuere",
+      "Bad Guy",
+      "Bored",
+      "8",
+    ]
   },
   {
-  numb: 345,
-  question: "What song is this lyric from: Stop, what the hell are you talking about? Ha",
-  answer: "Therefore I am",
-  options: [
-    "bellyache",
-    "Watch",
-    "Therefore I am",
-    "ilomilo",
-  ]
+    numb: 345,
+    question: "What song is this lyric from: Stop, what the hell are you talking about? Ha",
+    answer: "Therefore I am",
+    options: [
+      "bellyache",
+      "Watch",
+      "Therefore I am",
+      "ilomilo",
+    ]
   },
   {
-  numb: 346,
-  question: "What song is this lyric from: Know I'm supposed to be unhappy without someone (Someone)",
-  answer: "My future",
-  options: [
-    "My future",
-    "all the good girls go to hell",
-    "8",
-    "wish you were gay",
-  ]
+    numb: 346,
+    question: "What song is this lyric from: Know I'm supposed to be unhappy without someone (Someone)",
+    answer: "My future",
+    options: [
+      "My future",
+      "all the good girls go to hell",
+      "8",
+      "wish you were gay",
+    ]
   },
   {
-  numb: 347,
-  question: "What song is this lyric from: Kinda thought they might care (might care, might care)",
-  answer: "Everything I wanted",
-  options: [
-    "hostage",
-    "Everything I wanted",
-    "goodbye",
-    "Copycat",
-  ]
+    numb: 347,
+    question: "What song is this lyric from: Kinda thought they might care (might care, might care)",
+    answer: "Everything I wanted",
+    options: [
+      "hostage",
+      "Everything I wanted",
+      "goodbye",
+      "Copycat",
+    ]
   },
   {
-  numb: 348,
-  question: "What song is this lyric from: Pearly Gates look more like a picket fence",
-  answer: "all the good girls goes to hell",
-  options: [
-    "xanny",
-    "Everything I wanted",
-    "party favor",
-    "all the good girls goes to hell",
-  ]
+    numb: 348,
+    question: "What song is this lyric from: Pearly Gates look more like a picket fence",
+    answer: "all the good girls goes to hell",
+    options: [
+      "xanny",
+      "Everything I wanted",
+      "party favor",
+      "all the good girls goes to hell",
+    ]
   },
   {
-  numb: 349,
-  question: "What song is this lyric from: Bruises on both my knees for you",
-  answer: "Bad Guy",
-  options: [
-    "hostages",
-    "Ocean Eyes",
-    "Bad Guy",
-    "all the good girls goes to hell",
-  ]
+    numb: 349,
+    question: "What song is this lyric from: Bruises on both my knees for you",
+    answer: "Bad Guy",
+    options: [
+      "hostages",
+      "Ocean Eyes",
+      "Bad Guy",
+      "all the good girls goes to hell",
+    ]
   },
   {
-  numb: 350,
-  question: "What song is this lyric from: But all I see is him right now",
-  answer: "watch",
-  options: [
-    "six feet under",
-    "watch",
-    "copycat",
-    "i love you",
-  ]
+    numb: 350,
+    question: "What song is this lyric from: But all I see is him right now",
+    answer: "watch",
+    options: [
+      "six feet under",
+      "watch",
+      "copycat",
+      "i love you",
+    ]
   },
   {
-  numb: 351,
-  question: "What song is this lyric from: If teardrops could be bottled, there'd be swimming pools filled by models",
-  answer: "idontwanabeyouanymore",
-  options: [
-    "wish you were gay",
-    "bury a friend",
-    "idontwanabeyouanymore",
-    "bellyache",
-  ]
+    numb: 351,
+    question: "What song is this lyric from: If teardrops could be bottled, there'd be swimming pools filled by models",
+    answer: "idontwanabeyouanymore",
+    options: [
+      "wish you were gay",
+      "bury a friend",
+      "idontwanabeyouanymore",
+      "bellyache",
+    ]
   },
   {
-  numb: 352,
-  question: "What song is this lyric from: Lookin' through my room for the money",
-  answer: "bellyache",
-  options: [
-    "bellyache",
-    "ocean eyes",
-    "lovely",
-    "goodbye",
-  ]
+    numb: 352,
+    question: "What song is this lyric from: Lookin' through my room for the money",
+    answer: "bellyache",
+    options: [
+      "bellyache",
+      "ocean eyes",
+      "lovely",
+      "goodbye",
+    ]
   },
   {
-  numb: 353,
-  question: "What song is this lyric from: I could lie, say I like it like that, like it like that",
-  answer: "when the party's over",
-  options: [
-    "goodbye",
-    "xanny",
-    "party favor",
-    "hostage",
-  ]
+    numb: 353,
+    question: "What song is this lyric from: I could lie, say I like it like that, like it like that",
+    answer: "when the party's over",
+    options: [
+      "goodbye",
+      "xanny",
+      "party favor",
+      "hostage",
+    ]
   },
   {
-  numb: 354,
-  question: "What song is this lyric from: Count my cards, watch them fall",
-  answer: "you should see me in a crown",
-  options: [
-    "i love you",
-    "goodbye",
-    "six feet under",
-    "you should see me in a crown",
-  ]
+    numb: 354,
+    question: "What song is this lyric from: Count my cards, watch them fall",
+    answer: "you should see me in a crown",
+    options: [
+      "i love you",
+      "goodbye",
+      "six feet under",
+      "you should see me in a crown",
+    ]
   },
   {
-  numb: 355,
-  question: "What song is this lyric from: When we all fall asleep, where do we go?",
-  answer: "bury a friend",
-  options: [
-    "i love you",
-    "party favor",
-    "hostage",
-    "bury a friend",
-  ]
+    numb: 355,
+    question: "What song is this lyric from: When we all fall asleep, where do we go?",
+    answer: "bury a friend",
+    options: [
+      "i love you",
+      "party favor",
+      "hostage",
+      "bury a friend",
+    ]
   },
   {
-  numb: 356,
-  question: "What song is this lyric from: If three's a crowd and two was us, one slipped away (hahahahaha)",
-  answer: "wish you were gay",
-  options: [
-    "&burn",
-    "party favor",
-    "Copycat",
-    "wish you were gay",
-  ]
+    numb: 356,
+    question: "What song is this lyric from: If three's a crowd and two was us, one slipped away (hahahahaha)",
+    answer: "wish you were gay",
+    options: [
+      "&burn",
+      "party favor",
+      "Copycat",
+      "wish you were gay",
+    ]
   },
   {
-  numb: 357,
-  question: "What song is this lyric from: They're never gonna give you love like ours",
-  answer: "ilomilo",
-  options: [
-    "Ocean Eyes",
-    "party favor",
-    "ilomilo",
-    "8",
-  ]
+    numb: 357,
+    question: "What song is this lyric from: They're never gonna give you love like ours",
+    answer: "ilomilo",
+    options: [
+      "Ocean Eyes",
+      "party favor",
+      "ilomilo",
+      "8",
+    ]
   },
   {
-  numb: 358,
-  question: "What song is this lyric from: (I have taken out my Invisalign)",
-  answer: "!!!!",
-  options: [
-    "My boy",
-    "lovely",
-    "My Strange Addiction",
-    "!!!!",
-  ]
+    numb: 358,
+    question: "What song is this lyric from: (I have taken out my Invisalign)",
+    answer: "!!!!",
+    options: [
+      "My boy",
+      "lovely",
+      "My Strange Addiction",
+      "!!!!",
+    ]
   },
   {
-  numb: 359,
-  question: "What song is this lyric from: I guess im just not the girl you wanted",
-  answer: "lovely",
-  options: [
-    "!!!!",
-    "copycat",
-    "Bad Guy",
-    "lovely",
-  ]
+    numb: 359,
+    question: "What song is this lyric from: I guess im just not the girl you wanted",
+    answer: "lovely",
+    options: [
+      "!!!!",
+      "copycat",
+      "Bad Guy",
+      "lovely",
+    ]
   },
   {
-  numb: 360,
-  question: "What song is this lyric from: Learned my lesson way too long ago",
-  answer: "My Strange Addiction",
-  options: [
-    "My boy",
-    "ocean eys",
-    "My Strange Addiction",
-    "bad guy",
-  ]
+    numb: 360,
+    question: "What song is this lyric from: Learned my lesson way too long ago",
+    answer: "My Strange Addiction",
+    options: [
+      "My boy",
+      "ocean eys",
+      "My Strange Addiction",
+      "bad guy",
+    ]
   },
   {
-  numb: 361,
-  question: "What song is this lyric from: Around my neck, but now it's missing, hmm",
-  answer: "8",
-  options: [
-    "hostage",
-    "xanny",
-    "listen before I go",
-    "8",
-  ]
+    numb: 361,
+    question: "What song is this lyric from: Around my neck, but now it's missing, hmm",
+    answer: "8",
+    options: [
+      "hostage",
+      "xanny",
+      "listen before I go",
+      "8",
+    ]
   },
   {
-  numb: 362,
-  question: "What song is this lyric from: You really know how to make me cry",
-  answer: "Ocean Eyes",
-  options: [
-    "goodbye",
-    "Ocean Eyes",
-    "party favor",
-    "six feet under",
-  ]
+    numb: 362,
+    question: "What song is this lyric from: You really know how to make me cry",
+    answer: "Ocean Eyes",
+    options: [
+      "goodbye",
+      "Ocean Eyes",
+      "party favor",
+      "six feet under",
+    ]
   },
   {
-  numb: 363,
-  question: "What song is this lyric from: Don't love me like he promised",
-  answer: "my boy",
-  options: [
-    "my boy",
-    "i love you",
-    "&burn",
-    "bellyache",
-  ]
+    numb: 363,
+    question: "What song is this lyric from: Don't love me like he promised",
+    answer: "my boy",
+    options: [
+      "my boy",
+      "i love you",
+      "&burn",
+      "bellyache",
+    ]
   },
   {
-  numb: 364,
-  question: "What song is this lyric from: But I love it when you're awfully quiet",
-  answer: "Come out and play",
-  options: [
-    "six feet under",
-    "copycat",
-    "Come out and play",
-    "bellyache",
-  ]
+    numb: 364,
+    question: "What song is this lyric from: But I love it when you're awfully quiet",
+    answer: "Come out and play",
+    options: [
+      "six feet under",
+      "copycat",
+      "Come out and play",
+      "bellyache",
+    ]
   },
   {
-  numb: 365,
-  question: "What song is this lyric from: Oh, what a shame, I'm not there",
-  answer: "Bitches broken hearts",
-  options: [
-    "six feet under",
-    "myBoi",
-    "when Im older",
-    "Bitches broken hearts",
-  ]
+    numb: 365,
+    question: "What song is this lyric from: Oh, what a shame, I'm not there",
+    answer: "Bitches broken hearts",
+    options: [
+      "six feet under",
+      "myBoi",
+      "when Im older",
+      "Bitches broken hearts",
+    ]
   },
   {
-  numb: 366,
-  question: "What song is this lyric from: And all the good girls go to Hell",
-  answer: "goodbye",
-  options: [
-    "goodbye",
-    "i love you",
-    "listen before i go",
-    "copycat",
-  ]
+    numb: 366,
+    question: "What song is this lyric from: And all the good girls go to Hell",
+    answer: "goodbye",
+    options: [
+      "goodbye",
+      "i love you",
+      "listen before i go",
+      "copycat",
+    ]
   },
   {
-  numb: 367,
-  question: "What song is this lyric from: Only one who's not stoned",
-  answer: "xanny",
-  options: [
-    "party favor",
-    "i love you",
-    "ocean eyes",
-    "xanny",
-  ]
+    numb: 367,
+    question: "What song is this lyric from: Only one who's not stoned",
+    answer: "xanny",
+    options: [
+      "party favor",
+      "i love you",
+      "ocean eyes",
+      "xanny",
+    ]
   },
   {
-  numb: 368,
-  question: "What song is this lyric from: Maybe won't you take it back? Say you were tryna make me laugh",
-  answer: "i love you",
-  options: [
-    "when I was older",
-    "six feet under",
-    "hostage",
-    "copycat",
-  ]
+    numb: 368,
+    question: "What song is this lyric from: Maybe won't you take it back? Say you were tryna make me laugh",
+    answer: "i love you",
+    options: [
+      "when I was older",
+      "six feet under",
+      "hostage",
+      "copycat",
+    ]
   },
   {
-  numb: 369,
-  question: "What song is this lyric from: Tell me, love is endless, don't be so pretentious",
-  answer: "listen before I go",
-  options: [
-    "when I was older",
-    "hostage",
-    "party favor",
-    "listen before I go",
-  ]
+    numb: 369,
+    question: "What song is this lyric from: Tell me, love is endless, don't be so pretentious",
+    answer: "listen before I go",
+    options: [
+      "when I was older",
+      "hostage",
+      "party favor",
+      "listen before I go",
+    ]
   },
   {
     numb: 370,
@@ -4165,7 +4165,7 @@ let questions = [
       "Holy Ground",
       "Babe",
       "Forever Winter",
-      ]
+    ]
   },
   {
     numb: 379,
@@ -4189,4 +4189,114 @@ let questions = [
       "The Alchemy",
     ]
   },
+  {
+    numb: 381,
+    question: "What song is this lyric from: I'm gonna love you 'til the end",
+    answer: "LIFETIMES",
+    options: [
+      "LIFETIMES",
+      "Fingerprints",
+      "Ur So Gay",
+      "Power",
+    ]
+  },
+  {
+    numb: 382,
+    question: "What song is this lyric from: She's a sister, she's a mother",
+    answer: "WOMAN'S WORLD",
+    options: [
+      "LIFETIMES",
+      "Firework",
+      "Teenage Dream",
+      "WOMAN'S WORLD",
+    ]
+  },
+  {
+    numb: 383,
+    question: "What song is this lyric from: I was alright, but things were kinda heavy",
+    answer: "Teenage Dream",
+    options: [
+      "Roar",
+      "Fingerprints",
+      "Teenage Dream",
+      "Power",
+    ]
+  },
+  {
+    numb: 384,
+    question: "What song is this lyric from: I'll be your baby, on a Sunday",
+    answer: "Harleys In Hawaii",
+    options: [
+      "Harleys In Hawaii",
+      "Smile",
+      "Con Calma",
+      "Power",
+    ]
+  },
+  {
+    numb: 385,
+    question: "What song is this lyric from: Yeah, I was dreaming for so long",
+    answer: "Wide Awake",
+    options: [
+      "LIFETIMES",
+      "Fingerprints",
+      "Wide Awake",
+      "E.T.",
+    ]
+  },
+  {
+    numb: 386,
+    question: "What song is this lyric from: And if I think it over, maybe you'll be coming over again",
+    answer: "Never Really Over",
+    options: [
+      "Swish Swish",
+      "Never Really Over",
+      "Ur So Gay",
+      "Power",
+    ]
+  },
+  {
+    numb: 387,
+    question: "What song is this lyric from: I'm gonna love you 'til the end",
+    answer: "Firework",
+    options: [
+      "Firework",
+      "Fingerprints",
+      "Ur So Gay",
+      "Power",
+    ]
+  },
+  {
+    numb: 388,
+    question: "What song is this lyric from: When I'm gone, I'm never really gone",
+    answer: "When Im Gone",
+    options: [
+      "Fingerprints",
+      "When Im Gone",
+      "Smile",
+      "Teenage Dream",
+    ]
+  },
+  {
+    numb: 389,
+    question: "What song is this lyric from: I let you push me past the breaking point",
+    answer: "Roar",
+    options: [
+      "Daisies",
+      "Never Worn White",
+      "Déjá Vu",
+      "Roar",
+    ]
+  },
+  {
+    numb: 390,
+    question: "What song is this lyric from: Yeah, I've gone to sleep night after night punching a pillow",
+    answer: "Resilient",
+    options: [
+      "Resilient",
+      "Ur So Gay",
+      "Smile",
+      "Power",
+    ]
+  }
 ]
