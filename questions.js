@@ -4298,5 +4298,115 @@ let questions = [
       "Smile",
       "Power",
     ]
-  }
+  },
+  {
+    numb: 391,
+    question: "What song is this lyric from: Long hard road to get that redemption",
+    answer: "Smile",
+    options: [
+      "Dasies",
+      "Unconditionally",
+      "Smile",
+      "Dark Horse",
+    ]
+  },
+  {
+    numb: 391,
+    question: "What song is this lyric from: Could spend your whole life, but you couldn't",
+    answer: "What Makes A Woman",
+    options: [
+      "365",
+      "What Makes A Woman",
+      "Never Work White",
+      "E.T.",
+    ]
+  },
+  {
+    numb: 392,
+    question: "What song is this lyric from: They told me I was out there, tried to knock me down",
+    answer: "Daisies",
+    options: [
+      "Daisies",
+      "Smile",
+      "Never Work White",
+      "Swish Swish",
+    ]
+  },
+  {
+    numb: 393,
+    question: "What song is this lyric from: Thank God that you were man enough to come",
+    answer: "Never Worn White",
+    options: [
+      "I kissed a girl",
+      "Smile",
+      "Never Work White",
+      "The One That Got Away",
+    ]
+  },
+  {
+    numb: 394,
+    question: "What song is this lyric from: Now you see me shine from a mile",
+    answer: "Smile",
+    options: [
+      "Bon appetit",
+      "Smile",
+      "Mind Maze",
+      "Power",
+    ]
+  },
+  {
+    numb: 395,
+    question: "What song is this lyric from: I'll take your bad days with your good",
+    answer: "Unconditionally",
+    options: [
+      "Drak Horse",
+      "Unconditionally",
+      "Mind Maze",
+      "Last Friday Night",
+    ]
+  },
+  {
+    numb: 396,
+    question: "What song is this lyric from: We went from strangers to lovers to strangers in a lifetime",
+    answer: "Small Talk",
+    options: [
+      "E.T.",
+      "Small Talk",
+      "I Kissed A Girl",
+      "Roulette",
+    ]
+  },
+  {
+    numb: 397,
+    question: "What song is this lyric from: But you better choose carefully",
+    answer: "Dark Horse",
+    options: [
+      "Dark Horse",
+      "Hey Hey Hey",
+      "Power",
+      "Save As Draft",
+    ]
+  },
+  {
+    numb: 398,
+    question: "What song is this lyric from: You make a weekend feel like a year",
+    answer: "365",
+    options: [
+      "Witness",
+      "Miss You More",
+      "365",
+      "Save As Draft",
+    ]
+  },
+  {
+    numb: 398,
+    question: "What song is this lyric from: I kiss on him, but he don't mind",
+    answer: "Last Friday Night",
+    options: [
+      "Witness",
+      "Hey Hey Hey",
+      "Last Friday Night",
+      "Mind Maze",
+    ]
+  },
 ]
