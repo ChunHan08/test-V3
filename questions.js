@@ -5036,4 +5036,125 @@ let questions = [
       "Choose Your Battles",
     ]
   },
+  {
+    numb: 447,
+    question: "What song is this lyric from: Lit through the darkness at 1:58",
+    answer: "Last Kiss",
+    options: [
+      "Long Live",
+      "Mine",
+      "Last Kiss",
+      "Ours",
+    ]
+    },
+    {
+    numb: 448,
+    question: "What song is this lyric from: We were kinds and the queens",
+    answer: "Long Live",
+    options: [
+      "Ours",
+      "Long Live",
+      "Enchanted",
+      "Speak Now",
+    ]
+    },
+    {
+    numb: 449,
+    question: "What song is this lyric from: But right now, my time is theirs",
+    answer: "Ours",
+    options: [
+      "I can see you",
+      "Superman",
+      "Timeless",
+      "Ours",
+    ]
+    },
+    {
+    numb: 450,
+    question: "What song is this lyric from: To save the world or go to work",
+    answer: "Superman",
+    options: [
+      "Superman",
+      "I can see you",
+      "When Emma falls in love",
+      "Electric Touch",
+    ]
+    },
+    {
+    numb: 451,
+    question: "What song is this lyric from: Just the first time ever hanging our with you",
+    answer: "Electric Touch",
+    options: [
+      "Electric Touch",
+      "Mine",
+      "Enchanted",
+      "Haunted",
+    ]
+    },
+    {
+    numb: 452,
+    question: "What song is this lyric from: Jokes about the ways that this one could go wrong",
+    answer: "When Emma Falls in Love",
+    options: [
+      "I can see you",
+      "Foolish One",
+      "When Emma Falls in Love",
+      "castles crumbling",
+    ]
+    },
+    {
+    numb: 453,
+    question: "What song is this lyric from: What would you do if we never made a sound?",
+    answer: "I can see you",
+    options: [
+      "I can see you",
+      "Castles Crumbling",
+      "Timeless",
+      "Foolish One",
+    ]
+    },
+    {
+    numb: 454,
+    question: "What song is this lyric from: Once, I had an empire in a golden age",
+    answer: "Castles Crumbling",
+    options: [
+      "Ours",
+      "Castles Crumbling",
+      "Innocent",
+      "Sparks Fly",
+    ]
+    },
+    {
+    numb: 445,
+    question: "What song is this lyric from: My cards are on the table, yours are in your hand",
+    answer: "Foolish One",
+    options: [
+      "Ours",
+      "Mine",
+      "Better Than Revenge",
+      "Foolish One",
+    ]
+    },
+    {
+    numb: 456,
+    question: "What song is this lyric from:Black and white saw a 30s bride and two lover lauging on the proch of their first house",
+    answer: "Timeless",
+    options: [
+      "I can see you",
+      "Superman",
+      "Timeless",
+      "Foolish One",
+    ]
+    },
+    {
+    numb: 457,
+    question: "What song is this lyric from: Just a boy in a Chevy truck",
+    answer: "Tim Mcgraw",
+    options: [
+      "our song",
+      "Im only me when im with you",
+      "Tim Mcgraw",
+      "Tear Drops on my guitar",
+    ]
+    },
 ]
