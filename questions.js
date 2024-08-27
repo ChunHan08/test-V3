@@ -5257,7 +5257,7 @@ let questions = [
       ]
     },
     {
-      numb: 458,
+      numb: 468,
       question: "What song is this lyric from: She was a hurricane-cane-cane-cane",
       answer: "Pearl",
       options: [
@@ -5267,4 +5267,137 @@ let questions = [
         "Birthday", 
       ]
     },
+    {
+      numb: 469,
+      question: "What song is this lyric from: We're on a long byway standing",
+      answer: "Birch",
+      options: [
+        "Birch",
+        "Safe & Sounds",
+        "The Alcott",
+        "Eyes Open",
+      ]
+    },
+    {
+      numb: 470,
+      question: "What song is this lyric from: That this was meant to be?",
+      answer: "The Joker And The Queen",
+      options: [
+        "Birch",
+        "Eyes Open",
+        "Carolina",
+        "The Joker And The Queen",
+      ]
+    },
+    {
+      numb: 471,
+      question: "What song is this lyric from: Free as there birds, light as whispers",
+      answer: "Carolina",
+      options: [
+        "Safe And Sound",
+        "The Alcott",
+        "Carolina",
+        "The Joker And The Queen",
+      ]
+    },
+    {
+      numb: 472,
+      question: "What song is this lyric from: But all that's dead and gone and passed tonight",
+      answer: "Safe And Sound",
+      options: [
+        "Safe And Sound",
+        "Eyes Open",
+        "Carolina",
+        "us.",
+      ]
+    },
+    {
+      numb: 473,
+      question: "What song is this lyric from: Playing soldiers, just pretending",
+      answer: "Eyes Open",
+      options: [
+        "Caolina",
+        "Eyes Open",
+        "Crazier",
+        "Beautiful Ghosts",
+      ]
+    },
+    {
+      numb: 474,
+      question: "What song is this lyric from: And there you are, sitting as usual with your golden notebook",
+      answer: "The Alcott",
+      options: [
+        "The Joke And The Queen",
+        "Birch",
+        "The Alcott",
+        "Beautiful Ghosts",
+      ]
+    },
+    {
+      numb: 475,
+      question: "What song is this lyric from: But the very next day You gave it away",
+      answer: "Last Christmas",
+      options: [
+        "White Christmas",
+        "Silent Night",
+        "Santa Baby",
+        "Last Christmas",
+      ]
+    },
+    {
+      numb: 476,
+      question: "What song is this lyric from: I know this shouldn't to be a lonely time",
+      answer: "Christmas When You Were Mine",
+      options: [
+        "Christmas When You Were Mine",
+        "White Christmas",
+        "Santa Baby",
+        "Silent Night",
+      ]
+    },
+    {
+      numb: 477,
+      question: "What song is this lyric from: Well, Ill wait up for you, dear santa",
+      answer: "Christmas When You Were Mine",
+      options: [
+        "Christmas When You Were Mine",
+        "White Christmas",
+        "Santa Baby",
+        "Silent Night",
+      ]
+    },
+    {
+      numb: 478,
+      question: "What song is this lyric from: Holy infant so tender and mild",
+      answer: "Silent Night",
+      options: [
+        "Christmas When You Were Mine",
+        "White Christmas",
+        "Santa Baby",
+        "Silent Night",
+      ]
+    },
+    {
+      numb: 479,
+      question: "What song is this lyric from: And I'm not alone, I'm not alone",
+      answer: "Santa Baby",
+      options: [
+        "Santa Baby",
+        "White Christmas",
+        "Silent Night",
+        "Christmas When You Were Mine",
+      ]
+    },
+    {
+      numb: 480,
+      question: "What song is this lyric from: I lived, and I learned, had you, got burned",
+      answer: "You All Over Me",
+      options: [
+        "Love Story",
+        "Fearless",
+        "You All Over Me",
+        "Don't You",
+      ]
+    },
+    
 ]
