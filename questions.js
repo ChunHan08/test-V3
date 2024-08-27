@@ -4695,4 +4695,224 @@ let questions = [
       "California Gurls",
     ]
   },
+  {
+    numb: 426,
+    question: "What song is this lyric from: But your mind plays tricks with distance",
+    answer: "Kiss You More",
+    options: [
+      "Pearl",
+      "Ghost",
+      "Kiss You More",
+      "Ghost",
+    ]
+  },
+  {
+    numb: 427,
+    question: "What song is this lyric from: Stole my time, but I'll make up the hours",
+    answer: "Power",
+    options: [
+      "Mannequin",
+      "Hot N Gold",
+      "Power",
+      "What Am I Loving For?",
+    ]
+  },
+  {
+    numb: 428,
+    question: "What song is this lyric from: Sometimes I swear I pass your SUV on Sunset Boulevard",
+    answer: "Save As Draft",
+    options: [
+      "Fingerprints",
+      "Self Inflicted",
+      "Power",
+      "Save As Draft",
+    ]
+  },
+  {
+    numb: 429,
+    question: "What song is this lyric from: You suck my hope up in a vacuum",
+    answer: "Deja Vu",
+    options: [
+      "Deja Vu",
+      "I Kissed A Girl",
+      "If You Can Afford Me",
+      "Cozy Little Christmas",
+    ]
+  },
+  {
+    numb: 430,
+    question: "What song is this lyric from: Every hit gets harder when you're fighting without armor",
+    answer: "Mind Maze",
+    options: [
+      "Tsunami",
+      "Mind Maze",
+      "E.T.",
+      "Into Me You See",
+    ]
+  },
+  {
+    numb: 431,
+    question: "What song is this lyric from: You grew yourself above the weeds, taller than the trees, oh",
+    answer: "Pendulum",
+    options: [
+      "Last Friday Night",
+      "Mind Maze",
+      "Pendulum",
+      "Part Of Me",
+    ]
+  },
+  {
+    numb: 432,
+    question: "What song is this lyric from: Embrace the breeze and sail away smoothly",
+    answer: "Tsunami",
+    options: [
+      "Bigger Than Me",
+      "Not Like The Movies",
+      "Peacock",
+      "Tsunami",
+    ]
+  },
+  {
+    numb: 433,
+    question: "What song is this lyric from: Was full of secrets locked up tight like iron mountain",
+    answer: "By The Grace Of God",
+    options: [
+      "By The Grace Of God",
+      "Into Me You See",
+      "Lost",
+      "Birthday",
+    ]
+  },
+  {
+    numb: 434,
+    question: "What song is this lyric from: We'd keep all our promises, be us against the world",
+    answer: "The One That Got Away",
+    options: [
+      "Hummingbird",
+      "The One That Got Away",
+      "Choose Your Battles",
+      "Birthday",
+    ]
+  },
+  {
+    numb: 435,
+    question: "What song is this lyric from: You're giving me sweet, sweet ecstasy",
+    answer: "Walking On Air",
+    options: [
+      "This Is How We Do",
+      "The One That Got Away",
+      "Double Rainbows",
+      "Walking On Air",
+    ]
+  },
+  {
+    numb: 426,
+    question: "What song is this lyric from: But your mind plays tricks with distance",
+    answer: "Kiss You More",
+    options: [
+      "Pearl",
+      "Ghost",
+      "Kiss You More",
+      "Ghost",
+    ]
+  },
+  {
+    numb: 427,
+    question: "What song is this lyric from: Stole my time, but I'll make up the hours",
+    answer: "Power",
+    options: [
+      "Mannequin",
+      "Hot N Gold",
+      "Power",
+      "What Am I Loving For?",
+    ]
+  },
+  {
+    numb: 428,
+    question: "What song is this lyric from: Sometimes I swear I pass your SUV on Sunset Boulevard",
+    answer: "Save As Draft",
+    options: [
+      "Fingerprints",
+      "Self Inflicted",
+      "Power",
+      "Save As Draft",
+    ]
+  },
+  {
+    numb: 429,
+    question: "What song is this lyric from: You suck my hope up in a vacuum",
+    answer: "Deja Vu",
+    options: [
+      "Deja Vu",
+      "I Kissed A Girl",
+      "If You Can Afford Me",
+      "Cozy Little Christmas",
+    ]
+  },
+  {
+    numb: 430,
+    question: "What song is this lyric from: Every hit gets harder when you're fighting without armor",
+    answer: "Mind Maze",
+    options: [
+      "Tsunami",
+      "Mind Maze",
+      "E.T.",
+      "Into Me You See",
+    ]
+  },
+  {
+    numb: 431,
+    question: "What song is this lyric from: You grew yourself above the weeds, taller than the trees, oh",
+    answer: "Pendulum",
+    options: [
+      "Last Friday Night",
+      "Mind Maze",
+      "Pendulum",
+      "Part Of Me",
+    ]
+  },
+  {
+    numb: 432,
+    question: "What song is this lyric from: Embrace the breeze and sail away smoothly",
+    answer: "Tsunami",
+    options: [
+      "Bigger Than Me",
+      "Not Like The Movies",
+      "Peacock",
+      "Tsunami",
+    ]
+  },
+  {
+    numb: 433,
+    question: "What song is this lyric from: Was full of secrets locked up tight like iron mountain",
+    answer: "By The Grace Of God",
+    options: [
+      "By The Grace Of God",
+      "Into Me You See",
+      "Lost",
+      "Birthday",
+    ]
+  },
+  {
+    numb: 434,
+    question: "What song is this lyric from: We'd keep all our promises, be us against the world",
+    answer: "The One That Got Away",
+    options: [
+      "Hummingbird",
+      "The One That Got Away",
+      "Choose Your Battles",
+      "Birthday",
+    ]
+  },
+  {
+    numb: 435,
+    question: "What song is this lyric from: You're giving me sweet, sweet ecstasy",
+    answer: "Walking On Air",
+    options: [
+      "This Is How We Do",
+      "The One That Got Away",
+      "Double Rainbows",
+      "Walking On Air",
+    ]
+  },
 ]
