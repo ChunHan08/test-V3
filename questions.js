@@ -4399,7 +4399,7 @@ let questions = [
     ]
   },
   {
-    numb: 398,
+    numb: 399,
     question: "What song is this lyric from: I kiss on him, but he don't mind",
     answer: "Last Friday Night",
     options: [
@@ -4407,6 +4407,160 @@ let questions = [
       "Hey Hey Hey",
       "Last Friday Night",
       "Mind Maze",
+    ]
+  },
+  {
+    numb: 400,
+    question: "What song is this lyric from: For a moment i knew comsmic love.",
+    answer: "Down Bad",
+    options: [
+      "My boy only breaks his favourite toys",
+      "Gulity as sin",
+      "Down Bad",
+      "So long london"
+    ]
+  },
+  {
+    numb: 401,
+    question: "What song is this lyric from: But i felt a hole like this.",
+    answer: "loml",
+    options: [
+      "imgonnagetyouback",
+      "loml",
+      "Clara Bow",
+      "The Alchemy",
+    ]
+  },
+  {
+    numb: 402,
+    question: "What song is this lyric from: You know I left a part of me back in New York.",
+    answer: "Hoax",
+    options: [
+      "Hoax",
+      "Mirrorball",
+      "Epiphany",
+      "Seven",
+    ]
+  },
+  {
+    numb: 403,
+    question: "What song is this lyric from: Drank My posion all alone.",
+    answer: "The Great War",
+    options: [
+      "The Great War",
+      "Paris",
+      "Sweet nothing",
+      "Hits diffrent"
+    ]
+  },
+  {
+    numb: 404,
+    question: "What song is this lyric from: I walked in expecting you'd be late.",
+    answer: "Begin Again",
+    options: [
+      "Treacherous",
+      "Begin Again",
+      "Girl At Home",
+      "The Last Time",
+    ]
+  },
+  {
+    numb: 405,
+    question: "What song is this lyric from: Is this the end of all the endings?",
+    answer: "King Of My Heart",
+    options: [
+      "End Game",
+      "Dont't Blame Me",
+      "New Years Day",
+      "King Of My Heart",
+    ]
+  },
+  {
+    numb: 406,
+    question: "What song is this lyric from: It rains when you're here and it rains when you're gone.",
+    answer: "Forever & Always",
+    options: [
+      "Come in with the rain",
+      "Forever & Always",
+      "If this was a movie",
+      "Fearless",
+    ]
+  },
+  {
+    numb: 407,
+    question: "What song is this lyric from: I'm so very tame now.",
+    answer: "Ready for it?",
+    options: [
+      "Delicate",
+      "Ready for it?",
+      "The Archer",
+      "so it goes",
+    ]
+  },
+  {
+    numb: 408,
+    question: "What song is this lyric from: Big reputation, big reputation.",
+    answer: "End Game",
+    options: [
+      "Don't Blame Me",
+      "Call It What You Want",
+      "End Game",
+      "so it goes",
+    ]
+  },
+  {
+    numb: 409,
+    question: "What song is this lyric from: They got their pitchforks and proof.",
+    answer: "I Did Something Bad",
+    options: [
+      "The Archer",
+      "I Did Something Bad",
+      "New Year's Day",
+      "So It Goes",
+    ]
+  },
+  {
+    numb: 500,
+    question: "What song is this lyric from: For you, I would cross the line.",
+    answer: "Don't Blame Me",
+    options: [
+      "Don't Blame Me",
+      "Gorgeous",
+      "Dress",
+      "Seven",
+    ]
+  },
+  {
+    numb: 501,
+    question: "What song is this lyric from: Any promises now, can we, babe?",
+    answer: "Delicate",
+    options: [
+      "Afterglow",
+      "The Archer",
+      "I Think He Knows",
+      "Delicate",
+    ]
+  },
+  {
+    numb: 502,
+    question: "What song is this lyric from: But I got smarter, I got harder in the nick of time.",
+    answer: "Look What You Made Me Do",
+    options: [
+      "August",
+      "The Archer",
+      "Look What You Made Me Do",
+      "Daylight",
+    ]
+  },
+  {
+    numb: 503,
+    question: "What song is this lyric from: Gold Cage, hostage to my feelings",
+    answer: "So It Goes",
+    options: [
+      "Getaway Car",
+      "So It Goes",
+      "The Archer",
+      "I Think He Knows",
     ]
   },
 ]
