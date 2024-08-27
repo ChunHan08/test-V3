@@ -4915,4 +4915,125 @@ let questions = [
       "Walking On Air",
     ]
   },
+  {
+    numb: 436,
+    question: "What song is this lyric from: But my intuition says there's a bigger mission I must embrace",
+    answer: "Bigger Than Me",
+    options: [
+      "Not Like The Movie",
+      "Part Of Me",
+      "Bigger Than Me",
+      "E.T.",
+    ]
+  },
+  {
+    numb: 437,
+    question: "What song is this lyric from: You took my light, you drained me down",
+    answer: "Part Of Me",
+    options: [
+      "Choose Your Battle",
+      "Lost",
+      "Bigger Than Me",
+      "International Smile",
+    ]
+  },
+  {
+    numb: 438,
+    question: "What song is this lyric from: And you found a better version of me I had never seen",
+    answer: "Into Me You See",
+    options: [
+      "Dressin' Up",
+      "Into Me You See",
+      "Legerndary Lovers",
+      "Double Rainbows",
+    ]
+  },
+  {
+    numb: 439,
+    question: "What song is this lyric from: Maybe it's because your boy Yeezy get ass a lot",
+    answer: "E.T.",
+    options: [
+      "Dressin' Up",
+      "Birthday",
+      "Last Friday Night",
+      "E.T.",
+    ]
+  },
+  {
+    numb: 440,
+    question: "What song is this lyric from: Word on the street, you got somethin' to show me, me",
+    answer: "Peacock",
+    options: [
+      "Hummingbird",
+      "Peacock",
+      "Double Rainbow",
+      "E.T.",
+    ]
+  },
+  {
+    numb: 441,
+    question: "What song is this lyric from: Am I a stupid girl for even dreaming that I could?",
+    answer: "Not Like The Movies",
+    options: [
+      "One Of The Boys",
+      "Fingerprints",
+      "Love Me",
+      "Not Like The Movies",
+    ]
+  },
+  {
+    numb: 442,
+    question: "What song is this lyric from: I never knew I could see something so clearly lookin' through my third eye",
+    answer: "Legendary Lovers",
+    options: [
+      "Cozy Little Christmas",
+      "I kissed a girl",
+      "One Of the Boys",
+      "Legendary Lovers",
+    ]
+  },
+  {
+    numb: 443,
+    question: "What song is this lyric from: Yeah, we maxed our credit cards and got kicked out of the bar",
+    answer: "Last Friday Night",
+    options: [
+      "Fingerprints",
+      "Waking Up In Vegas",
+      "Last Friday Night",
+      "Legendary Lovers",
+    ]
+  },
+  {
+    numb: 444,
+    question: "What song is this lyric from: Passport stamps, she's cosmopolitan (Ooh ooh ooh)",
+    answer: "International Smile",
+    options: [
+      "self inflicted",
+      "Ur so gay",
+      "Love Me",
+      "International Smile",
+    ]
+  },
+  {
+    numb: 445,
+    question: "What song is this lyric from: Group of girls banging on the door",
+    answer: "Lost",
+    options: [
+      "Lost",
+      "One Of The Boys",
+      "Love Me",
+      "Wake Up In Vegas",
+    ]
+  },
+  {
+    numb: 446,
+    question: "What song is this lyric from: So I tiptoe through your triggered mind",
+    answer: "Choose Your Battles",
+    options: [
+      "Birthday",
+      "Dressin' Up",
+      "Hummingbird",
+      "Choose Your Battles",
+    ]
+  },
 ]
