@@ -5520,4 +5520,125 @@ let questions = [
         "Roar",
       ]
     },
+  {
+    numb: 492,
+    question: "What song is this lyric from: Sometimes I wish my skin was a costume",
+    answer: "Love Me",
+    options: [
+      "Love Me",
+      "One Of The Boys",
+      "If You Can Afford Me",
+      "Roar",
+    ]
+  },
+  {
+    numb: 493,
+    question: "What song is this lyric from: I got so brave, drink in hand, lost my discretion",
+    answer: "I Kissed A Girl",
+    options: [
+      "Ur So Gay",
+      "One Of The Boys",
+      "I Kissed A Girl",
+      "Pearl",
+    ]
+  },
+  {
+    numb: 494,
+    question: "What song is this lyric from: I lost my fake ID but you lost the motel key",
+    answer: "Waking Up in Vegas",
+    options: [
+      "Love Me",
+      "Waking Up in Vegas",
+      "I Kissed A Girl",
+      "fingerprints",
+    ]
+  },
+  {
+    numb: 495,
+    question: "What song is this lyric from: The way you look at me is kinda like a little sister Rubbed by your goodbyes",
+    answer: "One Of The Boys",
+    options: [
+      "Love Me",
+      "Roar",
+      "Swish Swish",
+      "One Of The Boys",
+    ]
+  },
+  {
+    numb: 496,
+    question: "What song is this lyric from: We fall in love 'til it hurts or bleeds or fades in time",
+    answer: "State Of Grace",
+    options: [
+      "22",
+      "All To Well",
+      "Red",
+      "State Of Grace",
+    ]
+  },
+  {
+    numb: 497,
+    question: "What song is this lyric from: Loving him is like trying to change your mind",
+    answer: "Red",
+    options: [
+      "Red",
+      "Babe",
+      "I Almost Do",
+      "Stay Stay Stay",
+    ]
+  },
+  {
+    numb: 498,
+    question: "What song is this lyric from: This path is reckless",
+    answer: "Treacherous",
+    options: [
+      "Forever Winter",
+      "All Too Well",
+      "Treacherous",
+      "22",
+    ]
+  },
+  {
+    numb: 499,
+    question: "What song is this lyric from: I guess you didn't care",
+    answer: "I Knew You Were Trouble",
+    options: [
+      "I Knew You Were Trouble",
+      "Babe",
+      "I bet you think about me",
+      "The Lucky One",
+    ]
+  },
+  {
+    numb: 500,
+    question: "What song is this lyric from: Oh, your sweet disposition and my wide-eyed gaze",
+    answer: "All Too Well",
+    options: [
+      "Everything Has Changed",
+      "State Of Grace",
+      "Holy Ground",
+      "All Too Well",
+    ]
+  },
+  {
+    numb: 501,
+    question: "What song is this lyric from: If you want me, it takes more than a wink",
+    answer: "If You Can Afford Me",
+    options: [
+      "If You Can Afford Me",
+      "Pearl",
+      "Swish Swish",
+      "Fingerprints",
+    ]
+  },
+  {
+    numb: 502,
+    question: "What song is this lyric from: Shopping 'til they're droppin' in the snow",
+    answer: "Cozy Little Christmas",
+    options: [
+      "Birthday",
+      "Love Me",
+      "Roar",
+      "Cozy Little Christmas",
+    ]
+  },
 ]
