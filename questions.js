@@ -4520,7 +4520,7 @@ let questions = [
     ]
   },
   {
-    numb: 500,
+    numb: 410,
     question: "What song is this lyric from: For you, I would cross the line.",
     answer: "Don't Blame Me",
     options: [
@@ -4531,7 +4531,7 @@ let questions = [
     ]
   },
   {
-    numb: 501,
+    numb: 411,
     question: "What song is this lyric from: Any promises now, can we, babe?",
     answer: "Delicate",
     options: [
@@ -4542,7 +4542,7 @@ let questions = [
     ]
   },
   {
-    numb: 502,
+    numb: 412,
     question: "What song is this lyric from: But I got smarter, I got harder in the nick of time.",
     answer: "Look What You Made Me Do",
     options: [
@@ -4553,7 +4553,7 @@ let questions = [
     ]
   },
   {
-    numb: 503,
+    numb: 413,
     question: "What song is this lyric from: Gold Cage, hostage to my feelings",
     answer: "So It Goes",
     options: [
@@ -4561,6 +4561,138 @@ let questions = [
       "So It Goes",
       "The Archer",
       "I Think He Knows",
+    ]
+  },
+  {
+    numb: 414,
+    question: "What song is this lyric from: Gold Cage, They don't understand you",
+    answer: "E.T.",
+    options: [
+      "Choose Your Battles",
+      "E.T.",
+      "Peacock",
+      "Witness",
+    ]
+  },
+  {
+    numb: 415,
+    question: "What song is this lyric from: I got so brave, drink in hand",
+    answer: "I Kissed A Girl",
+    options: [
+      "I Kissed A Girl",
+      "E.T.",
+      "Lost",
+      "Witness",
+    ]
+  },
+  {
+    numb: 416,
+    question: "What song is this lyric from: So I don't have to say you were",
+    answer: "The One That Got Away",
+    options: [
+      "Birthday",
+      "E.T.",
+      "Swish Swish",
+      "The One That Got Away",
+    ]
+  },
+  {
+    numb: 417,
+    question: "What song is this lyric from: Funny my name keeps comin' out your mouth",
+    answer: "Swish Swish",
+    options: [
+      "Birthday",
+      "One Of The Boys",
+      "Swish Swish",
+      "This Moment",
+    ]
+  },
+  {
+    numb: 418,
+    question: "What song is this lyric from: Got me spread like a buffet",
+    answer: "Bon Appétit",
+    options: [
+      "Birthday",
+      "Mind Maze",
+      "Bon Appétit",
+      "pearl",
+    ]
+  },
+  {
+    numb: 419,
+    question: "What song is this lyric from: So comfortable, we cannot see the trouble, the trouble",
+    answer: "Chained To The Rhythm",
+    options: [
+      "Chained To The Rhythm",
+      "One Of The Boys",
+      "Swish Swish",
+      "This Moment",
+    ]
+  },
+  {
+    numb: 420,
+    question: "What song is this lyric from: Roll eyes at highs, cheers in the lows, and stay in the flow, woah",
+    answer: "Witness",
+    options: [
+      "Chained To The Rhythm",
+      "Hey Hey Hey",
+      "Witness",
+      "This Moment",
+    ]
+  },
+  {
+    numb: 421,
+    question: "What song is this lyric from: Something's stirring, I might need to unwind",
+    answer: "Roulette",
+    options: [
+      "Roulette",
+      "Hey Hey Hey",
+      "Witness",
+      "Save As Draft",
+    ]
+  },
+  {
+    numb: 422,
+    question: "What song is this lyric from: Red lipstick but still so raw, yeah",
+    answer: "Hey Hey Hey",
+    options: [
+      "Roulette",
+      "Legendary Lovers",
+      "Witness",
+      "Hey Hey Hey",
+    ]
+  },
+  {
+    numb: 423,
+    question: "What song is this lyric from: But do you ever wonder what we could have been?",
+    answer: "Miss You More",
+    options: [
+      "Miss You More",
+      "Lost",
+      "Ghost",
+      "Pearl",
+    ]
+  },
+  {
+    numb: 424,
+    question: "What song is this lyric from: I know that we don't speak the same language",
+    answer: "Con Calma",
+    options: [
+      "Fingerprints",
+      "Fearless",
+      "Con Calma",
+      "Power",
+    ]
+  },
+  {
+    numb: 425,
+    question: "What song is this lyric from: There must be somethin' in the water",
+    answer: "California Gurls",
+    options: [
+      "Swish Swish",
+      "E.T.",
+      "Ur So Gay",
+      "California Gurls",
     ]
   },
 ]
