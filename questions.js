@@ -5157,4 +5157,114 @@ let questions = [
       "Tear Drops on my guitar",
     ]
     },
+    {
+      numb: 458,
+      question: "What song is this lyric from: When I found you it was all pitter-patter",
+      answer: "Double rainbow",
+      options: [
+        "This Moment",
+        "Double rainbow",
+        "Pearl",
+        "Birthday", 
+      ]
+    },
+    {
+    numb: 459,
+    question: "What song is this lyric from: So cover your eyes, I have a surprise",
+    answer: "Birthday",
+    options: [
+      "Love Me",
+      "Birthday",
+      "Dressin'Up",
+      "Ur So Gay",
+    ]
+    },
+    {
+    numb: 460,
+    question: "What song is this lyric from: Let's pollinate to create a family tree",
+    answer: "Hummingbird Heartbeat",
+    options: [
+      "Hummingbird Heartbeat",
+      "Fingerprints",
+      "Dressin'Up",
+      "Waking Up In Vegas", 
+    ]
+    },
+    {
+    numb: 461,
+    question: "What song is this lyric from: Slow cooking pancakes for my boy",
+    answer: "This Is How We Do",
+    options: [
+      "I Kissed A Girl",
+      "Lost",
+      "It Takes Two",
+      "This Is How We Do", 
+    ]
+    },
+    {
+    numb: 462,
+    question: "What song is this lyric from: But maybe one day you will find",
+    answer: "This Moment",
+    options: [
+      "One Of The Boys",
+      "Lost",
+      "This Moment",
+      "Brick By Brick", 
+    ]
+    },
+    {
+      numb: 463,
+      question: "What song is this lyric from: He pulled me in, I was disgusted with myself",
+      answer: "Thinking Of You",
+      options: [
+        "Pearl",
+        "Ur So Gay",
+        "This Moment",
+        "Thinking Of You", 
+      ]
+    },
+    {
+      numb: 464,
+      question: "What song is this lyric from: So many new fair-weather friends",
+      answer: "Lost",
+      options: [
+        "Pearl",
+        "I'm Still Breathing",
+        "Lost",
+        "Thinking Of You", 
+      ]
+    },
+    {
+      numb: 465,
+      question: "What song is this lyric from: Oh, I can only take responsibility for me",
+      answer: "It Takes Two",
+      options: [
+        "Love Me",
+        "It Takes Two",
+        "Lost",
+        "Ur So Gay", 
+      ]
+    },
+    {
+      numb: 466,
+      question: "What song is this lyric from: Usually the queen of figuring out",
+      answer: "Mannequin",
+      options: [
+        "Spiritual",
+        "Mannequin",
+        "Ghost",
+        "Hot N Cold", 
+      ]
+    },
+    {
+      numb: 458,
+      question: "What song is this lyric from: She was a hurricane-cane-cane-cane",
+      answer: "Pearl",
+      options: [
+        "This Moment",
+        "Double rainbow",
+        "Pearl",
+        "Birthday", 
+      ]
+    },
 ]
