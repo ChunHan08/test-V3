@@ -5399,5 +5399,125 @@ let questions = [
         "Don't You",
       ]
     },
-    
+    {
+      numb: 481,
+      question: "What song is this lyric from: I saw you talkin' to Christopher Walken",
+      answer: "Hackensack",
+      options: [
+        "Spiritual",
+        "Hackensack",
+        "Ur So Gay",
+        "Circle The Drain",
+      ]
+    },
+    {
+      numb: 482,
+      question: "What song is this lyric from: There's just an echo where your heart used to be",
+      answer: "Ghost",
+      options: [
+        "Ghost",
+        "Brick By Brick",
+        "Love Me",
+        "Self Inflicted",
+      ]
+    },
+    {
+      numb: 483,
+      question: "What song is this lyric from: I should know that you're no good for me",
+      answer: "Hot N Cold",
+      options: [
+        "Fingerprints",
+        "One of the Boys",
+        "Hot N Cold",
+        "I Kissed A Girl",
+      ]
+    },
+    {
+      numb: 484,
+      question: "What song is this lyric from: Suiting up for my crowning battle",
+      answer: "What Am I Living For?",
+      options: [
+        "Waking Up In Vegas",
+        "Thinking Of You",
+        "What Am I Living For?",
+        "Spiritual",
+      ]
+    },
+    {
+      numb: 485,
+      question: "What song is this lyric from: 'Cause I've dug myself deep, I managed to fit both my hands and feet",
+      answer: "Brick By Brick",
+      options: [
+        "One of the boys",
+        "Fingerprints",
+        "I'm still Breathing",
+        "Brick By Brick",
+      ]
+    },
+    {
+      numb: 486,
+      question: "What song is this lyric from: Your electric lips have gotten me speaking in the tongues",
+      answer: "Spiritual",
+      options: [
+        "Circle The Drain",
+        "Spiritual",
+        "Thinking of You",
+        "What Am I Living For?",
+      ]
+    },
+    {
+      numb: 487,
+      question: "What song is this lyric from: You don't eat meat and drive electrical cars",
+      answer: "Ur So Gay",
+      options: [
+        "I Kissed A girl",
+        "Spiritual",
+        "Ur So Gay",
+        "Love Me",
+      ]
+    },
+    {
+      numb: 488,
+      question: "What song is this lyric from: I'm not stickin' around to watch you go down (down)",
+      answer: "Circle The Drain",
+      options: [
+        "I Kissed A girl",
+        "If you can afford me",
+        "Waiting Up the Vegas",
+        "Circle The Drain",
+      ]
+    },
+    {
+      numb: 489,
+      question: "What song is this lyric from: That the clock is ticking and I'll be giving my two weeks",
+      answer: "I'm Still Breathing",
+      options: [
+        "One of the boys",
+        "I'm Still Breathing",
+        "Waiting Up the Vegas",
+        "Fingerprints",
+      ]
+    },
+    {
+      numb: 490,
+      question: "What song is this lyric from: An ocean of emotion (of emotion)",
+      answer: "Self Inflicted",
+      options: [
+        "Love Me",
+        "If You cann afford me",
+        "I kissed A girl",
+        "Self Inflicted",
+      ]
+    },
+    {
+      numb: 491,
+      question: "What song is this lyric from: When you can't afford half the shit they advertise",
+      answer: "Fingerprints",
+      options: [
+        "Waking Up In Vegas",
+        "Thinking Of You",
+        "Fingerprints",
+        "Roar",
+      ]
+    },
 ]
