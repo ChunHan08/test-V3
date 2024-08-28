@@ -6071,7 +6071,7 @@ let questions = [
     ]
   },
   {
-    numb: 551,
+    numb: 552,
     question: "What song is this lyric from: 15 and 16, I had to be strong",
     answer: "Tattoos",
     options: [
@@ -6081,8 +6081,41 @@ let questions = [
       "23",
     ]
   },
+   {
+    numb: 553,
+    question: "What song is this lyric from: Repeating history and you're getting sick of it",
+    answer: "Change",
+    option: [
+      "Change",
+      "Mr. Prefectly Fine",
+      "The Best Day",
+      "The Other Side Of The Door",
+    ]
+  },
   {
-    numb: 552,
+    numb: 554,
+    question: "What song is this lyric from: I hear the words but all I can think is",
+    answer: "Jump Then Fall",
+    options: [
+      "Forever & Always",
+      "We Were Happy",
+      "Superstar",
+      "Jump Then Fall",
+    ]
+  },
+  {
+    numb: 555,
+    question: "What song is this lyric from: In the middle of the night when I'm in this dream",
+    answer: "Untouchable",
+    options: [
+      "Mr. Prefectly Fine",
+      "Untouchable",
+      "Don't You",
+      "Jump Then Fall",
+    ]
+  },
+  {
+    numb: 556,
     question: "What song is this lyric from: Like the 808s beatin' in the trunk in Atlanta, it was tough",
     answer: "Tough",
     options: [
