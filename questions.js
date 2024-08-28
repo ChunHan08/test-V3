@@ -5981,5 +5981,115 @@ let questions = [
       "What Can I do",
       "Everything I wanted",
     ]
-  },  
+  },
+  {
+    numb: 544,
+    question: "What song is this lyric from: Forget all your problems, you know that I'm gonna solve 'em",
+    answer: "Everything To Everyone",
+    options: [
+      "In the Kitchen",
+      "Too Well",
+      "Colorado",
+      "Everything To Everyone",
+    ]
+  },
+  {
+    numb: 545,
+    question: "What song is this lyric from: And you say, \"Please be careful\"",
+    answer: "In The Kitchen",
+    options: [
+      "In the Kitchen",
+      "Moon",
+      "Don't Tell My Mom",
+      "Tattoos",
+    ]
+  },
+  {
+    numb: 546,
+    question: "What song is this lyric from: Sit around and get high, sippin' some white wine out the bottle",
+    answer: "Colorado",
+    options: [
+      "You are in Love",
+      "Bad blood",
+      "Colorado",
+      "wildest dreams",
+    ]
+  },
+  {
+    numb: 547,
+    question: "What song is this lyric from: We're tracking your car Who are you with? What are you on?",
+    answer: "Don't tell My My Mom",
+    options: [
+      "Don't tell My My Mom",
+      "23",
+      "What Can I do",
+      "Everything I wanted",
+    ]
+  },
+  {
+    numb: 548,
+    question: "What song is this lyric from: I don't know if you see us how I do in my head",
+    answer: "What Can I Do",
+    options: [
+      "What Can I Do",
+      "23",
+      "Tattoos",
+      "Moon",
+    ]
+  },
+  {
+    numb: 549,
+    question: "What song is this lyric from: You weren't there in my dreams, I could finally sleep",
+    answer: "Too Well",
+    options: [
+      "Don't tell My My Mom",
+      "Too Well",
+      "Bruises",
+      "Everything I wanted",
+    ]
+  },
+  {
+    numb: 550,
+    question: "What song is this lyric from: Goin' back in space and time when we're still kissin'",
+    answer: "Moon",
+    options: [
+      "Moon",
+      "23",
+      "Bruises",
+      "Bad Blood",
+    ]
+  },
+  {
+    numb: 551,
+    question: "What song is this lyric from: I go through six different moods at a time",
+    answer: "Bruises",
+    options: [
+      "Colorado",
+      "Tattoos",
+      "Bruises",
+      "What Can I Do",
+    ]
+  },
+  {
+    numb: 551,
+    question: "What song is this lyric from: 15 and 16, I had to be strong",
+    answer: "Tattoos",
+    options: [
+      "Moon ",
+      "Tattoos",
+      "Bruises",
+      "23",
+    ]
+  },
+  {
+    numb: 552,
+    question: "What song is this lyric from: Like the 808s beatin' in the trunk in Atlanta, it was tough",
+    answer: "Tough",
+    options: [
+      "Say Yes To Heaven ",
+      "Margaret",
+      "Tough",
+      "The Grants",
+    ]
+  },
 ]
