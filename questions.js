@@ -5872,4 +5872,114 @@ let questions = [
       "Apple",
     ]
   },
+  {
+    numb: 534,
+    question: "What song is this lyric from: I found out from a friend of a friend that you're here again",
+    answer: "So What Now",
+    options: [
+      "Tummy Hurts",
+      "Willow",
+      "Don't tell my Moom",
+      "So What Now",
+    ]
+  },
+  {
+    numb: 535,
+    question: "What song is this lyric from: I know there's Heaven, but we must be higher",
+    answer: "The Wedding Song",
+    options: [
+      "23",
+      "The Wedding Song",
+      "Don't tell my Moom",
+      "Don't tell My Mom",
+    ]
+  },
+  {
+    numb: 536,
+    question: "What song is this lyric from: But for what it's worth, they'd make beautiful babies",
+    answer: "Tummy Hurts",
+    options: [
+      "23",
+      "Tummy Hurts",
+      "Moon",
+      "Too Well",
+    ]
+  },
+  {
+    numb: 537,
+    question: "What song is this lyric from: How can the person who taught me to breathe",
+    answer: "I Wish",
+    options: [
+      "I Wish",
+      "Bruises",
+      "Moon",
+      "What Can I do",
+    ]
+  },
+  {
+    numb: 538,
+    question: "What song is this lyric from: Skies grew darker",
+    answer: "Wonderland",
+    options: [
+      "This love",
+      "I know places",
+      "Wonderland",
+      "New romantics",
+    ]
+    },
+    {
+    numb: 539,
+    question: "What song is this lyric from: Lighthearted Joke No proof, not much",
+    answer: "You are in Love",
+    options: [
+      "You are in Love",
+      "Bad blood",
+      "How you get the girl",
+      "wildest dreams",
+    ]
+    },
+    {
+    numb: 540,
+    question: "What song is this lyric from: We play dumb but we know exactly what we're doin'",
+    answer: "New Romantics",
+    options: [
+      "New Romantics",
+      "Is it Over now",
+      "I know places",
+      "style",
+    ]
+    },
+    {
+    numb: 541,
+    question: "What song is this lyric from: Aquamarine, moonlit swimming pool",
+    answer: "sl!t",
+    options: [
+      "sl!t",
+      "Moon",
+      "say dont go",
+      "How you get the girls",
+    ]
+    },
+  {
+    numb: 542,
+    question: "What song is this lyric from: Can I get your permission to lay underneath ya?",
+    answer: "Willow",
+    options: [
+      "Don't Tell My Mom",
+      "Tatoos",
+      "Willow",
+      "Everything I wanted",
+    ]
+  },
+  {
+    numb: 543,
+    question: "What song is this lyric from: My wish should be different by now",
+    answer: "23",
+    options: [
+      "In the Kitchen",
+      "23",
+      "What Can I do",
+      "Everything I wanted",
+    ]
+  },  
 ]
