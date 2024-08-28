@@ -5762,4 +5762,114 @@ let questions = [
       "Colorado",
     ]
   },
+  {
+    numb: 514,
+    question: "What song is this lyric from: Say your boyfriend, he wouldn't mind",
+    answer: "Pretty Girls",
+    options: [
+      "Gemini Moon",
+      "Snow Angel",
+      "Pretty Girls",
+      "Tummy Hurts",
+    ]
+  },
+  {
+    numb: 515,
+    question: "What song is this lyric from: Talking myself out of my own happiness",
+    answer: "Talk Too Much",
+    options: [
+      "Talk Too Much",
+      "I Wish",
+      "The Wedding Song",
+      "Tummy Hurts",
+    ]
+  },
+  {
+    numb: 516,
+    question: "What song is this lyric from: As far as I'm concerned, they should just burn",
+    answer: "I Hate Boston",
+    options: [
+      "Gemini Moon",
+      "23",
+      "I Hate Boston",
+      "In the kitchen",
+    ]
+  },
+  {
+    numb: 517,
+    question: "What song is this lyric from: I didn't wanna have to use the knife behind your back",
+    answer: "Poison Posion",
+    options: [
+      "Moon",
+      "Poison Posion",
+      "Tattoos",
+      "Bruises",
+    ]
+  },
+  {
+    numb: 518,
+    question: "What song is this lyric from: You're so fuckin' perfect, how come I'm not feelin' more?",
+    answer: "Gemini Moon",
+    options: [
+      "Too Well",
+      "Swim",
+      "Gemini Moon",
+      "Moon",
+    ]
+  },
+  {
+    numb: 519,
+    question: "What song is this lyric from: But if it kills me, I tried, if it kills me",
+    answer: "Snow Angel",
+    options: [
+      "So What Now",
+      "Willow",
+      "23",
+      "Snow Angel",
+    ]
+  },
+  {
+    numb: 520,
+    question: "What song is this lyric from: But I found out from a friend of a friend that you're here again",
+    answer: "So What Now",
+    options: [
+      "So What Now",
+      "In The Kitchen",
+      "Colorado",
+      "Tattoos",
+    ]
+  },
+  {
+    numb: 521,
+    question: "What song is this lyric from: This mourning I said we should talk about it",
+    answer: "Stay Stay Stay",
+    options: [
+      "Stay Stay Stay",
+      "Come back... Be here...",
+      "Girl At Home",
+      "Ronan",
+    ]
+  },
+  {
+    numb: 532,
+    question: "What song is this lyric from: I imagine you are home ",
+    answer: "The Last Time",
+    options: [
+      "Babe",
+      "Nothing New",
+      "Better Man",
+      "The Last Time",
+    ]
+  },
+  {
+    numb: 533,
+    question: "What song is this lyric from: It would make 'em all dance and make 'em all cry",
+    answer: "The Wedding Song",
+    options: [
+      "The Wedding Song",
+      "Not My Fault",
+      "Don't tell my Moom",
+      "Apple",
+    ]
+  },
 ]
