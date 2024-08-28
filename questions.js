@@ -6697,4 +6697,125 @@ let questions = [
         "American",
       ]
     },
+    {
+      numb: 608,
+      question: "What song is this lyric from: Side stage, fans screamin' causin' migraines",
+      answer: "Groupie Love",
+      options: [
+        "Freak",
+        "Sweet",
+        "Groupie Love",
+        "American",
+      ]
+    },
+    {
+      numb: 609,
+      question: "What song is this lyric from: Screw your anonymity, loving me is all you need",
+      answer: "Freak",
+      options: [
+        "Freak",
+        "Lucky Ones",
+        "Groupie Love",
+        "Brartender",
+      ]
+    },
+    {
+      numb: 610,
+      question: "What song is this lyric from: Need you, baby, like I breathe you, baby",
+      answer: "Fucked my way up to the top",
+      options: [
+        "Pretty when you cry",
+        "Young and beautiful",
+        "Love Song",
+        "Fucked my way up to the top",
+      ]
+    },
+    {
+      numb: 611,
+      question: "What song is this lyric from: I got so scared, I thought no one could save me",
+      answer: "Lucky Ones",
+      options: [
+        "Lucky Ones",
+        "Young and beauftiful",
+        "West Coast",
+        "Fucked my way up to the top",
+      ]
+    },
+    {
+      numb: 612,
+      question: "What song is this lyric from: The poetry inside of me is warm like a gun",
+      answer: "Bartender",
+      options: [
+        "Summer Time sadness",
+        "In My feelings",
+        "Bartender",
+        "Honeymoon",
+      ]
+    },
+    {
+      numb: 613,
+      question: "What song is this lyric from: All I wanna do is get by by the beach",
+      answer: "High by the beach",
+      options: [
+        "American",
+        "In My feelings",
+        "High by the beach",
+        "Burning desire",
+      ]
+    },
+    {
+      numb: 614,
+      question: "What song is this lyric from: Opening up doors, pulling out chairs, look at you",
+      answer: "Not all who wander are lost",
+      options: [
+        "Not all who wander are lost",
+        "Tomorrow never comes",
+        "Shades of cool",
+        "Burning desire",
+      ]
+    },
+    {
+      numb: 615,
+      question: "What song is this lyric from: The only thing we'll turn, is the pages of all the poems we burn",
+      answer: "Yosemite",
+      options: [
+        "Arcadia",
+        "Yosemite",
+        "Venice Bitch",
+        "13 Beaches",
+      ]
+    },
+    {
+      numb: 616,
+      question: "What song is this lyric from: They don't mean shit compared to all your drugs",
+      answer: "Pretty When You Cry",
+      options: [
+        "Tulsa Jesus Freak",
+        "Pretty When You Cry",
+        "Blue Jeans",
+        "National Anthem",
+      ]
+    },
+    {
+      numb: 617,
+      question: "What song is this lyric from: Let's leave the world for the ones who change everything",
+      answer: "Swan Songs",
+      options: [
+        "Tulsa Jesus Freak",
+        "Love Song",
+        "Swan Songs",
+        "Fuck it I love you",
+      ]
+    },
+    {
+      numb: 618,
+      question: "What song is this lyric from: What you don't tell no one, you can tell me",
+      answer: "Cherry Blossom",
+      options: [
+        "Dealer",
+        "Cherry Blossom",
+        "Swan Songs",
+        "Born To Die",
+      ]
+    },
 ]
