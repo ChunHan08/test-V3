@@ -6576,4 +6576,125 @@ let questions = [
       "Summer Bummer",
     ]
   },
+  {
+    numb: 597,
+    question: "What song is this lyric from: I used to know my place was the spot next to you",
+    answer: "The Story of us",
+    options: [
+      "Superman",
+      "I can see you",
+      "Castles Crumbling",
+      "The Story of us",
+    ]
+    },
+    {
+    numb: 598,
+    question: "What song is this lyric from: You little eyelids flutter 'cause you're dreaming",
+    answer: "Never Grow Up",
+    options: [
+      "Never Grow Up",
+      "Ours",
+      "Speak Now",
+      "Enchanted",
+    ]
+    },
+    {
+    numb: 599,
+    question: "What song is this lyric from: Same old tired, lonely place",
+    answer: "Enchanted",
+    options: [
+      "Timeless",
+      "Enchanted",
+      "Inocent",
+      "Ours",
+    ]
+    },
+    {
+    numb: 600,
+    question: "What song is this lyric from: The story starts when it hot, and it summer and,",
+    answer: "Better Than Revenge",
+    options: [
+      "Mean",
+      "Better Than Revenge",
+      "Innocent",
+      "Haunted",
+    ]
+    },
+    {
+    numb: 601,
+    question: "What song is this lyric from: Loss your balance on a tightrope",
+    answer: "Innocent",
+    options: [
+      "Ours",
+      "Timeless",
+      "Innocent",
+      "Last Kiss",
+    ]
+    },
+    {
+    numb: 602,
+    question: "What song is this lyric from: Its getting dark and it's all so quiet",
+    answer: "Haunted",
+    options: [
+      "Dear John",
+      "Mine",
+      "The Story of Us",
+      "Haunted",
+    ]
+    },
+    {
+    numb: 603,
+    question: "What song is this lyric from: Lit through the darkness at 1:58",
+    answer: "Last Kiss",
+    options: [
+      "Long Live",
+      "Mine",
+      "Last Kiss",
+      "Ours",
+    ]
+    },
+    {
+      numb: 604,
+      question: "What song is this lyric from: She got shiny freinds",
+      answer: "Dorthea",
+      options: [
+        "Long Story Short",
+        "Closure",
+        "Dorthea",
+        "Its time to go",
+      ]
+    },
+    {
+      numb: 605,
+      question: "What song is this lyric from: I've ghosted stand there in the room",
+      answer: "Anti-Hero",
+      options: [
+        "Anti-Hero",
+        "Mad Woman",
+        "loml",
+        "Willow",
+      ]
+    },
+    {
+      numb: 606,
+      question: "What song is this lyric from: The only thing we'll turn, is the pages of all the poems we burn",
+      answer: "Yosemite",
+      options: [
+        "Yosemite",
+        "Dark Paradise",
+        "God knows I Tried",
+        "young and beautiful",
+      ]
+    },
+    {
+      numb: 607,
+      question: "What song is this lyric from: But in my heart there'll always be",
+      answer: "Blue Velvet",
+      options: [
+        "Yosemite",
+        "Summertime Sadness",
+        "Blue Velvet",
+        "American",
+      ]
+    },
 ]
