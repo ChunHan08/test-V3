@@ -6444,4 +6444,136 @@ let questions = [
       "The Alcott",
     ]
   },
+  {
+    numb: 586,
+    question: "What song is this lyric from: And the ways you move send me straight to Heaven",
+    answer: "Living Legend",
+    options: [
+      "Living Legend",
+      "Happiness is a butterfly",
+      "Shades of cool",
+      "American",
+    ]
+  },
+  {
+    numb: 587,
+    question: "What song is this lyric from: Twirl me twice, I'll treat you like a holiday",
+    answer: "If You Lie Down With Me",
+    options: [
+      "Venice Bitch",
+      "Happiness is a butterfly",
+      "Hope is a dangerous thing",
+      "If You Lie Down With Me",
+    ]
+  },
+  {
+    numb: 588,
+    question: "What song is this lyric from: What if someone had asked Picasso not to be sad?",
+    answer: "Beautiful",
+    options: [
+      "Religion",
+      "Happiness is a butterfly",
+      "Summertime Sadness",
+      "Beautiful",
+    ]
+  },
+  {
+    numb: 589,
+    question: "What song is this lyric from: Norman Rockwell, no hype under our covers",
+    answer: "Venice Bitch",
+    options: [
+      "GOd And monsters",
+      "Venice Bitch",
+      "Bealn Jeans",
+      "Beautiful",
+    ]
+  },
+  {
+    numb: 590,
+    question: "What song is this lyric from:It never was about the money or the drugs",
+    answer: "Religion",
+    options: [
+      "West Coast",
+      "Doing time",
+      "Religion",
+      "Beautiful",
+    ]
+  },
+  {
+    numb: 590,
+    question: "What song is this lyric from: Smiling for miles in pink dresses and high heels on white yachts",
+    answer: "Hope is a dangerous thing",
+    options: [
+      "Blue Jeans",
+      "Margaret",
+      "Hope is a dangerous thing",
+      "Coachella",
+    ]
+  },
+  {
+    numb: 591,
+    question: "What song is this lyric from: One without the gun, where the flag can freely fly",
+    answer: "Looking FOr America",
+    options: [
+      "Say yes to heaven",
+      "Margaret",
+      "Love",
+      "Looking FOr America",
+    ]
+  },
+  {
+    numb: 592,
+    question: "What song is this lyric from: And what about all their parents?",
+    answer: "Coachella",
+    options: [
+      "Coachella",
+      "West coast",
+      "Love",
+      "summer time sadness",
+    ]
+  },
+  {
+    numb: 593,
+    question: "What song is this lyric from: You're fallin' hard, I push away, I'm feelin' hot to the touch",
+    answer: "West Coast",
+    options: [
+      "Blue Jeans",
+      "West coast",
+      "Love",
+      "Freak",
+    ]
+  },
+  {
+    numb: 594,
+    question: "What song is this lyric from: You were sorta punk rock, I grew up on hip-hop",
+    answer: "Blue Jeans",
+    options: [
+      "Blue Jeans",
+      "Sweet",
+      "Lucky Ones",
+      "Love Song",
+    ]
+  },
+  {
+    numb: 595,
+    question: "What song is this lyric from: And I know it's true, that visions are seldom what they seem",
+    answer: "Once Upon A Dream",
+    options: [
+      "Blue Velvet",
+      "Once Upon A Dream",
+      "West Coast",
+      "Freak",
+    ]
+  },
+  {
+    numb: 596,
+    question: "What song is this lyric from: We traveled for weeks, just to escape your demons",
+    answer: "Summer Bummer",
+    options: [
+      "Lucky Ones",
+      "Hi by the beach",
+      "Sweet",
+      "Summer Bummer",
+    ]
+  },
 ]
