@@ -6312,4 +6312,136 @@ let questions = [
       "Honeymoon",
     ]
   },
+  {
+    numb: 574,
+    question: "What song is this lyric from: 3 A.M. and I'm still awake, Ill bet you're just fine",
+    answer: "I Bet You Think About Me",
+    options: [
+      "Begin Again",
+      "I Bet You Think About Me",
+      "State Of Grace",
+      "The lucky One",
+    ]
+  },
+  {
+    numb: 575,
+    question: "What song is this lyric from: he says, Whu fall in love, just so you can watch it go away?",
+    answer: "Forever Winter",
+    options: [
+      "Nothing New",
+      "Begin Again",
+      "Forever Winter",
+      "Holy Ground",
+    ]
+  },
+  {
+    numb: 576,
+    question: "What song is this lyric from: And my so-called friends, they don't know",
+    answer: "Run",
+    options: [
+      "Run",
+      "Starlight",
+      "Ronan",
+      "22",
+    ]
+  },
+  {
+    numb: 577,
+    question: "What song is this lyric from: I'd write this in the sky",
+    answer: "The Very First Night",
+    options: [
+      "Sad Beautiful Tragic",
+      "Stay Stay Stay",
+      "I knew you were trouble",
+      "The Very First Night",
+    ]
+  },
+  {
+    numb: 578,
+    question: "What song is this lyric from: We were always skipping town",
+    answer: "All Too Well (10 Minute Version)",
+    options: [
+      "Holy Ground",
+      "All Too Well",
+      "All Too Well (10 Minute Version)",
+      "I almost do",
+    ]
+  },
+  {
+    numb: 579,
+    question: "What song is this lyric from: Baby baby, I feel crazy ",
+    answer: "I dont wanna like forever",
+    options: [
+      "Renegade",
+      "I don't wanna like forever",
+      "Sweet Nothing",
+      "Us",
+    ]
+  },
+  {
+    numb: 580,
+    question: "What song is this lyric from: But you're such a tease ",
+    answer: "Gasoline",
+    options: [
+      "Renegade",
+      "Gasoline",
+      "Sweeter Than Fiction",
+      "Us",
+    ]
+  },
+  {
+    numb: 581,
+    question: "What song is this lyric from: And I bet you got no idea",
+    answer: "Highway Don't Care",
+    options: [
+      "Highway Don't Care",
+      "Only the young",
+      "Christmas Tree Farm",
+      "Crazier",
+    ]
+  },
+  {
+    numb: 582,
+    question: "What song is this lyric from: You never saw it coming",
+    answer: "Sweeter Than Fiction",
+    options: [
+      "Highway Don't Care",
+      "Only the young",
+      "both Of us",
+      "Sweeter Than Fiction",
+    ]
+  },
+  {
+    numb: 583,
+    question: "What song is this lyric from: Follow me home if you dare",
+    answer: "Beautiful Ghosts",
+    options: [
+      "Beautiful Ghosts",
+      "Renegade",
+      "both Of us",
+      "Gasoline",
+    ]
+  },
+  {
+    numb: 584,
+    question: "What song is this lyric from: But I close my eyes and I'm somewhere else just like, magic",
+    answer: "Christmas tree Farm",
+    options: [
+      "Only the young",
+      "Renegade",
+      "Christmas tree Farm",
+      "The Joker and the queen",
+    ]
+  },
+  {
+    numb: 585,
+    question: "What song is this lyric from: You opened my eyes and you made me believe",
+    answer: "Crazier",
+    options: [
+      "Birch",
+      "Renegade",
+      "Crazier",
+      "The Alcott",
+    ]
+  },
 ]
