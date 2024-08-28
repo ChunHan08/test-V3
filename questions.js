@@ -5641,4 +5641,125 @@ let questions = [
       "Cozy Little Christmas",
     ]
   },
+  {
+    numb: 503,
+    question: "What song is this lyric from: Where she at? (Where she at?)",
+    answer: "Not My Fault",
+    options: [
+      "Swim",
+      "I hate Boston",
+      "Not My Fault",
+      "Messy",
+    ]
+  },
+  {
+    numb: 504,
+    question: "What song is this lyric from: 'Cause it's the only time that I'm ever sleepin' next to you",
+    answer: "I Do",
+    options: [
+      "Pretty Girls",
+      "I hate Boston",
+      "Talk Too Much",
+      "I Do",
+    ]
+  },
+  {
+    numb: 505,
+    question: "What song is this lyric from: But for what it's worth, they'd make beautiful babies",
+    answer: "Tummy Hurts",
+    options: [
+      "Tummy Hurts",
+      "Swim",
+      "Snow Angel",
+      "So What Now",
+    ]
+  },
+  {
+    numb: 506,
+    question: "What song is this lyric from: And right now you got nothing against me",
+    answer: "Messy",
+    options: [
+      "Poison Poison",
+      "Messy",
+      "Snow Angel",
+      "The Wedding Song",
+    ]
+  },
+  {
+    numb: 507,
+    question: "What song is this lyric from: For a moment i knew comsmic love.",
+    answer: "Down Bad",
+    options: [
+      "My boy only breaks his favourite toys",
+      "Gulity as sin",
+      "Down Bad",
+      "So long london"
+    ]
+  },
+  {
+    numb: 508,
+    question: "What song is this lyric from: so now I pray to Jesus too.",
+    answer: "Soon You'll Get Better",
+    options: [
+      "Daylight",
+      "Soon You'll Get Better",
+      "The Archer",
+      "Its nice to have a friend",
+    ]
+  },
+  {
+    numb: 509,
+    question: "What song is this lyric from: I'm the one who burned us down.",
+    answer: "Afterglow",
+    options: [
+      "Cassandra",
+      "Peter",
+      "loml",
+      "Afterglow",
+    ]
+  },
+  {
+    numb: 510,
+    question: "What song is this lyric from: It's okay, life is a tough crowd.",
+    answer: "Innocent",
+    options: [
+      "Innocent",
+      "Timeless",
+      "Better than Revenge",
+      "Last Kiss",
+    ]
+  },
+  {
+    numb: 511,
+    question: "What song is this lyric from: Gold Cage, hostage to my feelings",
+    answer: "So It Goes",
+    options: [
+      "Getaway Car",
+      "So It Goes",
+      "The Archer",
+      "I Think He Knows",
+    ]
+    },
+    {
+    numb: 512,
+    question: "What song is this lyric from: Of your magnetic field being a little too strong",
+    answer: "Gorgeous",
+    options: [
+      "Gorgeous",
+      "Dress",
+      "Peace",
+      "Snow on the Beach",
+    ]
+    },
+  {
+    numb: 513,
+    question: "What song is this lyric from: Back at the beginning with you (with you, with you)",
+    answer: "Swim",
+    options: [
+      "23",
+      "Willow",
+      "Swim",
+      "Colorado",
+    ]
+  },
 ]
