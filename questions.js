@@ -6818,4 +6818,103 @@ let questions = [
         "Born To Die",
       ]
     },
+    {
+      numb: 619,
+      question: "What song is this lyric from: We love every hair on your head",
+      answer: "Sweet Carolina",
+      options: [
+        "Sweet Carolina",
+        "13 Beaches",
+        "Lust for life",
+        "god and monsters",
+      ]
+    },
+    {
+      numb: 620,
+      question: "What song is this lyric from: Only worth living if somebody is loving you",
+      answer: "Video Games",
+      options: [
+        "Sweet Carolina",
+        "Video Games",
+        "Bel Air",
+        "Guns And Roses",
+      ]
+    },
+    {
+      numb: 621,
+      question: "What song is this lyric from: Down on the West coast, I get this feelin' like",
+      answer: "West Coast",
+      options: [
+        "Heroin",
+        "West Coast",
+        "Bel Air",
+        "Arcadia",
+      ]
+    },
+    {
+      numb: 622,
+      question: "What song is this lyric from: We're the captains of our own souls",
+      answer: "Lust For Life",
+      options: [
+        "Heroin",
+        "Hope is a dangerous thing",
+        "Lust For Life",
+        "Summer Bummer",
+      ]
+    },
+    {
+      numb: 623,
+      question: "What song is this lyric from: Everywhere I turn, there's something blocking my escape",
+      answer: "13 Beaches",
+      options: [
+        "Snow On The Beach",
+        "Beautiful",
+        "13 Beaches",
+        "Summer Bummer",
+      ]
+    },
+    {
+      numb: 624,
+      question: "What song is this lyric from: And it's never too late to leave if you wanna leave (better not)",
+      answer: "Summer Bummer",
+      options: [
+        "Sakvatore",
+        "Without You",
+        "13 Beaches",
+        "Summer Bummer",
+      ]
+    },
+    {
+      numb: 625,
+      question: "What song is this lyric from: Mon amour, sweet child of mine, you're divine",
+      answer: "Bel Air",
+      options: [
+        "Sakvatore",
+        "Yayo",
+        "Bel Air",
+        "Born To Die",
+      ]
+    },
+    {
+      numb: 626,
+      question: "What song is this lyric from: And I need you to come (and I want you to come)",
+      answer: "Let Me Love you like a woman",
+      options: [
+        "Dance Till We Die",
+        "Let Me Love you like a woman",
+        "Bel Air",
+        "Wild At Heart",
+      ]
+    },
+    {
+      numb: 627,
+      question: "What song is this lyric from: To see your pretty pics on Sunset Boulevard?",
+      answer: "Wild At Heart",
+      options: [
+        "Doing time",
+        "For Free",
+        "Bel Air",
+        "Wild At Heart",
+      ]
+    },
 ]
