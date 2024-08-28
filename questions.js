@@ -6125,4 +6125,92 @@ let questions = [
       "The Grants",
     ]
   },
+  {
+    numb: 557,
+    question: "What song is this lyric from: Warm like beaches that leave me sandy",
+    answer: "Watercolour Eyes",
+    options: [
+      "Living Legened",
+      "Beautiful",
+      "Watercolour Eyes",
+      "Black Bathing Suit",
+    ]
+  },
+  {
+    numb: 558,
+    question: "What song is this lyric from: I searched 'aurora borealis green'",
+    answer: "Snow On The Beach",
+    options: [
+      "Snow On The Beach",
+      "Dealer",
+      "Wildflower Wildfire",
+      "Cherry Blossom",
+    ]
+  },
+  {
+    numb: 559,
+    question: "What song is this lyric from: Never saw the sun shining so bright",
+    answer: "Blue Skies",
+    options: [
+      "Arcadia",
+      "Blue Skies",
+      "Wildflower Wildfire",
+      "Thunder",
+    ]
+  },
+  {
+    numb: 560,
+    question: "What song is this lyric from: It seemed only appropriate you'd easily had my back",
+    answer: "Text Book",
+    options: [
+      "Living Legend",
+      "White Dress",
+      "Wildflower Wildfire",
+      "Text Book",
+    ]
+  },
+  {
+    numb: 561,
+    question: "What song is this lyric from: You can't blacken the pages with Russian poetry",
+    answer: "Blue Banisters",
+    options: [
+      "Blue Banisters",
+      "White Dress",
+      "Beautiful",
+      "Arcadia",
+    ]
+  },
+  {
+    numb: 562,
+    question: "What song is this lyric from: It doesn't matter, now it's all gone",
+    answer: "Say Yes To Heaven",
+    options: [
+      "Say Yes To Heaven",
+      "Paris, Texas",
+      "The Grants",
+      "Candy Neckless",
+    ]
+  },
+  {
+    numb: 563,
+    question: "What song is this lyric from: In the wasteland, come up short and end up on the news",
+    answer: "Buddy's Rendezous",
+    options: [
+      "Text Book",
+      "Paris, Texas",
+      "Snow On The beach",
+      "Buddy's Rendezous",
+    ]
+  },
+  {
+    numb: 564,
+    question: "What song is this lyric from: As the singer tries to find out what's happening in life",
+    answer: "Dayglo Reflection",
+    options: [
+      "Blue Banisters",
+      "Dayglo Reflection",
+      "Snow On The beach",
+      "Black Bathing Suit",
+    ]
+  },
 ]
