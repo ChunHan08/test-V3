@@ -6213,4 +6213,103 @@ let questions = [
       "Black Bathing Suit",
     ]
   },
+  {
+    numb: 565,
+    question: "What song is this lyric from: I can't sleep at home tonight, send me a Hilton Hotel",
+    answer: "Arcadia",
+    options: [
+      "Blue Banisters",
+      "White Dress",
+      "Beautiful",
+      "Arcadia",
+    ]
+  },
+  {
+    numb: 566,
+    question: "What song is this lyric from: And if this is the end, I want a boyfriend",
+    answer: "Black Bathing Suit",
+    options: [
+      "For Free",
+      "White Dress",
+      "Black Bathing Suit",
+      "Arcadia",
+    ]
+  },
+  {
+    numb: 567,
+    question: "What song is this lyric from: Twirl me twice, I'll treat you like a holiday",
+    answer: "If You Lie Down With Me",
+    options: [
+      "If You Lie Down With Me",
+      "Bartender",
+      "Black Bathing Suit",
+      "24",
+    ]
+  },
+  {
+    numb: 568,
+    question: "What song is this lyric from: He's interested, he's holdin' me back",
+    answer: "Beautiful",
+    options: [
+      "Beautiful",
+      "Dealer",
+      "Thunder",
+      "24",
+    ]
+  },
+  {
+    numb: 569,
+    question: "What song is this lyric from: Larchmont Village smells like lilies of the valley",
+    answer: "Violets For Roses",
+    options: [
+      "Beautiful",
+      "Secret Life",
+      "Livign Legend",
+      "Violets For Roses",
+    ]
+  },
+  {
+    numb: 570,
+    question: "What song is this lyric from: I don't wanna give you nothing",
+    answer: "dealer",
+    options: [
+      "Wild Art",
+      "For Free",
+      "dealer",
+      "White Dress",
+    ]
+  },
+  {
+    numb: 571,
+    question: "What song is this lyric from: Regattas in the wind, that's why you're visiting",
+    answer: "Thunder",
+    options: [
+      "Thunder",
+      "California",
+      "Love Song",
+      "How To Disapper",
+    ]
+  },
+  {
+    numb: 572,
+    question: "What song is this lyric from: I promise you, like, a million tomorrows",
+    answer: "Wildflower Wildfire",
+    options: [
+      "The Greatest",
+      "Wildflower Wildfire",
+      "For Free",
+      "Yosemite",
+    ]
+  },
+  {
+    numb: 573,
+    question: "What song is this lyric from: Heroin gold in my veins, you in my thoughts",
+    answer: "Nectar Of The Gods",
+    options: [
+      "Change",
+      "Get Free",
+      "Nectar Of The Gods",
+      "Honeymoon",
+    ]
+  },
 ]
