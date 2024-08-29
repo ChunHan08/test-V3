@@ -7500,4 +7500,126 @@ let questions = [
       "Blue Velvet",
     ]
   },
+  {
+    numb: 680,
+    question: "what song is this lyric from: A little party never hurt no one, that's why it's alright",
+    answer: "Art Deco",
+    options: [
+      "Burning Desire",
+      "Bel Air",
+      "Art Deco",
+      "Yayo",
+    ]
+  },
+  {
+    numb: 681,
+    question: "what song is this lyric from: Remaining a perpetual possibility",
+    answer: "Burnt Norton",
+    options: [
+      "The Blackest Day",
+      "Swan Song",
+      "24",
+      "Burnt Norton",
+    ]
+  },
+  {
+    numb: 682,
+    question: "what song is this lyric from: It never was about the party or the clubs",
+    answer: "Religion",
+    options: [
+      "Ultraviolence",
+      "Religion",
+      "West Coast",
+      "Burnt Norton",
+    ]
+  },
+  {
+    numb: 683,
+    question: "what song is this lyric from: All the lights are sparkling for you, it seems",
+    answer: "Salvatore",
+    options: [
+      "Shades of cool",
+      "Salvatore",
+      "West Coast",
+      "Brooklyn Coast",
+    ]
+  },
+  {
+    numb: 684,
+    question: "what song is this lyric from: It's what you gathered from my talk, but you were wrong",
+    answer: "The Blackest Day",
+    options: [
+      "24",
+      "The Blackest Day",
+      "Swan Song",
+      "Ultraviolence",
+    ]
+  },
+  {
+    numb: 685,
+    question: "what song is this lyric from: If you lie down with dogs, then you'll get fleas",
+    answer: "24",
+    options: [
+      "24",
+      "West Coast",
+      "Sad Girl",
+      "Pretty When You Cry",
+    ]
+  },
+  {
+    numb: 686,
+    question: "what song is this lyric from: Let's leave the world for the ones who change everything",
+    answer: "Swan Song",
+    options: [
+      "Pretty When You Cry",
+      "Swan Song",
+      "Cruel World",
+      "Sad Girl",
+    ]
+  },
+  {
+    numb: 687,
+    question: "what song is this lyric from: But I'm just a soul whose intentions are good",
+    answer: "Don't Let Me Be Misused",
+    options: [
+      "Florida Kilos",
+      "Swan Song",
+      "Cruel World",
+      "Summertime Sadness",
+    ]
+  },
+  {
+    numb: 688,
+    question: "what song is this lyric from: But you got the music, you got the music in you, don't you?",
+    answer: "West Coast",
+    options: [
+      "Florida Kilos",
+      "Swan Song",
+      "West Coast",
+      "Sad Grill",
+    ]
+  },
+  {
+    numb: 689,
+    question: "what song is this lyric from: Cause I'm your jazz singer and you're my cult leader",
+    answer: "Ultraviolence",
+    options: [
+      "Old Money",
+      "Ultraviolence",
+      "Pretty When You Cry",
+      "Sad Grill",
+    ]
+  },
+  {
+    numb: 690,
+    question: "what song is this lyric from: And when he calls, he calls for me and not for you",
+    answer: "Shades of cool",
+    options: [
+      "Guns And Roses",
+      "Ultraviolence",
+      "Shades of cool",
+      "Black Beauty",
+    ]
+  },
+  
 ]
