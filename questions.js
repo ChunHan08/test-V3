@@ -8215,4 +8215,125 @@ let questions = [
       "Yuck",
     ]
   },
+  {
+    numb: 745,
+    question: "What song is this lyric from: Worships Lana Del Rey in her AirPods, yeah",
+    answer: "Mean Girls",
+    options: [
+      "Crash",
+      "Constant Repeat",
+      "Mean Girls",
+      "365",
+    ]
+  },
+  {
+    numb: 746,
+    question: "What song is this lyric from: Seriously thinking 'bout my future for the first time",
+    answer: "I think about it all the time",
+    options: [
+      "GOod Ones",
+      "Apple",
+      "Mean Girls",
+      "I think about it all the time",
+    ]
+  },
+  {
+    numb: 747,
+    question: "What song is this lyric from: Push my hair back, I look hot when I'm (bumpin' that)",
+    answer: "365",
+    options: [
+      "Crash",
+      "365",
+      "Constant Repeat",
+      "Beg for you",
+    ]
+  },
+  {
+    numb: 748,
+    question: "What song is this lyric from: Overloading when I'm looking in the mirror, uh (uh)",
+    answer: "365",
+    options: [
+      "Crash",
+      "365",
+      "Constant Repeat",
+      "Beg for you",
+    ]
+  },
+  {
+    numb: 749,
+    question: "What song is this lyric from: I don't know why I got a tendency to run away",
+    answer: "Crash",
+    options: [
+      "Crash",
+      "365",
+      "Every Rule",
+      "Baby",
+    ]
+  },
+  {
+    numb: 750,
+    question: "What song is this lyric from: That you got your kicks from seeing me low",
+    answer: "Good Ones",
+    options: [
+      "Yuck",
+      "Good Ones",
+      "Every Rule",
+      "Move Me",
+    ]
+  },
+  {
+    numb: 751,
+    question: "What song is this lyric from: Do you realize I could've been the one to change your life?",
+    answer: "Constant Repeat",
+    options: [
+      "Used to Know Me",
+      "Good Ones",
+      "Constant Repeat",
+      "Twice",
+    ]
+  },
+  {
+    numb: 752,
+    question: "What song is this lyric from: Wish I could surrender, give you everything I got and let you know",
+    answer: "Move Me",
+    options: [
+      "Lightning",
+      "Move Me",
+      "Selfish Girl",
+      "Every Girl",
+    ]
+  },
+  {
+    numb: 753,
+    question: "What song is this lyric from: If you're feeling scared, that's fine (that's fine)",
+    answer: "Baby",
+    options: [
+      "Baby",
+      "Sorry If I hurt You",
+      "Twice",
+      "Yuck",
+    ]
+  },
+  {
+    numb: 754,
+    question: "What song is this lyric from: But something 'bout you brings me to life",
+    answer: "Lightning",
+    options: [
+      "Apple",
+      "forever",
+      "Lightning",
+      "Used to know me",
+    ]
+  },
+  {
+    numb: 755,
+    question: "What song is this lyric from: And we know that it's wrong, but it feels real fun",
+    answer: "Every Rule",
+    options: [
+      "Selfish Girl",
+      "Every Rule",
+      "Twice",
+      "Enemy",
+    ]
+  },
 ]
