@@ -7973,4 +7973,125 @@ let questions = [
       "Video Games",
     ]
   },
+  {
+    numb: 723,
+    question: "What song is this lyric from: He loves me, with every beat of his cocaine heart",
+    answer: "Off To The Races",
+    options: [
+      "Off To The Race",
+      "Dark Paradise",
+      "Radio",
+      "Summertime Sadness",
+    ]
+  },
+  {
+    numb: 724,
+    question: "What song is this lyric from: But you fit me better than my favorite sweater",
+    answer: "Blue Jeans",
+    options: [
+      "Carmen",
+      "Without You",
+      "Blue Jeans",
+      "Lucky Ones",
+    ]
+  },
+  {
+    numb: 725,
+    question: "What song is this lyric from: They say that the world was built for two",
+    answer: "Video Games",
+    options: [
+      "Video Games",
+      "Liota",
+      "Radio",
+      "Loita",
+    ]
+  },
+  {
+    numb: 726,
+    question: "What song is this lyric from: Do you think we'll be in love forever?",
+    answer: "Diet Moumtain Dew",
+    options: [
+      "Video Games",
+      "Carmen",
+      "Diet Moumtain Dew",
+      "National Antem",
+    ]
+  },
+  {
+    numb: 727,
+    question: "What song is this lyric from: He loves to romance 'em, reckless abandon",
+    answer: "National Anthem",
+    options: [
+      "Million Dollar Man",
+      "Carmen",
+      "Radio",
+      "National Anthem",
+    ]
+  },
+  {
+    numb: 728,
+    question: "What song is this lyric from: And there's no remedy for memory, your face is like a melody",
+    answer: "Dark Paradise",
+    options: [
+      "Lucky One",
+      "Without You",
+      "Dark Paradise",
+      "This is What Makes Us Girls",
+    ]
+  },
+  {
+    numb: 729,
+    question: "What song is this lyric from: Now I'm in L.A. and it's paradise",
+    answer: "Radio",
+    options: [
+      "Loita",
+      "Radio",
+      "Lucky Ones",
+      "Carmen",
+    ]
+  },
+  {
+    numb: 730,
+    question: "What song is this lyric from: Foolin' everyone, tellin' 'em she's havin' fun",
+    answer: "Carmen",
+    options: [
+      "Lucky Ones",
+      "Without You",
+      "Summertime Sadness",
+      "Carmen",
+    ]
+  },
+  {
+    numb: 731,
+    question: "What song is this lyric from: Someone as dangerous, tainted and flawed as you",
+    answer: "Million Dollar Man",
+    options: [
+      "Lucky Ones",
+      "This Is What Makes Us Girls",
+      "Loita",
+      "Million Dollar Man",
+    ]
+  },
+  {
+    numb: 732,
+    question: "What song is this lyric from: Done my hair up real big, beauty queen style",
+    answer: "Summertime Sadness",
+    options: [
+      "Summertime Sadness",
+      "Lucky Ones",
+      "Loita",
+      "Million Dollar Man",
+    ]
+  },
+  {
+    numb: 733,
+    question: "What song is this lyric from: Mascara running down her little Bambi eyes",
+    answer: "This is What makes Us girls",
+    options: [
+      "Without You",
+      "Loita",
+      "This is What makes Us girls",
+      "Born To Die",
+    ]
+  },
 ]
