@@ -7280,4 +7280,103 @@ let questions = [
         "Heroin",
       ]
     },
+  {
+    numb: 661,
+    question: "What song is this lyric from: There's nobody here, just us together",
+    answer: "Lust For Life",
+    options: [
+      "Cherry",
+      "Lust For Life",
+      "God Bless America",
+      "13 Beaches",
+    ]
+  },
+  {
+    numb: 662,
+    question: "What song is this lyric from: Signals crossing can get confusing",
+    answer: "Love",
+    options: [
+      "Old Money",
+      "Sad Girl",
+      "24",
+      "Love",
+    ]
+  },
+  {
+    numb: 663,
+    question: "What song is this lyric from: Everywhere I turn, there's something blocking my escape",
+    answer: "13 Beaches",
+    options: [
+      "In My Feelings",
+      "13 Beaches",
+      "24",
+      "Cherry",
+    ]
+  },
+  {
+    numb: 664,
+    question: "What song is this lyric from: When you're standin' in the face of danger",
+    answer: "Cherry",
+    options: [
+      "oachella",
+      "West Coast",
+      "Art Deco",
+      "Cherry",
+    ]
+  },
+  {
+    numb: 665,
+    question: "What song is this lyric from: Didn't call when I got your number",
+    answer: "White Mustang",
+    options: [
+      "Crul World",
+      "West Coast",
+      "White Mustang",
+      "Salvatore",
+    ]
+  },
+  {
+    numb: 666,
+    question: "What song is this lyric from: When you have to share him with everybody",
+    answer: "Groupie Love",
+    options: [
+      "Groupie Love",
+      "Get Free",
+      "Freak",
+      "Salvatore",
+    ]
+  },
+  {
+    numb: 667,
+    question: "What song is this lyric from: Makin' love while I'm makin' good money",
+    answer: "In My Feeling",
+    options: [
+      "Yayo",
+      "Get Free",
+      "In My Feeling",
+      "Blue Jean",
+    ]
+  },
+  {
+    numb: 667,
+    question: "what song is this lyric from: There's nowhere to run, nowhere to hide",
+    answer: "Coachella",
+    options: [
+      "Coachella",
+      "Heroin",
+      "Burnt Norton",
+      "Religion",
+    ]
+  },
+  {
+    numb: 668,
+    question: "what song is this lyric from: I guess I was in it, 'cause, baby, for a minute",
+    answer: "God Bless America",
+    options: [
+      "Change",
+      "Heroin",
+      "God Bless America",
+      "Religion",
+    ]
+  },
 ]
