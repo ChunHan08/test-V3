@@ -7379,4 +7379,125 @@ let questions = [
       "Religion",
     ]
   },
+  {
+    numb: 669,
+    question: "what song is this lyric from: If we hold on to hope, we'll have our happy ending",
+    answer: "When The World was at war we kept dancing",
+    options: [
+      "Honeymoon",
+      "Get Free",
+      "High by the beach",
+      "When The World was at war we kept dancing",
+    ]
+  },
+  {
+    numb: 670,
+    question: "what song is this lyric from: But we're just beautiful people with beautiful problems, yeah",
+    answer: "Beautiful People Problems",
+    options: [
+      "Beautiful People Problems",
+      "Change",
+      "Heroin",
+      "Get Free",
+    ]
+  },
+  {
+    numb: 671,
+    question: "what song is this lyric from: You said to meet me up there tomorrow",
+    answer: "Beautiful People Problems",
+    options: [
+      "Beautiful People Problems",
+      "God Knows I tried",
+      "Freak",
+      "Art Deco",
+    ]
+  },
+  {
+    numb: 672,
+    question: "what song is this lyric from: I'm flyin' to the moon again, dreamin' about heroin",
+    answer: "Heroin",
+    options: [
+      "High By The Beach",
+      "Religion",
+      "Heroin",
+      "Art Deco",
+    ]
+  },
+  {
+    numb: 673,
+    question: "what song is this lyric from: Who am I to sympathize when no one gave a damn?",
+    answer: "Change",
+    options: [
+      "Swan Song",
+      "24",
+      "Change",
+      "Ultraviolence",
+    ]
+  },
+  {
+    numb: 674,
+    question: "what song is this lyric from: There's no more chasing rainbows and hoping for an end to them",
+    answer: "Get Free",
+    options: [
+      "Shades of Cool",
+      "West Coast",
+      "Get Free",
+      "Sad Girl",
+    ]
+  },
+  {
+    numb: 675,
+    question: "what song is this lyric from: But I'm not scared, there's nothing to lose now that I've found you",
+    answer: "Honeymoon",
+    options: [
+      "Black Beauty",
+      "Old Money",
+      "Honeymoon",
+      "Florida Kilos",
+    ]
+  },
+  {
+    numb: 676,
+    question: "what song is this lyric from: No holds barred, I was sent to destroy, yeah",
+    answer: "Music To watch boys to",
+    options: [
+      "Freak",
+      "Music To watch boys to",
+      "Art Deco",
+      "High By the beach",
+    ]
+  },
+  {
+    numb: 677,
+    question: "what song is this lyric from: But I still got jazz when I've got those blues",
+    answer: "Terrence Loves You",
+    options: [
+      "Terrence Loves You",
+      "Swan Song",
+      "West Coast",
+      "High By the beach",
+    ]
+  },
+  {
+    numb: 678,
+    question: "what song is this lyric from: Sometimes I wake up in the morning",
+    answer: "God Knows I Tried",
+    options: [
+      "The Other Woman",
+      "Swan Song",
+      "Black Beauty",
+      "God Knows I Tried",
+    ]
+  },
+  {
+    numb: 679,
+    question: "what song is this lyric from: We could slow dance to rock music, kiss while we do it",
+    answer: "Freak",
+    options: [
+      "Freak",
+      "Summertime Sadness",
+      "Cola",
+      "Blue Velvet",
+    ]
+  },
 ]
