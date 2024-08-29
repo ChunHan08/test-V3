@@ -7038,4 +7038,125 @@ let questions = [
         "california",
       ]
     },
+    {
+      numb: 639,
+      question: "What song is this lyric from: It turns out everywhere you go, you take yourself, that's not a lie",
+      answer: "Fuck it I love You",
+      options: [
+        "The Greatest",
+        "the Next best thing",
+        "How to disappear",
+        "Fuck it I love You",
+      ]
+    },
+    {
+      numb: 640,
+      question: "What song is this lyric from: We gonna run to the party, and dance to the rhythm",
+      answer: "Doin' Time",
+      options: [
+        "The Greatest",
+        "Happiness is a butterfly",
+        "Bartender",
+        "Doin' Time",
+      ]
+    },
+    {
+      numb: 641,
+      question: "What song is this lyric from: How's your heart after breaking mine?",
+      answer: "Mr. Prefectly Fine",
+      options: [
+        "Mr. Prefectly Fine",
+        "Bye Bye Baby",
+        "Forever & Always",
+        "That's When",
+      ]
+    },
+    {
+      numb: 642,
+      question: "What song is this lyric from: I do recall a good while back",
+      answer: "We Were Happy",
+      options: [
+        "Jump Then Fall",
+        "We Were Happy",
+        "The Best Day",
+        "Don't You",
+      ]
+    },
+    {
+      numb: 643,
+      question: "What song is this lyric from: And harder to ever take back",
+      answer: "That's When",
+      options: [
+        "Jump Then Fall",
+        "Bye Bye Baby",
+        "Don't You",
+        "That's When",
+      ]
+    },
+    {
+      numb: 644,
+      question: "What song is this lyric from: I'm sure she'll make you happy",
+      answer: "Don't You",
+      options: [
+        "The Best Day",
+        "Bye Bye Baby",
+        "Don't You",
+        "Mr. perfectly fine",
+      ]
+    },
+    {
+      numb: 645,
+      question: "What song is this lyric from: You say hi to your freinds you ain't see in a while",
+      answer: "Fifteen",
+      options: [
+        "Breathe",
+        "Fifteen",
+        "Change",
+        "The Best Day",
+      ]
+    },
+    {
+      numb: 646,
+      question: "What song is this lyric from: See the lights, see the party, the ball gowns",
+      answer: "Love Story",
+      options: [
+        "Love Story",
+        "Jump Then Fall",
+        "You're Not Sorry",
+        "Change",
+      ]
+    },
+    {
+      numb: 647,
+      question: "What song is this lyric from: 'Cause I can't help it if you look like an angle",
+      answer: "Hey Stephen",
+      options: [
+        "The Way I loved you",
+        "Superstar",
+        "Untouchable",
+        "Hey Stephen",
+      ]
+    },
+    {
+      numb: 648,
+      question: "What song is this lyric from: In your car, I'm a star and I'm burnin' through you",
+      answer: "love Song",
+      options: [
+        "hope is a dangerous thing",
+        "love Song",
+        "Bartender",
+        "looking for America",
+      ]
+    },
+    {
+      numb: 649,
+      question: "What song is this lyric from: Violet, blue, green, red to keep me at arm's length don't work",
+      answer: "Cinnamon Girl",
+      options: [
+        "Cinnamon Girl",
+        "The Greatest",
+        "13 Beaches",
+        "Lust For Life",
+      ]
+    },
 ]
