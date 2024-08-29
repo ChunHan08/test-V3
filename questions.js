@@ -7159,4 +7159,125 @@ let questions = [
         "Lust For Life",
       ]
     },
+    {
+      numb: 650,
+      question: "What song is this lyric from: Cuts on his face 'cause he fought too hard",
+      answer: "How to disappear",
+      options: [
+        "The Greatest",
+        "How to disappear",
+        "Barntender",
+        "Say yes to heaven",
+      ]
+    },
+    {
+      numb: 651,
+      question: "What song is this lyric from: You said to a friend that you wish you were doin' better",
+      answer: "California",
+      options: [
+        "Hope Is A Dangerous Thing",
+        "You Must Love Me",
+        "California",
+        "White Mustang",
+      ]
+    },
+    {
+      numb: 652,
+      question: "What song is this lyric from: And we were so obsessed with writing the next best American record",
+      answer: "The Next Best American Record",
+      options: [
+        "Summer Bummer",
+        "The Next Best American Record",
+        "Lust For Life",
+        "Cherry",
+      ]
+    },
+    {
+      numb: 653,
+      question: "What song is this lyric from: And baby, I was doing nothing the most of all",
+      answer: "The Greatest",
+      options: [
+        "Ho[e is a dangerou thing",
+        "Bartender",
+        "Groupie Love",
+        "The Greatest",
+      ]
+    },
+    {
+      numb: 654,
+      question: "What song is this lyric from:Photo free exits from baby's bedside",
+      answer: "Bartender",
+      options: [
+        "Looking For America",
+        "Bartender",
+        "You Must Love Me",
+        "Lust",
+      ]
+    },
+    {
+      numb: 655,
+      question: "What song is this lyric from: I hum it on the phone like every night",
+      answer: "Happiness is a butterfly",
+      options: [
+        "Coachella",
+        "cherry",
+        "Lust For Life",
+        "Happiness is a butterfly",
+      ]
+    },
+    {
+      numb: 656,
+      question: "What song is this lyric from: Smiling for miles in pink dresses and high heels on white yachts",
+      answer: "Hope is a dangerous like me to have - but i have it",
+      options: [
+        "Hope is a dangerous like me to have - but i have it",
+        "God save our young children",
+        "Summer Bummer",
+        "Love",
+      ]
+    },
+    {
+      numb: 657,
+      question: "What song is this lyric from: You've got to pick up every stitch (gonna be, gonna be)",
+      answer: "Season of the witch",
+      options: [
+        "Hope is a dangerous like me to have - but i have it",
+        "13 beaches",
+        "Lust for life",
+        "Season of the witch",
+      ]
+    },
+    {
+      numb: 658,
+      question: "What song is this lyric from: Deep in my heart, I'm concealing",
+      answer: "You must love me",
+      options: [
+        "You must love me",
+        "summer bummer",
+        "cherry",
+        "Groupie Love",
+      ]
+    },
+    {
+      numb: 659,
+      question: "What song is this lyric from: Roll the window down, reach out, feel around for new life",
+      answer: "God Save Our Young blood",
+      options: [
+        "Cherry",
+        "summer bummer",
+        "God Save Our Young blood",
+        "Lust For Love",
+      ]
+    },
+    {
+      numb: 660,
+      question: "What song is this lyric from: We traveled for weeks, just to escape your demons",
+      answer: "Summer Bummer",
+      options: [
+        "Summer Bummer",
+        "Love",
+        "God Bless America",
+        "Heroin",
+      ]
+    },
 ]
