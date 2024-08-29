@@ -7852,15 +7852,125 @@ let questions = [
       "Snow on the Beach",
     ]
     },
-    {
-      numb: 712,
-      question: "What song is this lyric from: You can be my full-time baby, hot or cold",
-      answer: "Ride",
-      options: [
-        "American",
-        "Ride",
-        "Cola",
-        "God & Monsters",
-      ]
-      },
+  {
+    numb: 712,
+    question: "What song is this lyric from: You can be my full-time baby, hot or cold",
+    answer: "Ride",
+    options: [
+      "American",
+      "Ride",
+      "Cola",
+      "God & Monsters",
+    ]
+  },
+  {
+    numb: 713,
+    question: "What song is this lyric from: You were like, tall, tan, drivin' 'round the city",
+    answer: "American",
+    options: [
+      "American",
+      "Cola",
+      "Yayo",
+      "Carmen",
+    ]
+  },
+  {
+    numb: 714,
+    question: "What song is this lyric from: Harvey's in the sky with diamond's, and he's making me crazy",
+    answer: "Cola",
+    options: [
+      "Radio",
+      "Cola",
+      "Blue Jeans",
+      "Lucky Ones",
+    ]
+  },
+  {
+    numb: 715,
+    question: "What song is this lyric from: Dancing and grinding in the pale moonlight",
+    answer: "Body Elecrtic",
+    options: [
+      "Bel Air",
+      "Cola",
+      "Body Elecrtic",
+      "Yayo",
+    ]
+  },
+  {
+    numb: 716,
+    question: "What song is this lyric from: From the stars She wore blue velvet",
+    answer: "Blue Velvet",
+    options: [
+      "Burning Desire",
+      "Dark Paradise",
+      "Body Elecrtic",
+      "Blue Velvet",
+    ]
+  },
+  {
+    numb: 717,
+    question: "What song is this lyric from: Screwed up, scared, doing anything that I needed",
+    answer: "Gods & Monsters",
+    options: [
+      "Blue Jeans",
+      "Gods & Monsters",
+      "Born To Die",
+      "Bel Air",
+    ]
+  },
+  {
+    numb: 718,
+    question: "What song is this lyric from: Let me put on a show for you, daddy",
+    answer: "Yayo",
+    options: [
+      "Yayo",
+      "Radio",
+      "Lucky One",
+      "Bel Air",
+    ]
+  },
+  {
+    numb: 719,
+    question: "What song is this lyric from: I don't wanna be bad, I won't cheat you no more",
+    answer: "Bel Air",
+    options: [
+      "Yayo",
+      "Blue Jeans",
+      "Carmen",
+      "American",
+    ]
+  },
+  {
+    numb: 720,
+    question: "What song is this lyric from: I push you to the limits 'cause I just don't care",
+    answer: "Burning Desire",
+    options: [
+      "Radio",
+      "Burning Desire",
+      "Born To Die",
+      "American",
+    ]
+  },
+  {
+    numb: 721,
+    question: "What song is this lyric from: You were sorta punk rock, I grew up on hip-hop",
+    answer: "Blue Jeans",
+    options: [
+      "Blue Jeans",
+      "Million Dollar Man",
+      "Summertime Sadness",
+      "Lucky Ones",
+    ]
+  },
+  {
+    numb: 722,
+    question: "What song is this lyric from: Walking through the city streets",
+    answer: "Born To Die",
+    options: [
+      "Off To The Race",
+      "National Anthem",
+      "Born To Die",
+      "Video Games",
+    ]
+  },
 ]
