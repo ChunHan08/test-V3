@@ -7621,5 +7621,125 @@ let questions = [
       "Black Beauty",
     ]
   },
-  
+  {
+    numb: 691,
+    question: "what song is this lyric from: You're burnin' up, I'm coolin' down",
+    answer: "Brooklyn Baby",
+    options: [
+      "Sad Girl",
+      "Ultraviolence",
+      "Brooklyn Baby",
+      "Pretty When You Cry",
+    ]
+  },
+  {
+    numb: 692,
+    question: "what song is this lyric from: Down on the West coast, I get this feelin' like",
+    answer: "West Coast",
+    options: [
+      "Sad Girl",
+      "The Other Woman",
+      "Florida Kilos",
+      "West Coast",
+    ]
+  },
+  {
+    numb: 693,
+    question: "what song is this lyric from: His money on the side, money on the side",
+    answer: "Sad Girl",
+    options: [
+      "Sad Girl",
+      "Gun And Roses",
+      "Fucked My way up to the top",
+      "Young and beautiful",
+    ]
+  },
+  {
+    numb: 694,
+    question: "what song is this lyric from: You make me feel like your whole world",
+    answer: "Money Power Glory",
+    options: [
+      "Bel Air",
+      "Money Power Glory",
+      "Summertime Sadness",
+      "Pretty When You Cry",
+    ]
+  },
+  {
+    numb: 695,
+    question: "what song is this lyric from: Don't even know what you're good for",
+    answer: "Fucked my way up to the top",
+    options: [
+      "Fucked my way up to the top",
+      "Cola",
+      "Ride",
+      "Body Elctric",
+    ]
+  },
+  {
+    numb: 696,
+    question: "what song is this lyric from: Those summer nights seem long ago",
+    answer: "Old Money",
+    options: [
+      "God & Monsters",
+      "Old Money",
+      "Blue Velvet",
+      "Body Elctric",
+    ]
+  },
+  {
+    numb: 697,
+    question: "what song is this lyric from: Keeps fresh cut flowers in each room",
+    answer: "The Other Woman",
+    options: [
+      "Yayo",
+      "American",
+      "The Other Woman",
+      "Body Elctric",
+    ]
+  },
+  {
+    numb: 698,
+    question: "what song is this lyric from: Their magnificence, it don't make sense to you",
+    answer: "Black Beauty",
+    options: [
+      "Black Beauty",
+      "Blue Jeans",
+      "Off To The Races",
+      "Video Games",
+    ]
+  },
+  {
+    numb: 699,
+    question: "what song is this lyric from: We should have left Las Vegas",
+    answer: "Guns And Roses",
+    options: [
+      "Blue Jeans",
+      "Off to the races",
+      "Guns And Roses",
+      "Diet Mountain Dew",
+    ]
+  },
+  {
+    numb: 700,
+    question: "what song is this lyric from: Cooking up a dream, turning diamonds into snow",
+    answer: "Florida Kilos",
+    options: [
+      "Diet Moutain Dew",
+      "Off to the races",
+      "Diet Mountain Dew",
+      "Florida Kilos",
+    ]
+  },
+  {
+    numb: 701,
+    question: "what song is this lyric from: And I know it's true, that visions are seldom what they seem",
+    answer: "Once Upon A Dream",
+    options: [
+      "Ride",
+      "American",
+      "Once Upon A Dream",
+      "Young And Beautiful",
+    ]
+  },
 ]
