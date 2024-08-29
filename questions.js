@@ -6917,4 +6917,125 @@ let questions = [
         "Wild At Heart",
       ]
     },
+    {
+      numb: 628,
+      question: "What song is this lyric from: But nothing came from either one but pain (but fuck it)",
+      answer: "Dark but just A Game",
+      options: [
+        "yosemite",
+        "Breaking Up slowly",
+        "Dark but just A Game",
+        "For Free",
+      ]
+    },
+    {
+      numb: 629,
+      question: "What song is this lyric from: Opening up doors, pulling out chairs, look at you",
+      answer: "Not All Who Wander Are Lost",
+      options: [
+        "Not All Who Wander Are Lost",
+        "Dance till we die",
+        "you'll never walk again",
+        "For Free",
+      ]
+    },
+    {
+      numb: 630,
+      question: "What song is this lyric from: Isn't it cool how nothing here changes at all?",
+      answer: "Yosemite",
+      options: [
+        "Doing It",
+        "Cinnamon Girl",
+        "Love Song",
+        "Yosemite",
+      ]
+    },
+    {
+      numb: 631,
+      question: "What song is this lyric from: It's hard to be lonely, but it's the right thing",
+      answer: "Breaking Up Slowly",
+      options: [
+        "Doing It",
+        "Bartneder",
+        "How to disappear",
+        "Breaking Up Slowly",
+      ]
+    },
+    {
+      numb: 632,
+      question: "What song is this lyric from: And life doesn't always work out like we planned",
+      answer: "Dance Till We Die",
+      options: [
+        "For Free",
+        "Don't call me angel",
+        "Summertime Sadness",
+        "Dance Till We Die",
+      ]
+    },
+    {
+      numb: 633,
+      question: "What song is this lyric from: And the children let out from their schools",
+      answer: "For Free",
+      options: [
+        "For Free",
+        "Mariners Appaertnements",
+        "Love song",
+        "Born To Die",
+      ]
+    },
+    {
+      numb: 634,
+      question: "What song is this lyric from: And then I crawled back to the life that I said I wouldn't live in",
+      answer: "Hallucinogenics",
+      options: [
+        "For Free",
+        "How to disappear",
+        "Doin' Time",
+        "Hallucinogenics",
+      ]
+    },
+    {
+      numb: 635,
+      question: "What song is this lyric from: Even though you know we fly (though you know we)",
+      answer: "Don't Call Me Angel",
+      options: [
+        "norman Fucking Rockwell",
+        "The Next Best",
+        "Don't Call Me Angel",
+        "Hallucinogenics",
+      ]
+    },
+    {
+      numb: 636,
+      question: "What song is this lyric from: You act like a kid even though you stand six foot two",
+      answer: "norman Fucking Rockwell",
+      options: [
+        "norman Fucking Rockwell",
+        "Love Song",
+        "California",
+        "Fuck It i love you",
+      ]
+    },
+    {
+      numb: 637,
+      question: "What song is this lyric from: You're lost at sea, then I'll command your boat to me again",
+      answer: "Mariners Apartment Complex",
+      options: [
+        "How to disapear",
+        "The Greatest",
+        "Mariners Apartment Complex",
+        "Hope is a dangerous thing",
+      ]
+    },
+    {
+      numb: 638,
+      question: "What song is this lyric from: Ice cream, ice queen, I dream in jeans and leather",
+      answer: "venice Bitch",
+      options: [
+        "venice Bitch",
+        "the Next best thing",
+        "happiness is a butterfly",
+        "california",
+      ]
+    },
 ]
