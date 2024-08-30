@@ -8336,4 +8336,125 @@ let questions = [
       "Enemy",
     ]
   },
+  {
+    numb: 756,
+    question: "What song is this lyric from: Make me fly away (it's some Hocus Pocus shit, I'm bewitched)",
+    answer: "Yuck",
+    options: [
+      "Selfish Girl",
+      "Yuck",
+      "Sorry if I hurt YOu",
+      "Used to know me",
+    ]
+  },
+  {
+    numb: 757,
+    question: "What song is this lyric from: I used to be your angel, now I'm walking out your door",
+    answer: "Used to Know Me",
+    options: [
+      "360",
+      "Twice",
+      "Pink Diamond",
+      "Used to know me",
+    ]
+  },
+  {
+    numb: 758,
+    question: "What song is this lyric from: One day, you're never gonna be there",
+    answer: "Twice",
+    options: [
+      "Forever",
+      "Twice",
+      "Pink Diamond",
+      "Claws",
+    ]
+  },
+  {
+    numb: 759,
+    question: "What song is this lyric from: Yeah, you might be different but I told you that we're finished, oh",
+    answer: "Selfish Girl",
+    options: [
+      "Forever",
+      "Selfish Girl",
+      "Sorry If I hurt you",
+      "7 Years",
+    ]
+  },
+  {
+    numb: 760,
+    question: "What song is this lyric from: I'm high enough from all the high pressure",
+    answer: "How Can I Not know what I need",
+    options: [
+      "How Can I Not know what I need",
+      "Enemy",
+      "Forever",
+      "Claws",
+    ]
+  },
+  {
+    numb: 761,
+    question: "What song is this lyric from: But still, I'm taking you for granted, and that's not right",
+    answer: "Sorry If I Hurt You",
+    options: [
+      "Forever",
+      "Apple",
+      "Sorry If I Hurt You",
+      "Pink Diamond",
+    ]
+  },
+  {
+    numb: 762,
+    question: "What song is this lyric from: But I don't give a fuck what you think about me (ah)",
+    answer: "What you think about me",
+    options: [
+      "7 Years",
+      "What you think about me",
+      "Sorry If I Hurt You",
+      "Detonate",
+    ]
+  },
+  {
+    numb: 763,
+    question: "What song is this lyric from: Gonna give you good views, watch me whip it up",
+    answer: "Pink Daimond",
+    options: [
+      "c2.0",
+      "Pink Daimond",
+      "Enemy",
+      "I finally understand",
+    ]
+  },
+  {
+    numb: 764,
+    question: "What song is this lyric from: You take your time, I'll take mine, we'll be fine",
+    answer: "forever",
+    options: [
+      "party 4 u",
+      "eneamy",
+      "forever",
+      "I finally understand",
+    ]
+  },
+  {
+    numb: 765,
+    question: "What song is this lyric from: 'Cause I know, when I know, I don't wanna be alone",
+    answer: "claws",
+    options: [
+      "party 4 u",
+      "detonate",
+      "claws",
+      "c2.0",
+    ]
+  },
+  {
+    numb: 766,
+    question: "What song is this lyric from: And now we're honest and it feels so good (Ah, ah)",
+    answer: "7 Years",
+    options: [
+      "anthems",
+      "detonate",
+      "7 Years",
+      "visions",
+    ]
+  },
 ]
