@@ -8688,4 +8688,126 @@ let questions = [
       "Thought",
     ]
   },
+  {
+    numb: 788,
+    question: "What song is this lyric from: When you're not around, when you're not around",
+    answer: "Cross You Out",
+    options: [
+      "Guess",
+      "Silver Cross",
+      "Cross You Out",
+      "Official",
+    ]
+  },
+  {
+    numb: 789,
+    question: "What song is this lyric from: Take a ride to my old neighborhood",
+    answer: "1999",
+    options: [
+      "Shake it",
+      "I Don't Wanna Know",
+      "February 2017",
+      "1999",
+    ]
+  },
+  {
+    numb: 790,
+    question: "What song is this lyric from: I'm zoomin' my way 'round the globe",
+    answer: "Click",
+    options: [
+      "Thoughts",
+      "Blame It On Your",
+      "Click",
+      "1999",
+    ]
+  },
+  {
+    numb: 791,
+    question: "What song is this lyric from: I don't think I can hide my emotions no, no more (uh huh)",
+    answer: "Warm",
+    options: [
+      "Official",
+      "Blame It On Your",
+      "Shake it",
+      "Silver Cross",
+    ]
+  },
+  {
+    numb: 792,
+    question: "What song is this lyric from: Are my friends really friends now, or are they far gone?",
+    answer: "Thoughts",
+    options: [
+      "Guess",
+      "2099",
+      "Thoughts",
+      "Hello Goodbye",
+    ]
+  },
+  {
+    numb: 793,
+    question: "What song is this lyric from: And every time you say the words, I don't know what to say",
+    answer: "Blame it on your love",
+    options: [
+      "Shake It",
+      "Blame it on your love",
+      "Official",
+      "apple",
+    ]
+  },
+  {
+    numb: 794,
+    question: "What song is this lyric from: When your heart is breaking, you keep on taking me back",
+    answer: "White Mercedes",
+    options: [
+      "February 2017",
+      "Silver Cross",
+      "White Mercedes",
+      "Backseat",
+    ]
+  },
+  {
+    numb: 795,
+    question: "What song is this lyric from: All your problems are far away (So far away)",
+    answer: "Silver Cross",
+    options: [
+      "2099",
+      "Silver Cross",
+      "White Mercedes",
+      "Official",
+    ]
+  },
+  {
+    numb: 796,
+    question: "What song is this lyric from: Don't you tell me you're sorry, don't pretend you're stormy",
+    answer: "I Don't wanna know",
+    options: [
+      "February 2017",
+      "Hello Goodbye",
+      "Guess",
+      "I Don't wanna know",
+    ]
+  },
+  {
+    numb: 797,
+    question: "What song is this lyric from: The things that we break when we're switching positions",
+    answer: "Official",
+    options: [
+      "Official",
+      "360",
+      "Lucky",
+      "Track 10",
+    ]
+  },
+  {
+    numb: 798,
+    question: "What song is this lyric from: Got you drinking water when you should be drinking alcohol",
+    answer: "Shake It",
+    options: [
+      "Official",
+      "Shake It",
+      "Guess",
+      "Spring",
+    ]
+  },
+  
 ]
