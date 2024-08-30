@@ -8932,13 +8932,123 @@ let questions = [
   },
   {
     numb: 810,
-    question: "What song is this lyric from:I wanna hear you whisper on the telephone, yeah",
+    question: "What song is this lyric from: I wanna hear you whisper on the telephone, yeah",
     answer: "Delicious",
     options: [
       "Roll with Me",
       "3AM",
       "Track 10",
       "Delicious",
+    ]
+  },
+  {
+    numb: 811,
+    question: "What song is this lyric from: Whip it out, like I'm propane",
+    answer: "Unlock It",
+    options: [
+      "Roll with Me",
+      "Unlock It",
+      "Dreamer",
+      "Blame It On U",
+    ]
+  },
+  {
+    numb: 812,
+    question: "What song is this lyric from: I've been runnin' 'round now for so long, yeah",
+    answer: "Porshe",
+    options: [
+      "Porshe",
+      "Sucker",
+      "How Can I",
+      "Breaking Up",
+    ]
+  },
+  {
+    numb: 813,
+    question: "What song is this lyric from: Angel in the clouds rain down, best believe it",
+    answer: "Dreamer",
+    options: [
+      "Porshe",
+      "Forever",
+      "You",
+      "Dreamer",
+    ]
+  },
+  {
+    numb: 814,
+    question: "What song is this lyric from: And I know, and I know, and I know",
+    answer: "3AM",
+    options: [
+      "Grins",
+      "3AM",
+      "White Roses",
+      "Gold Coins",
+    ]
+  },
+  {
+    numb: 815,
+    question: "What song is this lyric from: We met in the springtime So cool, you were all nice",
+    answer: "Balme It On U",
+    options: [
+      "Balme It On U",
+      "ILY2",
+      "London Queen",
+      "Boom Clap",
+    ]
+  },
+  {
+    numb: 816,
+    question: "What song is this lyric from: Lips brush right across your mouth",
+    answer: "Roll With Me",
+    options: [
+      "Balme It On U",
+      "Famous",
+      "Roll With Me",
+      "Babygirl",
+    ]
+  },
+  {
+    numb: 817,
+    question: "What song is this lyric from: We had somethin' that never happened",
+    answer: "Emotional",
+    options: [
+      "Emotional",
+      "So Over You",
+      "Body Of My Own",
+      "Take My Hand",
+    ]
+  },
+  {
+    numb: 818,
+    question: "What song is this lyric from: One more thing to say before you go",
+    answer: "ILY2",
+    options: [
+      "Lipgloss",
+      "Drugs",
+      "ILY2",
+      "Sucker",
+    ]
+  },
+  {
+    numb: 819,
+    question: "What song is this lyric from: No one knows the secrets that you know",
+    answer: "White Roses",
+    options: [
+      "White Roses",
+      "Gold Coin",
+      "What I Like",
+      "So Far Away",
+    ]
+  },
+  {
+    numb: 820,
+    question: "What song is this lyric from: I'm your pin-up princess, yeah, you know who to call",
+    answer: "Babygirl",
+    options: [
+      "White Roses",
+      "Black Roses",
+      "Cloud Aura",
+      "Babygirl",
     ]
   },
 ]
