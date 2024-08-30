@@ -8578,4 +8578,114 @@ let questions = [
       "Summertime sadness",
     ]
   },
+  {
+    numb: 778,
+    question: "What song is this lyric from: I'm right here and it feels brand new",
+    answer: "7 Years",
+    options: [
+      "1999",
+      "7 Years",
+      "Thoughts",
+      "Enemy",
+    ]
+  },
+  {
+    numb: 779,
+    question: "What song is this lyric from: When I start to see if it gets real bad",
+    answer: "Detonate",
+    options: [
+      "Detonate",
+      "Warm",
+      "Gone",
+      "Enemy",
+    ]
+  },
+  {
+    numb: 780,
+    question: "What song is this lyric from: I'm so far away sometimes, I'm distant, yeah",
+    answer: "Enemy",
+    options: [
+      "Guess",
+      "Lucky",
+      "Dreamer",
+      "Enemy",
+    ]
+  },
+  {
+    numb: 781,
+    question: "What song is this lyric from: And now we're sticking close, and I understand",
+    answer: "I Finally Understand",
+    options: [
+      "Guess",
+      "Blame It On U",
+      "I Finally Understand",
+      "Track 10",
+    ]
+  },
+  {
+    numb: 782,
+    question: "What song is this lyric from: I'm next level, so legit with all my",
+    answer: "c2.0",
+    options: [
+      "c2.0",
+      "Hello GoodBye",
+      "I Got It",
+      "Track 10",
+    ]
+  },
+  {
+    numb: 783,
+    question: "What song is this lyric from: I was hopin' you would come through, it's true, it's true",
+    answer: "Party 4 U",
+    options: [
+      "Tears",
+      "Porche",
+      "Unlock It",
+      "Party 4 U",
+    ]
+  },
+  {
+    numb: 784,
+    question: "What song is this lyric from: Try my best to be physical Lose myself in a TV show",
+    answer: "Anthems",
+    options: [
+      "Lipgloss",
+      "Anthems",
+      "Sucker",
+      "Drugs",
+    ]
+  },
+  {
+    numb: 785,
+    question: "What song is this lyric from: Soon he'll kiss and pull me close, so close",
+    answer: "Vision",
+    options: [
+      "Vision",
+      "Famous",
+      "So Over You",
+      "You",
+    ]
+  },
+  {
+    numb: 786,
+    question: "What song is this lyric from: Turn the volume up in your bedroom",
+    answer: "Next Level Charli",
+    options: [
+      "Nuclear Season",
+      "FNext Level Charli",
+      "Take My Hand",
+      "Caught In The Middle",
+    ]
+  },
+  {
+    numb: 787,
+    question: "What song is this lyric from: Pour me one more, watch the ice melt in my fist",
+    answer: "Gone",
+    options: [
+      "Official",
+      "Gone",
+      "1999",
+      "Thought",
+    ]
+  },
 ]
