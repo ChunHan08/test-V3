@@ -9403,4 +9403,147 @@ let questions = [
       "Hot Girl",
     ]
   },
+  {
+    numb: 853,
+    question: "What song is this lyric from: But we threw it in the flame and now we're never gonna trace it",
+    answer: "You're the One",
+    options: [
+      "360",
+      "Nuclear Seasons",
+      "You're the One",
+      "Hot Girl",
+    ]
+  },
+  {
+    numb: 854,
+    question: "What song is this lyric from: Baby, dance with me under the waves",
+    answer: "Underwater",
+    options: [
+      "Underwater",
+      "Make You Dance",
+      "Ashes",
+      "Lie To Stay",
+    ]
+  },
+  {
+    numb: 855,
+    question: "What song is this lyric from: But you don't, you don't, you don't even know me",
+    answer: "You Don't Know",
+    options: [
+      "Workin' On It",
+      "Make You Dance",
+      "You Don't Know",
+      "After You",
+    ]
+  },
+  {
+    numb: 856,
+    question: "What song is this lyric from: When we're not fighting I'm a stranger to you",
+    answer: "Ashes",
+    options: [
+      "Evil Twin",
+      "Blink",
+      "Ashes",
+      "Genetics",
+    ]
+  },
+  {
+    numb: 857,
+    question: "What song is this lyric from: Tryna see what you see when you look at me",
+    answer: "Workin' On It",
+    options: [
+      "After You",
+      "Funk",
+      "Workin' On It",
+      "Lie To Me",
+    ]
+  },
+  {
+    numb: 858,
+    question: "What song is this lyric from: I dropped this shit to make you, make you",
+    answer: "Make You Dance",
+    options: [
+      "Babygirl",
+      "Make You Dance",
+      "Funk",
+      "Ashes",
+    ]
+  },
+  {
+    numb: 859,
+    question: "What song is this lyric from: Changed my hair, but I couldn't change up my mind (My-my-my mind)",
+    answer: "Make You Dance",
+    options: [
+      "Babygirl",
+      "Make You Dance",
+      "Here To Stay",
+      "Genetics",
+    ]
+  },
+  {
+    numb: 859,
+    question: "What song is this lyric from: I don't know you, but I'm just what I wanna be",
+    answer: "Nice To Meet Ya",
+    options: [
+      "Funk",
+      "Ashes",
+      "Nice To Meet Ya",
+      "Blink",
+    ]
+  },
+  {
+    numb: 860,
+    question: "What song is this lyric from: This beat gon' make me make a mess",
+    answer: "Funk",
+    options: [
+      "Funk",
+      "Evil Twin",
+      "Another Opinion",
+      "Blink",
+    ]
+  },
+  {
+    numb: 861,
+    question: "What song is this lyric from: One day you gon' take your throne (Take your throne)",
+    answer: "Babygirl",
+    options: [
+      "Babygirl",
+      "Have You Now",
+      "Genetics",
+      "Wave",
+    ]
+  },
+  {
+    numb: 862,
+    question: "What song is this lyric from: When we're not fightin' I'm a stranger to you, to you",
+    answer: "Ashes",
+    options: [
+      "Babygirl",
+      "Blink",
+      "Evil Twin",
+      "Ashes",
+    ]
+  },
+  {
+    numb: 863,
+    question: "What song is this lyric from: And you'd die for me (Die for me), oh-oh",
+    answer: "Lie To Me",
+    options: [
+      "Wave",
+      "Lie To Me",
+      "Evil Twin",
+      "Run Like The River",
+    ]
+  },
+  {
+    numb: 864,
+    question: "What song is this lyric from: And it didn't take long to know you're the one",
+    answer: "Here To Stay",
+    options: [
+      "After You",
+      "ANother Opinion",
+      "Here To Stay",
+      "Funk",
+    ]
+  },
 ]
