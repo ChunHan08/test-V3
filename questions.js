@@ -9172,4 +9172,114 @@ let questions = [
       "You're the One",
     ]
   },
+  {
+    numb: 832,
+    question: "What song is this lyric from: And all my girls in the super store",
+    answer: "Hanging Around",
+    options: [
+      "Black Roses",
+      "Hanging Around",
+      "Forever",
+      "Hot Girls",
+    ]
+  },
+  {
+    numb: 833,
+    question: "What song is this lyric from: Stuck inside a silver cage Body tangled up in chains",
+    answer: "So Over You",
+    options: [
+      "So Over You",
+      "Die Tonight",
+      "Red Balooon",
+      "How Can I",
+    ]
+  },
+  {
+    numb: 834,
+    question: "What song is this lyric from: And I'm goin' hard with all my friends",
+    answer: "Die Tonight",
+    options: [
+      "You're The One",
+      "Die Tonight",
+      "Hot Girls",
+      "How Can I",
+    ]
+  },
+  {
+    numb: 835,
+    question: "What song is this lyric from: Our hearts got caught in the middle",
+    answer: "Cought In The middle",
+    options: [
+      "Cought In The middle",
+      "You",
+      "Need Ur Luv",
+      "Take My Hand",
+    ]
+  },
+  {
+    numb: 836,
+    question: "What song is this lyric from: I won't give up, so come and get me",
+    answer: "Need Ur Luv",
+    options: [
+      "Cought In The middle",
+      "Hot Girls",
+      "Need Ur Luv",
+      "White Roses",
+    ]
+  },
+  {
+    numb: 837,
+    question: "What song is this lyric from: Monday morning shoot up like a rocket",
+    answer: "Red Balloon",
+    options: [
+      "Red Balloon",
+      "Hot Girls",
+      "Stay Away",
+      "Set Me Free",
+    ]
+  },
+  {
+    numb: 838,
+    question: "What song is this lyric from: When you go, please, don't leave your love in the sun",
+    answer: "Nuclear Season",
+    options: [
+      "Grin",
+      "Lock You Up",
+      "You",
+      "Nuclear Season",
+    ]
+  },
+  {
+    numb: 839,
+    question: "What song is this lyric from: We were addicted to the blue print",
+    answer: "You",
+    options: [
+      "Forever",
+      "How Can I",
+      "You",
+      "So Far away",
+    ]
+  },
+  {
+    numb: 840,
+    question: "What song is this lyric from: Get real high and never come down",
+    answer: "Take My Hand",
+    options: [
+      "Grins",
+      "Take My Hand",
+      "Black Roses",
+      "You're The One",
+    ]
+  },
+  {
+    numb: 841,
+    question: "What song is this lyric from: Do you remember what I said that first time we met?",
+    answer: "Stay Away",
+    options: [
+      "So Far Away",
+      "Take My Hand",
+      "What I Like",
+      "Stay Away",
+    ]
+  },
 ]
