@@ -9282,4 +9282,125 @@ let questions = [
       "Stay Away",
     ]
   },
+  {
+    numb: 842,
+    question: "What song is this lyric from: I've been pushed around, up and down in a cloud",
+    answer: "Set Me Free",
+    options: [
+      "Grins",
+      "Take My Hand",
+      "Set Me Free",
+      "Cloud Aura",
+    ]
+  },
+  {
+    numb: 843,
+    question: "What song is this lyric from: Wish you could see me when I'm lying in bed",
+    answer: "Grins",
+    options: [
+      "Grins",
+      "Black Roses",
+      "How Can I",
+      "Lock You Up",
+    ]
+  },
+  {
+    numb: 844,
+    question: "What song is this lyric from: You are the poison, I'll drink the poison",
+    answer: "So Far Away",
+    options: [
+      "Grins",
+      "So Far Away",
+      "Nuclear Seasons",
+      "Forever",
+    ]
+  },
+  {
+    numb: 845,
+    question: "What song is this lyric from: Kept the blunts rolled, always let you take the first hit",
+    answer: "Cloud Aura",
+    options: [
+      "You're the One",
+      "So Far Away",
+      "Forever",
+      "Cloud Aura",
+    ]
+  },
+  {
+    numb: 846,
+    question: "What song is this lyric from: And when I wanna cry, I hope you're gonna hold my hand",
+    answer: "What I Like",
+    options: [
+      "You're the One",
+      "Hot Girl",
+      "What I Like",
+      "You(HA HA HA)",
+    ]
+  },
+  {
+    numb: 847,
+    question: "What song is this lyric from: I fall apart when I wash your touches off of my skin, my skin, my skin",
+    answer: "Black Roses",
+    options: [
+      "Lock You up",
+      "Black Roses",
+      "Forever",
+      "You(HA HA HA)",
+    ]
+  },
+  {
+    numb: 848,
+    question: "What song is this lyric from: You're the one who came along and unlocked the cage",
+    answer: "You're the one",
+    options: [
+      "How Can I",
+      "Black Roses",
+      "You're the one",
+      "Nuclear Seasons",
+    ]
+  },
+  {
+    numb: 849,
+    question: "What song is this lyric from: The Southern Comfort from your comforter got destroyed",
+    answer: "How Can I",
+    options: [
+      "How Can I",
+      "Hot Girl",
+      "Forever",
+      "Nuclear Seasons",
+    ]
+  },
+  {
+    numb: 850,
+    question: "What song is this lyric from: What do I do to lock you up inside my heart?",
+    answer: "Lock You Up",
+    options: [
+      "How Can I",
+      "Lock You Up",
+      "Nuclear Seasons",
+      "Forever",
+    ]
+  },
+  {
+    numb: 851,
+    question: "What song is this lyric from: You were old school, I was on the new-new-new",
+    answer: "You (HA HA HA)",
+    options: [
+      "Apple",
+      "You (HA HA HA)",
+      "Girl so confusing",
+      "Forever",
+    ]
+  },
+  {
+    numb: 852,
+    question: "What song is this lyric from: But we threw it in the flame and now we're never gonna trace it",
+    answer: "You're the One",
+    options: [
+      "360",
+      "Nuclear Seasons",
+      "You're the One",
+      "Hot Girl",
+    ]
+  },
 ]
