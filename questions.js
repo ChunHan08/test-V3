@@ -9051,4 +9051,125 @@ let questions = [
       "Babygirl",
     ]
   },
+  {
+    numb: 821,
+    question: "What song is this lyric from: Put ecstasy on my tongue and that's all I'm tastin' now",
+    answer: "Drugs",
+    options: [
+      "Sucker",
+      "London Queen",
+      "Drugs",
+      "Breaking Up",
+    ]
+  },
+  {
+    numb: 822,
+    question: "What song is this lyric from: Baby boy, they gon' rot your teeth like what",
+    answer: "Lipgloss",
+    options: [
+      "Gold Coins",
+      "Sucker",
+      "Lipgloss",
+      "Famous",
+    ]
+  },
+  {
+    numb: 823,
+    question: "What song is this lyric from: You joined (joined) my club (club)",
+    answer: "Sucker",
+    options: [
+      "Gold Coins",
+      "Sucker",
+      "Boom Clap",
+      "Body of My Own",
+    ]
+  },
+  {
+    numb: 824,
+    question: "What song is this lyric from: Getting high and getting wrecked",
+    answer: "Break The Rules",
+    options: [
+      "So Over You",
+      "Break The Rules",
+      "Doing It",
+      "Caught in the middle ",
+    ]
+  },
+  {
+    numb: 825,
+    question: "What song is this lyric from: When I'm driving on the wrong side of the road",
+    answer: "London Queen",
+    options: [
+      "So Over You",
+      "Red Balloon",
+      "London Queen",
+      "Nuclear Seasons",
+    ]
+  },
+  {
+    numb: 826,
+    question: "What song is this lyric from: You have an ugly tattoo and fucking cheap perfume",
+    answer: "Breaking Up",
+    options: [
+      "Need Ur Luv",
+      "Breaking Up",
+      "London Queen",
+      "Stay Away",
+    ]
+  },
+  {
+    numb: 827,
+    question: "What song is this lyric from: Escape into the sky in my own private jet",
+    answer: "Gold Coins",
+    options: [
+      "Boom CLap",
+      "Stay Away",
+      "Gold Coins",
+      "Die Tonight",
+    ]
+  },
+  {
+    numb: 828,
+    question: "What song is this lyric from: You take me over, you're the magic in my veins",
+    answer: "Boom Clap",
+    options: [
+      "Boom Clap",
+      "So Over You",
+      "Caught In the Middle",
+      "Stay Away",
+    ]
+  },
+  {
+    numb: 829,
+    question: "What song is this lyric from: So come on, let's keep doing it like we're doing it",
+    answer: "Doing It",
+    options: [
+      "Boom Clap",
+      "Doing It",
+      "Grins",
+      "So Far away",
+    ]
+  },
+  {
+    numb: 830,
+    question: "What song is this lyric from: To the target and I'm gonna blow my brakes",
+    answer: "Body of my Own",
+    options: [
+      "Cloud Aura",
+      "Grins",
+      "Body of my Own",
+      "Take My Hand",
+    ]
+  },
+  {
+    numb: 831,
+    question: "What song is this lyric from: Get your boyfriend's car, come and pick me up",
+    answer: "Famous",
+    options: [
+      "What I Like",
+      "Famous",
+      "Body of my Own",
+      "You're the One",
+    ]
+  },
 ]
