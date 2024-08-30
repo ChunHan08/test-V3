@@ -9546,4 +9546,125 @@ let questions = [
       "Funk",
     ]
   },
+  {
+    numb: 865,
+    question: "What song is this lyric from: But I can't take cred 'cause it's from somebody else",
+    answer: "Genetics",
+    options: [
+      "Hurt Me",
+      "Evil Twin",
+      "Blink",
+      "Genetics",
+    ]
+  },
+  {
+    numb: 866,
+    question: "What song is this lyric from: Don't wanna give my heart to someone new",
+    answer: "After You",
+    options: [
+      "Have You Now",
+      "Evil Twin",
+      "After You",
+      "Foolish",
+    ]
+  },
+  {
+    numb: 867,
+    question: "What song is this lyric from: You don't know me, how you think you know what's best for me?",
+    answer: "Another Opinion",
+    options: [
+      "Have You Now",
+      "Evil Twin",
+      "After You",
+      "Foolish",
+    ]
+  },
+  {
+    numb: 868,
+    question: "What song is this lyric from: I'm happy that you're my own (That you're mine)",
+    answer: "Have You Now",
+    options: [
+      "Have You Now",
+      "Wave",
+      "Blink",
+      "Foolish",
+    ]
+  },
+  {
+    numb: 869,
+    question: "What song is this lyric from: I'm crazy but I'm sweet, you'll see (You'll see)",
+    answer: "Blink",
+    options: [
+      "Genetics",
+      "Wave",
+      "Badass Woman",
+      "Blink",
+    ]
+  },
+  {
+    numb: 870,
+    question: "What song is this lyric from: Making me make my bad decisions, but I'm innocent",
+    answer: "Evil Twin",
+    options: [
+      "Foolish",
+      "Evil Twin",
+      "Badass Woman",
+      "Run Like The River",
+    ]
+  },
+  {
+    numb: 871,
+    question: "What song is this lyric from: I'm the voice who says, I'm not good enough",
+    answer: "Workin' On It",
+    options: [
+      "Genetics",
+      "Wave",
+      "Workin' On It",
+      "Hurt Me",
+    ]
+  },
+  {
+    numb: 872,
+    question: "What song is this lyric from: 'Cause I miss the way you're dancing on me, yeah",
+    answer: "Wave",
+    options: [
+      "I'm Down",
+      "Wave",
+      "After You",
+      "With You",
+    ]
+  },
+  {
+    numb: 873,
+    question: "What song is this lyric from: And when it hasn't been your day, your week, your month, or even your year, but",
+    answer: "I'll Be There For You",
+    options: [
+      "I'm Down",
+      "I'll Be There For You",
+      "I'm Down",
+      "Boys Like You",
+    ]
+  },
+  {
+    numb: 874,
+    question: "What song is this lyric from: I'm workin', workin, workin', I've been working on myself",
+    answer: "Genetics",
+    options: [
+      "Marry me",
+      "Genetics",
+      "I'm Down",
+      "Foolish",
+    ]
+  },
+  {
+    numb: 875,
+    question: "What song is this lyric from: When the rain, when the rain falls down",
+    answer: "Run Like The River",
+    options: [
+      "Just Got Paid",
+      "Run Like The River",
+      "After You",
+      "Boys Like You",
+    ]
+  },
 ]
