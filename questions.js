@@ -8809,5 +8809,136 @@ let questions = [
       "Spring",
     ]
   },
-  
+  {
+    numb: 799,
+    question: "What song is this lyric from: I only know what's good once I have lost it all",
+    answer: "February 2017",
+    options: [
+      "Guess",
+      "Spring Breakers",
+      "February 2017",
+      "2099",
+    ]
+  },
+  {
+    numb: 800,
+    question: "What song is this lyric from: Don't make decisions for me, you don't know nothin'",
+    answer: "2099",
+    options: [
+      "Lucky",
+      "I GOt It",
+      "Out of My Head",
+      "2099",
+    ]
+  },
+  {
+    numb: 801,
+    question: "What song is this lyric from: My heart began to rise, I panicked quietly, so silently",
+    answer: "Hello Goodbye",
+    options: [
+      "Delicious",
+      "Hello Goodbye",
+      "Tears",
+      "Track 10",
+    ]
+  },
+  {
+    numb: 802,
+    question: "What song is this lyric from: You wanna put 'em in your mouth, pull 'em all down south",
+    answer: "Guess",
+    options: [
+      "Dreamer",
+      "Guess",
+      "3AM",
+      "Roll with Me",
+    ]
+  },
+  {
+    numb: 803,
+    question: "What song is this lyric from: Yeah, I'm parked outside watching all the girls strut",
+    answer: "Spring Breakers",
+    options: [
+      "Track 10",
+      "Spring Breakersuess",
+      "Porshe",
+      "Emotional",
+    ]
+  },
+  {
+    numb: 804,
+    question: "What song is this lyric from: I can't escape all the voices and so I turn it up",
+    answer: "Backseat",
+    options: [
+      "Tears",
+      "I Got It",
+      "Backseat",
+      "Femmebot",
+    ]
+  },
+  {
+    numb: 805,
+    question: "What song is this lyric from: I don't learn, wanna burn in the dirt 'til I'm out of luck, yeah",
+    answer: "Out of My Head",
+    options: [
+      "Dreamer",
+      "I Got It",
+      "Out of My Head",
+      "Porshe",
+    ]
+  },
+  {
+    numb: 806,
+    question: "What song is this lyric from: And even though you g-g-g-got me",
+    answer: "Lucky",
+    options: [
+      "Lucky",
+      "Unlock",
+      "3 AM",
+      "Roll with Me",
+    ]
+  },
+  {
+    numb: 807,
+    question: "What song is this lyric from:Head on your shoulder, but I miss you so much",
+    answer: "Tears",
+    options: [
+      "Porsche",
+      "Tears",
+      "Track 10",
+      "Emotional",
+    ]
+  },
+  {
+    numb: 808,
+    question: "What song is this lyric from: They lurkin' like witnesses, money I'm gettin'",
+    answer: "I Got it",
+    options: [
+      "I Got It",
+      "Blame It On U",
+      "Track 10",
+      "ILY2",
+    ]
+  },
+  {
+    numb: 809,
+    question: "What song is this lyric from: I'll use you up like you're my battery",
+    answer: "Femmebot",
+    options: [
+      "White Roses",
+      "Blame It On U",
+      "Dreamer",
+      "Femmebot",
+    ]
+  },
+  {
+    numb: 810,
+    question: "What song is this lyric from:I wanna hear you whisper on the telephone, yeah",
+    answer: "Delicious",
+    options: [
+      "Roll with Me",
+      "3AM",
+      "Track 10",
+      "Delicious",
+    ]
+  },
 ]
