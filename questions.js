@@ -10778,4 +10778,147 @@ let questions = [
       "Alright",
     ]
   },
+  {
+    numb: 977,
+    question: "What song is this lyric from: But it makes all the devastation funny (funny, funny, funny)",
+    answer: "Chicken Little",
+    options: [
+      "Chicken Little",
+      "To The Moon",
+      "Whoops",
+      "I Get It",
+    ]
+  },
+  {
+    numb: 978,
+    question: "What song is this lyric from: I don't think I'll be taking that quest",
+    answer: "Mr Right",
+    options: [
+      "Chicken Little",
+      "Sweet Morning",
+      "Mr Right",
+      "Been Like This",
+    ]
+  },
+  {
+    numb: 979,
+    question: "What song is this lyric from: Told her if she wants some sugar, baby, don't be a stranger (uh-huh)",
+    answer: "Hands On Me",
+    options: [
+      "To The Head",
+      "Love On Hold",
+      "Whoops",
+      "Hands On Me",
+    ]
+  },
+  {
+    numb: 980,
+    question: "What song is this lyric from: She knows what she do when she moves (when she moves)",
+    answer: "Been Like This",
+    options: [
+      "Rollin'",
+      "Love On Hold",
+      "Been Like This",
+      "Forget How To Love",
+    ]
+  },
+  {
+    numb: 981,
+    question: "What song is this lyric from: Yeah, so when you want some, boy, come get it",
+    answer: "To The Moon",
+    options: [
+      "Forget How To Love",
+      "Love On Hold",
+      "To The Moon",
+      "I Get It",
+    ]
+  },
+  {
+    numb: 982,
+    question: "What song is this lyric from: And doing what they said I could not do (uh-huh)",
+    answer: "I wanna Thank Me",
+    options: [
+      "Forget How To Love",
+      "Love On Hold",
+      "I Get It",
+      "I wanna Thank Me",
+    ]
+  },
+  {
+    numb: 983,
+    question: "What song is this lyric from: Who could be my always? (Who could be my -?)",
+    answer: "Crowded Room",
+    options: [
+      "Forget How To Love",
+      "Crowded Room",
+      "Hate It here",
+      "I Get It",
+    ]
+  },
+  {
+    numb: 984,
+    question: "What song is this lyric from: Ran around and then you got caught (bum, bum-bum-bum-bum-bum)",
+    answer: "Whoops",
+    options: [
+      "Whoops",
+      "Rollin'",
+      "Love On Hold",
+      "Bite Me",
+    ]
+  },
+  {
+    numb: 985,
+    question: "What song is this lyric from: I've been goin' on dates (goin' on dates) with nobody else (oh no)",
+    answer: "Crushin'",
+    options: [
+      "I Get iT",
+      "Rollin'",
+      "Hate it Here",
+      "Crushin'",
+    ]
+  },
+  {
+    numb: 986,
+    question: "What song is this lyric from:Come be my baby, I don't know what you're waitin' for",
+    answer: "Love On Hold'",
+    options: [
+      "Love On Hold",
+      "Doin' It All For You'",
+      "Forget How To Love",
+      "Timeless",
+    ]
+  },
+  {
+    numb: 987,
+    question: "What song is this lyric from: I'm tryna find a way back, you make it so damn hard (oh)",
+    answer: "Forget How To Love",
+    options: [
+      "Booty",
+      "Bestie",
+      "Forget How To Love",
+      "Bite Me",
+    ]
+  },
+  {
+    numb: 988,
+    question: "What song is this lyric from: I see his lips move, but they ain't sayin' nothin (hey), nah (nah, nah)",
+    answer: "Rollin'",
+    options: [
+      "Timeless",
+      "Make A Move",
+      "Criminals",
+      "Rollin'",
+    ]
+  },
+  {
+    numb: 989,
+    question: "What song is this lyric from: I see you lying through your teeth",
+    answer: "I Don't Do Maybe",
+    options: [
+      "Bite Me",
+      "I Don't Do Maybe",
+      "Make A Move",
+      "Bestie",
+    ]
+  },
 ]
