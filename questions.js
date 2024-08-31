@@ -10657,4 +10657,125 @@ let questions = [
       "Mother",
     ]
   },
+  {
+    numb: 966,
+    question: "What song is this lyric from: But have you ever tried to dance in the rain?",
+    answer: "While You're Young",
+    options: [
+      "Remind Me",
+      "While You're Young",
+      "Made You Look",
+      "Grow Up",
+    ]
+  },
+  {
+    numb: 967,
+    question: "What song is this lyric from: If you don't wanna waste all your lotion",
+    answer: "Lucky",
+    options: [
+      "Chicken Little",
+      "Alright",
+      "Lucky",
+      "Mother",
+    ]
+  },
+  {
+    numb: 968,
+    question: "What song is this lyric from: Won't you put on my favorite song, pretend nobody's wrong",
+    answer: "Dance About It",
+    options: [
+      "To The Moon",
+      "Been Like This",
+      "Dance About It",
+      "Crowded Room",
+    ]
+  },
+  {
+    numb: 969,
+    question: "What song is this lyric from: Tell me you'll always stand by me (stand by me)",
+    answer: "Remind Me",
+    options: [
+      "Remind Me",
+      "Mother",
+      "Grow Up",
+      "Made You Look",
+    ]
+  },
+  {
+    numb: 970,
+    question: "What song is this lyric from: 'Cause I'm good growing old with my friend, hmm",
+    answer: "Final Breath",
+    options: [
+      "To The Moon",
+      "Alright",
+      "Final Breath",
+      "Been Like This",
+    ]
+  },
+  {
+    numb: 971,
+    question: "What song is this lyric from: Call up your chiropractor just in case your neck break (ah-ah-ah)",
+    answer: "Made You Look",
+    options: [
+      "Been Like This",
+      "Made You Look",
+      "Grow Up",
+      "Sweet Morning",
+    ]
+  },
+  {
+    numb: 972,
+    question: "What song is this lyric from: 'Cause I'm 'bout to make a scene, double up that sunscreen",
+    answer: "Made You Look",
+    options: [
+      "Whoops",
+      "Made You Look",
+      "Mr Right",
+      "Crowded Room",
+    ]
+  },
+  {
+    numb: 973,
+    question: "What song is this lyric from: ''Cause you got your shit called out by this little lady (my baby)",
+    answer: "Mother",
+    options: [
+      "hate It Here",
+      "Made You Look",
+      "Mother",
+      "I Get It",
+    ]
+  },
+  {
+    numb: 974,
+    question: "What song is this lyric from: Thank you, baby, baby, for all the love you gave me",
+    answer: "Special Delivery",
+    options: [
+      "To The Moon",
+      "Hands On Me",
+      "Special Delivery",
+      "Been Like Thos",
+    ]
+  },
+  {
+    numb: 975,
+    question: "What song is this lyric from: 'Cause we could be in love (in love)",
+    answer: "Grow Up",
+    options: [
+      "Grow Up",
+      "Sweet Morning",
+      "To The Moon",
+      "Whoops",
+    ]
+  },
+  {
+    numb: 976,
+    question: "What song is this lyric from: Convinced it's something that will never show",
+    answer: "Alright",
+    options: [
+      "Bestie",
+      "Forget How To Love",
+      "Crowded Room",
+      "Alright",
+    ]
+  },
 ]
