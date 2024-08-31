@@ -10398,10 +10398,131 @@ let questions = [
     question: "What song is this lyric from: Split second and you disappeared and then I was all alone",
     answer: "Like I'm Gonna Lose you",
     options: [
-      "Bad For Me",
+      "Bad For",
       "What If I",
       "Like I'm Gonna Lose you",
       "Lips are moving",
+    ]
+  },
+  {
+    numb: 943,
+    question: "What song is this lyric from: Well, I might be walking, but it's only 'cause I'm out of breath",
+    answer: "Walkashame",
+    options: [
+      "Walkashame",
+      "No Good For You",
+      "Like I'm Gonna Lose you",
+      "Mr.Almost",
+    ]
+  },
+  {
+    numb: 944,
+    question: "What song is this lyric from: Then consider this an invitation to kiss my ass goodbye",
+    answer: "Title",
+    options: [
+      "Credit",
+      "What If I",
+      "Title",
+      "Bad For Me",
+    ]
+  },
+  {
+    numb: 945,
+    question: "What song is this lyric from: Of course I like you, can't you hear it in my voice?",
+    answer: "Whart If I",
+    options: [
+      "No Good For You",
+      "What If I",
+      "My Selfish Heart",
+      "Bad For Me",
+    ]
+  },
+  {
+    numb: 946,
+    question: "What song is this lyric from: You can buy me diamond earrings and deny-ny-ny",
+    answer: "Lips Are Movin",
+    options: [
+      "Title",
+      "What If I",
+      "Lips Are Movin",
+      "Ocean",
+    ]
+  },
+  {
+    numb: 947,
+    question: "What song is this lyric from: Oh no, he no good, he no good for you",
+    answer: "No Good For You",
+    options: [
+      "No Good For You",
+      "Made You Look",
+      "Shook",
+      "Superman",
+    ]
+  },
+  {
+    numb: 948,
+    question: "What song is this lyric from: No, you ain't the perfect match for me, hey",
+    answer: "Mr.Almost",
+    options: [
+      "Made You Look",
+      "Sensitive",
+      "Title",
+      "Mr.Almost",
+    ]
+  },
+  {
+    numb: 949,
+    question: "What song is this lyric from: When I said goodbye, I wasn't ready, no, woah",
+    answer: "My Sefish Heart",
+    options: [
+      "Rainbow",
+      "My Sefish Heart",
+      "Shook",
+      "Lucky",
+    ]
+  },
+  {
+    numb: 950,
+    question: "What song is this lyric from: When I said goodbye, I wasn't ready, no, woah",
+    answer: "My Sefish Heart",
+    options: [
+      "Superwoman",
+      "My Sefish Heart",
+      "Dance About It",
+      "Drama Queen",
+    ]
+  },
+  {
+    numb: 951,
+    question: "What song is this lyric from: No, you ain't tryna get in my bedding on the very first night",
+    answer: "What If I",
+    options: [
+      "What If I",
+      "Breezy",
+      "Shook",
+      "Lucky",
+    ]
+  },
+  {
+    numb: 952,
+    question: "What song is this lyric from: Like you're some kind of ghost (what, you a ghost?)",
+    answer: "Title",
+    options: [
+      "Final Breath",
+      "Made You Look",
+      "Title",
+      "Alright",
+    ]
+  },
+  {
+    numb: 953,
+    question: "What song is this lyric from: I'm drowning in your love (I'm drowning, I'm drowning)",
+    answer: "Ocean",
+    options: [
+      "Sensitive",
+      "Shook",
+      "Ocean",
+      "Rainbow",
     ]
   },
 ]
