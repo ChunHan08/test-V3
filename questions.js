@@ -10283,4 +10283,125 @@ let questions = [
       "close your eyes",
     ]
   },
+  {
+    numb: 932,
+    question: "What song is this lyric from: So pour a glass and let's drink up all my champagne problems",
+    answer: "Champagne Problems",
+    options: [
+      "Thank You",
+      "Champagne Problems",
+      "Throwback Love",
+      "3am",
+    ]
+  },
+  {
+    numb: 933,
+    question: "What song is this lyric from: You might have a mom, she might be the bomb",
+    answer: "Mom",
+    options: [
+      "Mom",
+      "Goosebumps",
+      "Close You Eyes",
+      "Bang Dem Sticks",
+    ]
+  },
+  {
+    numb: 934,
+    question: "What song is this lyric from: And that's the only friends I need",
+    answer: "Friends",
+    options: [
+      "Walkashame",
+      "Friends",
+      "Throwback Love",
+      "Thank You",
+    ]
+  },
+  {
+    numb: 935,
+    question: "What song is this lyric from: You keep me humble, keep me focused everyday",
+    answer: "Thank You",
+    options: [
+      "Title",
+      "What If I",
+      "Close Your Eyes",
+      "Thank You",
+    ]
+  },
+  {
+    numb: 936,
+    question: "What song is this lyric from: I get weak, wanna die when you look me in the eye",
+    answer: "Goosebumps",
+    options: [
+      "Title",
+      "My Selfish Heart",
+      "Goosebumps",
+      "Credit",
+    ]
+  },
+  {
+    numb: 937,
+    question: "What song is this lyric from: What I need (what she need) is your respect (your respect)",
+    answer: "Throwback Love",
+    options: [
+      "What If I",
+      "Ocean",
+      "Credit",
+      "Throwback Love",
+    ]
+  },
+  {
+    numb: 938,
+    question: "What song is this lyric from: She says, Boys like a little more booty to hold at night",
+    answer: "All About That Bass",
+    options: [
+      "Close Your Eyes",
+      "All About That Bass",
+      "Title",
+      "Lips are moving",
+    ]
+  },
+  {
+    numb: 939,
+    question: "What song is this lyric from: 'Cause if you'll treat me right, I'll be the perfect wife",
+    answer: "Dear Future Husband",
+    options: [
+      "Credit",
+      "Dear Future Husband",
+      "My Selfish Heart",
+      "Bad For Me",
+    ]
+  },
+  {
+    numb: 940,
+    question: "What song is this lyric from: I guess I could waste all my time and my money just tryna look right",
+    answer: "Close Your Eyes",
+    options: [
+      "Close Your Eyes",
+      "3am",
+      "title",
+      "Lips Are Movin",
+    ]
+  },
+  {
+    numb: 941,
+    question: "What song is this lyric from: Baby, you know I'm the one that should be loving you",
+    answer: "3am",
+    options: [
+      "Title",
+      "3am",
+      "Mr. Almost",
+      "Credit",
+    ]
+  },
+  {
+    numb: 942,
+    question: "What song is this lyric from: Split second and you disappeared and then I was all alone",
+    answer: "Like I'm Gonna Lose you",
+    options: [
+      "Bad For Me",
+      "What If I",
+      "Like I'm Gonna Lose you",
+      "Lips are moving",
+    ]
+  },
 ]
