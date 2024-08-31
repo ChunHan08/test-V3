@@ -9788,4 +9788,125 @@ let questions = [
       "Someday",
     ]
   },
+  {
+    numb: 887,
+    question: "What song is this lyric from: And it's stupid and foolish the way we've been behavin'",
+    answer: "Let You Be Right",
+    options: [
+      "painkiller",
+      "All The Ways",
+      "Treat Myself",
+      "Let You Be Right",
+    ]
+  },
+  {
+    numb: 888,
+    question: "What song is this lyric from: Keep on kissing that guy that's not my type",
+    answer: "Normal",
+    options: [
+      "Can't Dance",
+      "More Than Freinds",
+      "Normal",
+      "Let You Be Right",
+    ]
+  },
+  {
+    numb: 889,
+    question: "What song is this lyric from: 'Cause I lost myself, I forgot myself, and I don't deserve it",
+    answer: "Treat Myself",
+    options: [
+      "Can't Dance",
+      "No Excuses",
+      "Treat Myself",
+      "Better When I'm Dancing",
+    ]
+  },
+  {
+    numb: 890,
+    question: "What song is this lyric from: You can fix my broken heart, if it's all yours",
+    answer: "More Than Freinds",
+    options: [
+      "Can't Dance",
+      "More Than Freinds",
+      "No Excuses",
+      "I'm a Lady",
+    ]
+  },
+  {
+    numb: 891,
+    question: "What song is this lyric from: If you love me, love me, love me like you say",
+    answer: "All The Ways",
+    options: [
+      "Can't Dance",
+      "Good To Be Alive",
+      "All The Ways",
+      "Title",
+    ]
+  },
+  {
+    numb: 892,
+    question: "What song is this lyric from: I'm 'bout to kiss and make it better",
+    answer: "Painkiller",
+    options: [
+      "Can't Dance",
+      "Lips Are Moving",
+      "Title",
+      "Painkiller",
+    ]
+  },
+  {
+    numb: 893,
+    question: "What song is this lyric from: With all the nonsense on your mind, no",
+    answer: "Brave Honest",
+    options: [
+      "No",
+      "Lips Are Moving",
+      "Brave Honest",
+      "Marving Gaye",
+    ]
+  },
+  {
+    numb: 894,
+    question: "What song is this lyric from: You ready for change, better act on it",
+    answer: "Forgive Me Father",
+    options: [
+      "Forgive Me Father",
+      "Let You Be Right",
+      "Brave Honest",
+      "no Excuses",
+    ]
+  },
+  {
+    numb: 895,
+    question: "What song is this lyric from: I said, That's fine, just keep in time and show off what you got",
+    answer: "Can't Dance",
+    options: [
+      "All About That Bass",
+      "Better When I'm Dancing",
+      "Can't Dance",
+      "no Excuses",
+    ]
+  },
+  {
+    numb: 896,
+    question: "What song is this lyric from: Someday maybe when we're old and grey",
+    answer: "Someday",
+    options: [
+      "Don't Stop",
+      "Someday",
+      "good To Be Alive",
+      "Me Too",
+    ]
+  },
+  {
+    numb: 897,
+    question: "What song is this lyric from: When you know that you're wrong, you're wrong",
+    answer: "Let You Be Right",
+    options: [
+      "Woman Up",
+      "Let You Be Right",
+      "better",
+      "I Love Me",
+    ]
+  },
 ]
