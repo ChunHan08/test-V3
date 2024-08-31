@@ -10525,4 +10525,136 @@ let questions = [
       "Rainbow",
     ]
   },
+  {
+    numb: 954,
+    question: "What song is this lyric from: She loves love notes and babies and likes giving gifts",
+    answer: "If You Love Her",
+    options: [
+      "If You Love Her",
+      "Make You Look",
+      "Takin' It Back",
+      "Superwoman",
+    ]
+  },
+  {
+    numb: 955,
+    question: "What song is this lyric from: And my, my therapist told me to write you a letter, hmm, hmm",
+    answer: "Bad For Me",
+    options: [
+      "Sensitive",
+      "Bad For Me",
+      "Shook",
+      "Superwoman",
+    ]
+  },
+  {
+    numb: 956,
+    question: "What song is this lyric from: I'm good at keeping my cool (good at keeping my cool)",
+    answer: "Don't I Make It Look Easy",
+    options: [
+      "Mama Wanna",
+      "Bad For Me",
+      "Superman",
+      "Don't I Make It Look Easy",
+    ]
+  },
+  {
+    numb: 957,
+    question: "What song is this lyric from: If you don't know what you did (don't know what you did)",
+    answer: "Sensitive",
+    options: [
+      "Shook",
+      "Rainbow",
+      "Sensitive",
+      "Breezy",
+    ]
+  },
+  {
+    numb: 958,
+    question: "What song is this lyric from: This ain't that ordinary, it's that 14 karat cake",
+    answer: "Made You Look",
+    options: [
+      "Dance About It",
+      "Rainbow",
+      "Lucky",
+      "Made You Look",
+    ]
+  },
+  {
+    numb: 959,
+    question: "What song is this lyric from: Kinda makes you wanna move, oh, baby (makes you, makes you, makes you move)",
+    answer: "Takin`It Back",
+    options: [
+      "Drama Queen",
+      "Takin`It Back",
+      "Remind Me",
+      "Made You Look",
+    ]
+  },
+  {
+    numb: 960,
+    question: "What song is this lyric from: Baby, I got you shook (hey), got you shook, got you shook (woo)",
+    answer: "Shook",
+    options: [
+      "Shook",
+      "Final Breath",
+      "Mother",
+      "Alright",
+    ]
+  },
+  {
+    numb: 961,
+    question: "What song is this lyric from: I'm not quite exactly who I wanna be, hmm-mm",
+    answer: "Superwoman",
+    options: [
+      "Remind Me",
+      "While You're Young",
+      "Superwoman",
+      "Lucky",
+    ]
+  },
+  {
+    numb: 962,
+    question: "What song is this lyric from: Come on out once the rain goes, oh (rain goes)",
+    answer: "Rainbow",
+    options: [
+      "Final Breath",
+      "While You're Young",
+      "Made You Look",
+      "Rainbow",
+    ]
+  },
+  {
+    numb: 963,
+    question: "What song is this lyric from: Be patient and watch as they pass you by",
+    answer: "Breezy",
+    options: [
+      "Lucky",
+      "Remind Me",
+      "Dance About It",
+      "Breezy",
+    ]
+  },
+  {
+    numb: 964,
+    question: "What song is this lyric from: I've been running, running 'round and around",
+    answer: "Mama Wanna Mambo",
+    options: [
+      "Special Delivery",
+      "Final Breath",
+      "Mother",
+      "Mama Wanna Mambo",
+    ]
+  },
+  {
+    numb: 965,
+    question: "What song is this lyric from: So won't you love me, love me, love me, and give me loyalty (gimme, gimme)",
+    answer: "Drama Queen",
+    options: [
+      "Drama Queen",
+      "Made You Look",
+      "Remind Me",
+      "Mother",
+    ]
+  },
 ]
