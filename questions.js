@@ -9667,4 +9667,125 @@ let questions = [
       "Boys Like You",
     ]
   },
+  {
+    numb: 876,
+    question: "What song is this lyric from: And just 'cause you're hurting don't mean you get to hurt me",
+    answer: "Hurt Me",
+    options: [
+      "Hurt Me",
+      "Foolish",
+      "Marry Me",
+      "Normal",
+    ]
+  },
+  {
+    numb: 877,
+    question: "What song is this lyric from: I'ma need a better reason to be wastin' my time",
+    answer: "With You",
+    options: [
+      "Just Go Paid",
+      "With You",
+      "Marry Me",
+      "Treat Myself",
+    ]
+  },
+  {
+    numb: 878,
+    question: "What song is this lyric from: And I'm way stronger than I ever been before",
+    answer: "Badass Woman",
+    options: [
+      "Marry Me",
+      "With You",
+      "Badass Woman",
+      "I'm Down",
+    ]
+  },
+  {
+    numb: 879,
+    question: "What song is this lyric from: I wanna make a real dream come true with you",
+    answer: "Good Mornin'",
+    options: [
+      "Hey DJ",
+      "Good Mornin'",
+      "Boys Like You",
+      "I'm Down",
+    ]
+  },
+  {
+    numb: 880,
+    question: "What song is this lyric from: And I knew, I knew, I knew, I knew, I knew",
+    answer: "Foolish",
+    options: [
+      "Foolish",
+      "Let You Be Right",
+      "Just Got Paid",
+      "Painkiller",
+    ]
+  },
+  {
+    numb: 881,
+    question: "What song is this lyric from: I don't wanna give my heart to someone new",
+    answer: "After You",
+    options: [
+      "Normal",
+      "Let You Be Right",
+      "After You",
+      "Brave Honest",
+    ]
+  },
+  {
+    numb: 882,
+    question: "What song is this lyric from: We crossed the lovers line?",
+    answer: "I'm Down",
+    options: [
+      "No Excuses",
+      "All The Ways",
+      "I'm Down",
+      "Title",
+    ]
+  },
+  {
+    numb: 883,
+    question: "What song is this lyric from: Yeah, they say, keep your heart safe",
+    answer: "Marry Me",
+    options: [
+      "No Excuses",
+      "Let You Be Right",
+      "Can't Dance",
+      "Marry Me",
+    ]
+  },
+  {
+    numb: 884,
+    question: "What song is this lyric from: Oh, it might be wrong, might be the time of your life",
+    answer: "Boys Like You",
+    options: [
+      "Brave Honest",
+      "Someday",
+      "Boys Like You",
+      "Marry Me",
+    ]
+  },
+  {
+    numb: 885,
+    question: "What song is this lyric from: Gotta see her moving, got to keep dancing",
+    answer: "Hey DJ",
+    options: [
+      "Brave Honest",
+      "Hey DJ",
+      "Boys Like You",
+      "Treat Myself",
+    ]
+  },
+  {
+    numb: 886,
+    question: "What song is this lyric from: I know I drink too much, can't pay my rent this month",
+    answer: "Just Got Paid",
+    options: [
+      "Just Got Paid",
+      "All The Ways",
+      "Forgive Me Father",
+      "Someday",
+    ]
+  },
 ]
