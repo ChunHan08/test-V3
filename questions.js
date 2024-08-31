@@ -9909,4 +9909,136 @@ let questions = [
       "I Love Me",
     ]
   },
+  {
+    numb: 898,
+    question: "What song is this lyric from: Who's gonna stop us waltzinf Back into rekindled flames",
+    answer: "loml",
+    options: [
+      "loml",
+      "imgonnagetyourback",
+      "Guilty As Sin",
+      "Clara Bow",
+    ]
+  },
+  {
+    numb: 899,
+    question: "What song is this lyric from: There in her glittering prime",
+    answer: "I can do it with a broken heart",
+    options: [
+      "I can do it with a broken heart",
+      "The Black Dog",
+      "Fortnight",
+      "Down Bad",
+    ]
+  },
+  {
+    numb: 900,
+    question: "What song is this lyric from: You tried to buy some pills",
+    answer: "The Smallest Man Who Ever Lived",
+    options: [
+      "Chole or sam or sophia or marcus",
+      "The Smallest Man Who Ever Lived",
+      "I look in people's Windows",
+      "ThanK you aImee",
+    ]
+  },
+  {
+    numb: 901,
+    question: "What song is this lyric from: The hospital was a drag",
+    answer: "The Alchemy",
+    options: [
+      "I hate it here",
+      "The prophecy",
+      "The Alchemy",
+      "ThanK you aImee",
+    ]
+  },
+  {
+    numb: 902,
+    question: "What song is this lyric from: But i think I ight die if it happend",
+    answer: "TClara Bow",
+    options: [
+      "Clara Bow",
+      "Peter",
+      "I look in people's Windows",
+      "So high school",
+    ]
+  },
+  {
+    numb: 903,
+    question: "What song is this lyric from: You hsared secrets with And you location",
+    answer: "The Black Dog",
+    options: [
+      "Chole or sam or sophia or marcus",
+      "The Bolter",
+      "The Black dog",
+      "I hate it here",
+    ]
+  },
+  {
+    numb: 904,
+    question: "What song is this lyric from: Did you research you knew the price going in",
+    answer: "Imgonnagetyouback",
+    options: [
+      "Peter",
+      "The Smallest Man Who Ever Lived",
+      "I look in people's Windows",
+      "Imgonnagetyouback",
+    ]
+  },
+  {
+    numb: 905,
+    question: "What song is this lyric from: I swept in at the rescue",
+    answer: "The Albatross",
+    options: [
+      "The Albatross",
+      "How Did It End",
+      "I look in people's Windows",
+      "The Prophecy",
+    ]
+  },
+  {
+    numb: 906,
+    question: "What song is this lyric from: Chloe or Sam or Sophia or Marcus",
+    answer: "",
+    options: [
+      "I Hate It Here",
+      "Peter",
+      "Chole or Sam or Sophia or Marcus",
+      "Fortnight",
+    ]
+  },
+  {
+    numb: 907,
+    question: "What song is this lyric from: it happened again",
+    answer: "How Did It End?",
+    options: [
+      "How Did It End?",
+      "I look in people's Windows",
+      "I hate it here",
+      "The Prophecy",
+    ]
+  },
+  {
+    numb: 908,
+    question: "What song is this lyric from: The brink of a wrinkle in time",
+    answer: "So High School",
+    options: [
+      "SO High School",
+      "loml",
+      "The Black Dog",
+      "Down Bad",
+    ]
+  },
+  {
+    numb: 909,
+    question: "What song is this lyric from: Tell me all your secrets",
+    answer: "I Hate It Here",
+    options: [
+      "The Smallest Man Who Ever Lived",
+      "I Hate It Here",
+      "The Black Dog",
+      "Fortnight",
+    ]
+  },
 ]
