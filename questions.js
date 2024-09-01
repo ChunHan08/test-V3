@@ -11207,4 +11207,136 @@ let questions = [
       "Take Me Along",
     ]
   },
+  {
+    numb: 1016,
+    question: "What song is this lyric from: Every guy everywhere just gives me mad attention",
+    answer: "Can't Be Tamed",
+    options: [
+      "Goodbye",
+      "7 Things",
+      "Can't Be Tamed",
+      "Nothing To Lose",
+    ]
+  },
+  {
+    numb: 1017,
+    question: "What song is this lyric from: Hear the DJ say love's a game of easy come and easy go",
+    answer: "Every Rose Has Its Thorn",
+    options: [
+      "Robot",
+      "Every Rose Has Its Thorn",
+      "Scars",
+      "Love Money Party",
+    ]
+  },
+  {
+    numb: 1018,
+    question: "What song is this lyric from: And there's two more lonely people in the world, tonight",
+    answer: "Two More Lonely People",
+    options: [
+      "Forgiveness and Love",
+      "SMS",
+      "Two More Lonely People",
+      "My Darlin'",
+    ]
+  },
+  {
+    numb: 1019,
+    question: "What song is this lyric from: Are the acts of forgiveness and love",
+    answer: "Forgiveness And Love",
+    options: [
+      "Forgiveness And Love",
+      "4X4",
+      "Robot",
+      "Drive",
+    ]
+  },
+  {
+    numb: 1020,
+    question: "What song is this lyric from: Some got money, some got fame, some got cars and the clothes",
+    answer: "Permanent December",
+    options: [
+      "Someones Else",
+      "4X4",
+      "Permanent December",
+      "FU",
+    ]
+  },
+  {
+    numb: 1021,
+    question: "What song is this lyric from: I'm lost here in this moment and time keeps slipping by",
+    answer: "Stay",
+    options: [
+      "Do My Thang",
+      "Drive",
+      "Love Money Party",
+      "Stay",
+    ]
+  },
+  {
+    numb: 1022,
+    question: "What song is this lyric from: And what we were and what we are",
+    answer: "Scars",
+    options: [
+      "Karen Don't Be Sad",
+      "Drive",
+      "Scars",
+      "Somone Else",
+    ]
+  },
+  {
+    numb: 1023,
+    question: "What song is this lyric from: Just rust and metal that was never even mine",
+    answer: "Robot",
+    options: [
+      "Robot",
+      "I Get So Sacred",
+      "Cyrus Skies",
+      "7 Things",
+    ]
+  },
+  {
+    numb: 1024,
+    question: "What song is this lyric from: We be struttin' that stuff, that stuff, that stuff (bangerz)",
+    answer: "SMS",
+    options: [
+      "Love Money Party",
+      "#GETITRIGHT",
+      "Drive",
+      "SMS",
+    ]
+  },
+  {
+    numb: 1025,
+    question: "What song is this lyric from: I'ma do whatever to get him his bail",
+    answer: "4x4",
+    options: [
+      "FU",
+      "#GETITRIGHT",
+      "4x4",
+      "Do My Thang",
+    ]
+  },
+  {
+    numb: 1026,
+    question: "What song is this lyric from: When I seen the shadow of a broken-hearted girl",
+    answer: "My Darlin'",
+    options: [
+      "On My Own",
+      "Rainbowland",
+      "My Darlin'",
+      "Hands in the Air",
+    ]
+  },
+  {
+    numb: 1027,
+    question: "What song is this lyric from: When you learn how to love, it ain't nothing but love",
+    answer: "Love Money Party",
+    options: [
+      "On My Own",
+      "Love Money Party",
+      "Maybe You Right",
+      "Rotting for my Baby",
+    ]
+  },
 ]
