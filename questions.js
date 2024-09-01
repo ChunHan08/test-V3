@@ -11339,4 +11339,136 @@ let questions = [
       "Rotting for my Baby",
     ]
   },
+  {
+    numb: 1028,
+    question: "What song is this lyric from: I'm dancing to the sound of my words in the crowd",
+    answer: "Hands In The Air",
+    options: [
+      "Wercking Ball",
+      "I Get So Scared",
+      "Hands In The Air",
+      "Cyrus Skies",
+    ]
+    },
+    {
+    numb: 1029,
+    question: "What song is this lyric from: You know you're only letting them win",
+    answer: "Karen Don't Be Sad",
+    options: [
+      "Wake Up America",
+      "Dream",
+      "Bad Mood",
+      "The Driveway",
+    ]
+    },
+    {
+    numb: 1030,
+    question: "What song is this lyric from: Growing up and falling in love and mamas smiled",
+    answer: "Mary's Song(Oh MY My My)",
+    options: [
+      "Mary's Song(Oh MY My My)",
+      "The Outside",
+      "A place in this world",
+      "Cold As You",
+    ]
+    },
+    {
+    numb: 1031,
+    question: "What song is this lyric from: I look around, turn the radio down",
+    answer: "Our Song",
+    options: [
+      "Our Song",
+      "Stay Beautiful",
+      "Marys song",
+      "Cold As You",
+    ]
+    },
+    {
+    numb: 1032,
+    question: "What song is this lyric from: Just listen to the crickets sing",
+    answer: "I'm Only Me When I'm With You",
+    options: [
+      "Invisible",
+      "I'm Only Me When I'm With You",
+      "Our Song",
+      "Tear Drops on my Guitar",
+    ]
+    },
+    {
+    numb: 1033,
+    question: "What song is this lyric from: she can't see the way your eyes",
+    answer: "Invisible",
+    options: [
+      "Invisible",
+      "Cold As You",
+      "Picture To Burn",
+      "The Outside",
+    ]
+    },
+    {
+    numb: 1034,
+    question: "What song is this lyric from: Why would you wanna make the very first scar?",
+    answer: "A Perfectly Good Heart",
+    options: [
+      "A Place In this World",
+      "Mary's Song",
+      "A Perfectly Good Heart",
+      "Tied Together With a smile",
+    ]
+    },
+    {
+    numb: 1035,
+    question: "What song is this lyric from: I was supposed to be sent away",
+    answer: "Fortnight",
+    options: [
+      "Down Bad",
+      "Fortnight",
+      "Peter",
+      "Guilty As Sin",
+    ]
+    },
+    {
+    numb: 1036,
+    question: "What song is this lyric from: And when you talk about your dreams I'm never included",
+    answer: "On My Head",
+    options: [
+      "The Big Bang",
+      "Fly On The Wall",
+      "I Get So Scared",
+      "On My Head",
+    ]
+    },
+    {
+    numb: 1037,
+    question: "What song is this lyric from: So you roll up your sleeves and you sweat and breathe",
+    answer: "Rooting For My Baby",
+    options: [
+      "Rooting For My Baby",
+      "Karen Don't Be Sad",
+      "I Get So Scared",
+      "7 Things",
+    ]
+    },
+    {
+    numb: 1038,
+    question: "What song is this lyric from: If you're trying to find pity well you need to look somewhere else",
+    answer: "Someone Else",
+    options: [
+      "On My Head",
+      "Someone Else",
+      "Cyrus Skies",
+      "Hands In the air",
+    ]
+    },
+    {
+      numb: 1039,
+      question: "What song is this lyric from: The time that it takes for love to effect a person",
+      answer: "The Floyd Song",
+      options: [
+        "Miss You So Much",
+        "Someone Else",
+        "Goodbye",
+        "The Floyd Song",
+      ]
+      },
 ]
