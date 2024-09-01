@@ -11064,4 +11064,147 @@ let questions = [
       "Genetics",
     ]
   },
+  {
+    numb: 1003,
+    question: "What song is this lyric from: I need to rock you, baby, before your body bursts",
+    answer: "Doctor",
+    options: [
+      "Doctor",
+      "Wrecking Ball",
+      "Adore You",
+      "When I Look AT You",
+    ]
+  },
+  {
+    numb: 1004,
+    question: "What song is this lyric from: It's our party, we can do what we want",
+    answer: "We Can't Stop",
+    options: [
+      "Talk is cheap",
+      "The TIme Of Our Lives",
+      "We Can't Stop",
+      "When I Look AT You",
+    ]
+  },
+  {
+    numb: 1005,
+    question: "What song is this lyric from: Jumped in the cab, here I am for the first time",
+    answer: "Party In The U.S.A.",
+    options: [
+      "The Climb",
+      "The TIme Of Our Lives",
+      "Party In The U.S.A.",
+      "Obsessed",
+    ]
+  },
+  {
+    numb: 1006,
+    question: "What song is this lyric from: All I wanted was to break your walls",
+    answer: "Wrecking Ball",
+    options: [
+      "Liberty Walk",
+      "Can't Be Tamed",
+      "Talk Is Cheap",
+      "Wrecking Ball",
+    ]
+  },
+  {
+    numb: 1007,
+    question: "What song is this lyric from: I feel like I'm standing with an army of men",
+    answer: "Adore You",
+    options: [
+      "The Climb",
+      "Can't Be Tamed",
+      "Adore You",
+      "Can't Be Tamed",
+    ]
+  },
+  {
+    numb: 1008,
+    question: "What song is this lyric from: When there's no light to break up the dark",
+    answer: "When I Look At You",
+    options: [
+      "The Climb",
+      "every Rose Has Its Thorn",
+      "When I Look At You",
+      "Obsessed",
+    ]
+  },
+  {
+    numb: 1009,
+    question: "What song is this lyric from: And I'm there as long as we're together",
+    answer: "The Time Of Our Lives",
+    options: [
+      "Liberty Walk",
+      "every Rose Has Its Thorn",
+      "The Time Of Our Lives",
+      "Who wonds My Heart",
+    ]
+  },
+  {
+    numb: 1010,
+    question: "What song is this lyric from: I get up, I get out, drive my car way down town",
+    answer: "Talk Is Cheap",
+    options: [
+      "Robot",
+      "Scars",
+      "Stay",
+      "Talk Is Cheap",
+    ]
+  },
+  {
+    numb: 1011,
+    question: "What song is this lyric from: Everytime I close my eys, I see your face",
+    answer: "Obsessed",
+    options: [
+      "Obsessed",
+      "Love Money Party",
+      "Scars",
+      "Someone Else",
+    ]
+  },
+  {
+    numb: 1012,
+    question: "What song is this lyric from: Like I did before the storm (wanna shout everybody)",
+    answer: "Before The Storm",
+    options: [
+      "The climb",
+      "Can't Be Tamed",
+      "Before The Storm",
+      "robot",
+    ]
+  },
+  {
+    numb: 1013,
+    question: "What song is this lyric from: There's always gonna be another mountain",
+    answer: "The Climb",
+    options: [
+      "The Climb",
+      "Do My Thang",
+      "Drive",
+      "I Get So Scared",
+    ]
+  },
+  {
+    numb: 1014,
+    question: "What song is this lyric from: Give you nothing more better than to make you crack",
+    answer: "Liberty Walk",
+    options: [
+      "These Four Walls",
+      "Liberty Walk",
+      "7 Things",
+      "Cyrus Skies",
+    ]
+  },
+  {
+    numb: 1015,
+    question: "What song is this lyric from: 'Cause the way you got your body moving",
+    answer: "Who Owns My Heart",
+    options: [
+      "The Big Bang",
+      "Who Owns My Heart",
+      "Come Get It Bae",
+      "Take Me Along",
+    ]
+  },
 ]
